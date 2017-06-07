@@ -239,7 +239,7 @@ Serbische Bohnensuppe (vegetarisch)
   250 g     Weiße Bohnen (getrocknet, über Nacht eingeweicht)
     1 Bund  Suppengrün
   250 g     Zwiebeln
-  1-2       Knoblauchzehe
+  1-2       Knoblauchzehen
   250 g     Kartoffeln
     1 EL    Olivenöl
   1/2 TL    Salz
