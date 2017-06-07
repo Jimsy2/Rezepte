@@ -224,9 +224,7 @@ Zwiebel klein schneiden und in Öl anschwitzen. Tomatenmark,Curry,Cumin und Papr
 
 Die Suppe 20 Minuten lang siedend kochen. Dabei mehrmals umrühren und darauf achten, dass nichts am Boden festbrennt. Danach die Kochsahne dazugeben und alles mit Gemüsebrühe abschmecken.<br><br>
 
-<address>
-<a href="http://www.nw-news.de/magazin/made_in_owl/7014997_Helmut_Butterbrodt_kocht_rote_Linsensuppe_mit_Curry.html">quelle</a>
-</address>
+Quelle: NW-News
 
 
 <br><hr><br>
