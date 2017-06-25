@@ -27,7 +27,7 @@ Bandnudeln mit Spargelragout und Knusperlachs
 Lachsfilet über Nacht im Kühlschrank auftauen lassen.
 
 1. **Für das Spargelragout**: Spargel waschen und das untere Drittel jeder Spargelstange schälen. Zitrone auspressen. Den Spargel in kochendes Salzwasser mit dem Zitronensaft ca. 5 Minuten garen. In ein Sieb abgießen, dabei 100 ml Spargelwasser auffangen und bereitstellen. Den Spargel mit kaltem Wasser abschrecken.
-2. Zwiebeln schälen und fein würfeln, in Butter glasig anschwitzen, ein Esslöffel Mehl zugeben und mitdünsten. Mit Brühe, Schmand und den Spargel Wasser aufgießen, für ca. 10 Minuten köcheln lassen. Zitronensaft und Muskat zugeben, weitere 5 Minuten köcheln lassen.
+2. Zwiebeln schälen und fein würfeln, in Butter glasig anschwitzen, ein Esslöffel Mehl zugeben und mitdünsten. Mit Brühe, Schmand und dem Spargelwasser aufgießen, für ca. 10 Minuten köcheln lassen. Zitronensaft und Muskat zugeben, weitere 5 Minuten köcheln lassen.
 3. Soße pürieren, Spargel in 2 cm lange Stücke schneiden und zugeben. Das Ragout warm zur Seite stellen. 
 4. **Für den Knusperlachs**: Drei kleine Schüsseln bereitstellen. In der ersten Schüssel Eier verquirlen. In die zweite Schüssel drei Esslöffel Mehl geben. Cornflakes mit den Händen verreiben und in die dritte Schüssel geben.
 5. Die Lachsfilets mit Salz, Pfeffer und einem Spritzer Zitronensaft würzen. Anschließend erst in Mehl, dann in Ei und zuletzt in Cornflakes wälzen.
