@@ -15,7 +15,7 @@ Bandnudeln mit Spargelragout und Knusperlachs
    1 EL    Zitronensaft
    1 Prise Muskatnuss
    2       Eier
- 100 g     Cornflake
+ 100 g     Cornflakes
            Salz, Pfeffer
    8 EL    Sonnenblumenöl
  500 g     Bandnudeln
