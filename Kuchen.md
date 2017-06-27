@@ -1,4 +1,4 @@
-## Kuchen-Rezepte
+## Kuchen
 
 1. dm-Möhrchenkuchen
 
