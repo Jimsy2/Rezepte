@@ -8,12 +8,14 @@
 Aloo Gobi Tomater
 =================
 
+<img align='right' width='50%' src="https://jimsy2.github.io/Kochen-und-Backen/Bilder/Alu-Gobi-Tomater.jpg">
+
 ### Zutaten
 
 ```
   1 kleiner Blumenkohl
   4 Kartoffeln
-400 g Tomaten (z.B. 1 Dose Pizzatomaten)
+400 g Tomaten (z.B. Dose Pizzatomaten)
   2 EL  Olivenöl
   1 gestr. EL Kreuzkümmel (Cumin)
   1 gestr. EL Garam Masala
