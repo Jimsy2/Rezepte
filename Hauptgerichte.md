@@ -4,9 +4,8 @@ Inhaltsverzeichnis
 1. [Aloo Gobi Tomater](#aloo-gobi-tomater)
 1. [Eier in Senfsoße](#eier-in-senfsoße)
 
-
-<br><hr><br>
-
+  
+  
 
 Aloo Gobi Tomater
 -----------------
@@ -28,7 +27,6 @@ Aloo Gobi Tomater
 dazu Basmati-Reis
 ```
 
-
 ### Zubereitung
 
 Kartoffeln schälen. Wenn man gute Frühkartoffeln hat, diese unter Wasser sauber bürsten. In 2 bis 3 cm große Stücke schneiden. Blumenkohl waschen und Röschen in gleicher Größe abtrennen. Wenn man frische Tomaten hat, ebenfalls waschen und in Stücke schneiden.
@@ -37,9 +35,8 @@ Kartoffeln schälen. Wenn man gute Frühkartoffeln hat, diese unter Wasser saube
 
 Tomaten dazugeben, mit Muskat und Salz würzen und gut vermischen. Kartoffel und Blumenkohl dazugeben, umrühren. Mit Deckel köcheln lassen bis alles gar ist. Gelegentlich umrühren.
 
-
-<br><hr><br>
-
+  
+  
 
 Eier in Senfsoße
 ----------------
