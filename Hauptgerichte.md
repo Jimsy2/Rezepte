@@ -1,14 +1,12 @@
-Inhaltsverzeichnis 
-==================
+## Inhaltsverzeichnis ##
 
 1. [Aloo Gobi Tomater](#aloo-gobi-tomater)
 1. [Eier in Senfsoße](#eier-in-senfsoße)
 
-  
-  
+&nbsp;
 
 Aloo Gobi Tomater
------------------
+=================
 
 ### Zutaten
 
@@ -35,11 +33,10 @@ Kartoffeln schälen. Wenn man gute Frühkartoffeln hat, diese unter Wasser saube
 
 Tomaten dazugeben, mit Muskat und Salz würzen und gut vermischen. Kartoffel und Blumenkohl dazugeben, umrühren. Mit Deckel köcheln lassen bis alles gar ist. Gelegentlich umrühren.
 
-  
-  
+&nbsp;
 
 Eier in Senfsoße
-----------------
+================
 
 **Zutaten** für 3 Personen
 
