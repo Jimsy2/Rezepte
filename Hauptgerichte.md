@@ -12,6 +12,12 @@ Aloo Gobi Tomater
 
 ### Zutaten
 
+| Zutaten | Are     | Zutat  |
+| -------:|:------- |:------ |
+|   1     | kleiner | Blumenkohl |
+|   4     |         | Kartoffeln |
+| 400     | g       | Tomaten (z.B. Pizzatomaten aus der Dose) |
+
 ```
   1 kleiner Blumenkohl
   4 Kartoffeln
