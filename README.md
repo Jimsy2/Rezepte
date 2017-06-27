@@ -1,5 +1,3 @@
-# Kochen und Backen
+## Dies ist ein Depot für Koch-, Back- und sonstige Rezepte. 
 
-## Just another repository
-
-We recommend including a README, or a file with information about your project. GitHub makes it easy to add one at the same time you create your new repository.
+ - [Hauptgerichte](https://github.com/Jimsy2/Kochen-und-Backen/edit/master/Hauptgerihte.md)
