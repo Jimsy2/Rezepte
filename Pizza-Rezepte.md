@@ -1,11 +1,10 @@
-Pizza-Rezepte
-=============
+## Pizza
 
 1. [Pizzateig a la Dirk](#pizzateig-a-la-dirk)
 1. [Dinkel-Vollkorn-Pizzateig a la Dirk](#dinkel-vollkorn-pizzateig-a-la-dirk)
 
 
-<br><hr><br>
+&nbsp;
 
 
 Pizzateig a la Dirk
@@ -29,7 +28,7 @@ Pizzateig a la Dirk
 1. Wenn der Teig sein Volumen in etwa verdoppelt hat noch mal etwas durchkneten (ggf. bemehlen), anschließend ausrollen.
 
 
-<br><hr><br>
+&nbsp;
 
 
 Dinkel-Vollkorn-Pizzateig a la Dirk
