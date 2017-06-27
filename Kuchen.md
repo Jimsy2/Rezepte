@@ -1,14 +1,11 @@
-Kuchen-Rezepte
-==============
+## Kuchen-Rezepte
 
 1. dm-Möhrchenkuchen
 
-
-<br><hr><br>
-
+&nbsp;
 
 dm-Möhrchenkuchen
------------------
+=================
 
 ```
  400 g    Möhren 
@@ -25,3 +22,6 @@ Die Möhren raspeln und mit den restlichen Zutaten zu einem Teig vermengen. Acht
 PS: Da weder Eier noch Milch oder Butter verwendet werden und nur wenige Zutaten in den Kuchen kommen ist er ideal als Geburtstagskuchen für Babys die allergenarm ernährt werden.
 
 Quelle: dm-babybonus
+
+&nbsp;
+
