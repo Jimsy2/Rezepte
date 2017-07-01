@@ -6,7 +6,7 @@ Inhaltsverzeichnis
 1. [Zucchini-Champignonsalat](#zucchini-champignonsalat)
 
 
-<br><hr><br>
+&nbsp;
 
 
 Zucchini-Champignonsalat
