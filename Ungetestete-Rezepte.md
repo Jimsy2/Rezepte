@@ -4,7 +4,7 @@ ungetestet
 Inhaltsverzeichnis
 
 1. [Kartoffel-Lauch-Suppe](#Kartoffel-Lauch-Suppe)
-2. [Bandnudeln mit Spargelragout und Knusperlachs](#Bandnudeln_mit_Spargelragout_und_Knusperlachs)
+2. [Bandnudeln mit Spargelragout und Knusperlachs](#bandnudeln-mit-spargelragout-und-knusperlachs)
 
 &nbsp;
 
