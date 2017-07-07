@@ -19,7 +19,7 @@ Zucchini-Champignonsalat
  * 100 g  _**Karotten**_ schälen und reiben,  
  * 1 kleine _**Zwiebel**_ würfeln.  
 
-<u>**Dressing**</u>
+<u><b>Dressing</b></u>
 
  * 4 EL    _**Olivenöl**_ 
  * 1 Prise _**Cayennepfeffer**_,  
