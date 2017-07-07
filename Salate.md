@@ -28,6 +28,7 @@ Zucchini-Champignonsalat
   
 Mit ganzen _Basilikumblättern_ garnieren.
 
+&nbsp;
 Anmerkungen:
 > mit Knoblauch testen  
 > mit Sesam testen  
