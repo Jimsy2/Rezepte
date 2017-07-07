@@ -26,5 +26,5 @@ Zucchini-Champignonsalat
 > 10 Blätter _**Basilikum**_ (frisch gehackt),  
 > _**Salz**_ gut verrühren und über die gemischten Zutaten verteilen.
   
-Mit ganzen _**Basilikumblättern**_ garnieren.
+Mit ganzen _Basilikumblättern_ garnieren.
 
