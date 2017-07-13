@@ -14,13 +14,14 @@ Pasta mit Oliven, Schafskäse und Tomaten
 **Zutaten** für 2 Portionen
 
 ```
-333 g Nudeln (Fusilli)
-200 g Kirschtomaten
- 20   Oliven, schwarz, ohne Kern 
-150 g Schafskäse
-      Olivenöl, Salz und Pfeffer 
-  2   Zehen Knoblauch 
-      Basilikum, gehackt
+333 g     Nudeln (Fusilli)
+200 g     Kirschtomaten
+ 12 Stück schwarze Oliven (ohne Kern) 
+150 g     Schafskäse
+  3 EL    Olivenöl 
+  2 Zehen Knoblauch 
+          Basilikum (frisch gehackt)
+          Pfeffer
 ```
 
 **Zubereitung**
