@@ -1,11 +1,11 @@
 ungetestet
-======
+----------
 
 Inhaltsverzeichnis
 
 1. [Kartoffel-Lauch-Suppe](#Kartoffel-Lauch-Suppe)
 2. [Bandnudeln mit Spargelragout und Knusperlachs](#bandnudeln-mit-spargelragout-und-knusperlachs)
-3. [Leichte Pasta mit Oliven, Schafskäse und Tomaten](#leichte-pasta-mit-oliven_-schafsk)
+3. [Leichte Pasta mit Oliven, Schafskäse und Tomaten](#leichte-pasta-mit-oliven-schafskäse-und-tomaten)
 
 &nbsp;
 
@@ -84,7 +84,7 @@ Lachsfilet über Nacht im Kühlschrank auftauen lassen.
 &nbsp;
 
 Leichte Pasta mit Oliven, Schafskäse und Tomaten
-=========================================
+------------------------------------------------
 
 ### Zutaten für 3 Portionen
 
