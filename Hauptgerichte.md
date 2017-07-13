@@ -1,4 +1,4 @@
-## Inhaltsverzeichnis ##
+## Hauptgerichte ##
 
 1. [Pasta mit Oliven, Schafskäse und Tomaten](#pasta-mit-oliven-schafskäse-und-tomaten)
 1. [Aloo Gobi Tomater](#aloo-gobi-tomater)
@@ -32,7 +32,7 @@ Die Nudeln in Salzwasser kochen. In der Zwischenzeit Olivenöl in einer großer 
 Aloo Gobi Tomater
 =================
 
-![Bild](https://jimsy2.github.io/Kochen-und-Backen/Bilder/Alu-Gobi-Tomater.jpg)
+<!-- ![Bild](https://jimsy2.github.io/Kochen-und-Backen/Bilder/Alu-Gobi-Tomater.jpg)-->
 
 ### Zutaten
 
