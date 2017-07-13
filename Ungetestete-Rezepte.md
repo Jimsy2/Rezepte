@@ -88,13 +88,15 @@ Leichte Pasta mit Oliven, Schafskäse und Tomaten
 
 **Zutaten** für 3 Portionen
 
-- 500 g Nudeln 
-- 250 g Kirschtomaten
-- Oliven, schwarz, ohne Kerne 
-- 200 g Schafskäse
-- Olivenöl, Salz und Pfeffer 
-- 2 Zehen Knoblauch 
-- Basilikum, gehackt
+```
+500 g Nudeln 
+250 g Kirschtomaten
+      Oliven, schwarz, ohne Kerne 
+200 g Schafskäse
+      Olivenöl, Salz und Pfeffer 
+  2   Zehen Knoblauch 
+      Basilikum, gehackt
+```
 
 **Zubereitung**
 
