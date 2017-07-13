@@ -86,7 +86,7 @@ Lachsfilet über Nacht im Kühlschrank auftauen lassen.
 Leichte Pasta mit Oliven, Schafskäse und Tomaten
 ------------------------------------------------
 
-### Zutaten für 3 Portionen
+**Zutaten** für 3 Portionen
 
 - 500 g Nudeln 
 - 250 g Kirschtomaten
@@ -96,6 +96,6 @@ Leichte Pasta mit Oliven, Schafskäse und Tomaten
 - 2 Zehen Knoblauch 
 - Basilikum, gehackt
 
-### Zubereitung
+**Zubereitung**
 
 Die Nudeln in Salzwasser kochen. In der Zwischenzeit Olivenöl in einer großer Pfanne erhitzen und die halbierten Knoblauchzehen darin anbraten. Tomaten, Schafskäse und Oliven würfeln, bzw. halbieren. Nudeln abtropfen lassen und in die Pfanne geben, umrühren und alle Zutaten dazugeben, vermischen und abschmecken. Kurz durchziehen lassen, so dass alle Zutaten erwärmt sind.
