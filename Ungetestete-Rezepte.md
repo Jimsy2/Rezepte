@@ -5,7 +5,6 @@ Inhaltsverzeichnis
 
 1. [Kartoffel-Lauch-Suppe](#Kartoffel-Lauch-Suppe)
 2. [Bandnudeln mit Spargelragout und Knusperlachs](#bandnudeln-mit-spargelragout-und-knusperlachs)
-3. [Leichte Pasta mit Oliven, Schafskäse und Tomaten](#leichte-pasta-mit-oliven-schafskäse-und-tomaten)
 
 &nbsp;
 
@@ -81,23 +80,3 @@ Lachsfilet über Nacht im Kühlschrank auftauen lassen.
 6. Sonnenblumenöl in einer Pfanne erhitzen und die Lachsfilets von jeder Seite ca. 3 Minuten goldbraun braten. Währenddessen einen Topf mit ca. 2 l Wasser und ein Esslöffel Salz zum Kochen bringen. Nudeln hinzugeben und für ca. 6 bis 7 Minuten kochen. Dann in ein Sieb abgießen, abschrecken, zur Seite stellen und warm halten.
 7. Die Nudeln mit dem Lachsfilet und dem Spargelragout servieren. Basilikum waschen, trockentupfen, hacken und damit das Gericht garnieren.
 
-&nbsp;
-
-Leichte Pasta mit Oliven, Schafskäse und Tomaten
-------------------------------------------------
-
-**Zutaten** für 3 Portionen
-
-```
-500 g Nudeln 
-250 g Kirschtomaten
-      Oliven, schwarz, ohne Kerne 
-200 g Schafskäse
-      Olivenöl, Salz und Pfeffer 
-  2   Zehen Knoblauch 
-      Basilikum, gehackt
-```
-
-**Zubereitung**
-
-Die Nudeln in Salzwasser kochen. In der Zwischenzeit Olivenöl in einer großer Pfanne erhitzen und die halbierten Knoblauchzehen darin anbraten. Tomaten, Schafskäse und Oliven würfeln, bzw. halbieren. Nudeln abtropfen lassen und in die Pfanne geben, umrühren und alle Zutaten dazugeben, vermischen und abschmecken. Kurz durchziehen lassen, so dass alle Zutaten erwärmt sind.
