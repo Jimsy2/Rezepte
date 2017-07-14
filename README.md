@@ -6,11 +6,11 @@
  - [Salate](https://jimsy2.github.io/Rezepte/docs/Salate)
  - [Kuchen](https://jimsy2.github.io/Rezepte/docs/Kuchen)
 
-## ungetestet
+### ungetestet
 
  - [Ungetestete Rezepte](https://jimsy2.github.io/Rezepte/docs/Ungetestete-Rezepte)
 
-### Infos zu Nahrungsmitteln
+## Infos zu Nahrungsmitteln
 
  - [Zuckergehalt-Tabelle](https://jimsy2.github.io/Rezepte/docs/Zuckergehalt_2017)
 
