@@ -1,1 +1,1 @@
-Dieser Ordner enthält Bilder für die Rezepte.
+Dieser Ordner enthält Bilder zu den Rezepten.
