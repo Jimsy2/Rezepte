@@ -3,10 +3,36 @@ ungetestet
 
 Inhaltsverzeichnis
 
+1. [Zucchini-Zitrone Nudeln](#zucchini-zitrone-nudeln)
 1. [Kartoffel-Lauch-Suppe](#Kartoffel-Lauch-Suppe)
 2. [Bandnudeln mit Spargelragout und Knusperlachs](#bandnudeln-mit-spargelragout-und-knusperlachs)
 
-&nbsp;
+
+   ⸻
+
+
+Zucchini-Zitrone Nudeln
+====================
+
+**Zutaten** für 4 Portionen
+
+```
+500 g Nudeln (Makkaroni)
+500 g Zucchini
+  2 EL Olivenöl
+  1 Zitrone, unbehandelt, Saft und abgeriebene Schale davon
+150 g Parmesan oder Pecorino, gerieben
+  2 Zehen Knoblauch, gehackt oder gepresst
+  1 Bund Petersilie
+    Salz, Pfeffer
+```
+
+**Zubereitung**
+
+Die Nudeln nach Packungsanweisung bissfest kochen. Die Zucchini in lange, dünne, ca. 2 cm breite Streifen schneiden und in einer großen Pfanne im heißen Öl anbraten, bis sie gebräunt sind. Abgeriebene Zitronenschale, gehackten oder gepressten Knoblauch und die gehackte Petersilie zugeben, kurz weiter braten. Die abgetropften Nudeln unter die Zucchini mischen. Den Parmesan bzw. den Pecori- no unterrühren und mit Salz, Pfeffer und Zitronensaft abschmecken.
+
+
+   ⸻
 
 
 Kartoffel-Lauch-Suppe
@@ -41,7 +67,7 @@ Kartoffel-Lauch-Suppe
 7. Vor dem Servieren mit den gebratenen Kartoffelwürfeln garnieren.  
 
 
-&nbsp;
+   ⸻	
 
 
 Bandnudeln mit Spargelragout und Knusperlachs
@@ -80,3 +106,4 @@ Lachsfilet über Nacht im Kühlschrank auftauen lassen.
 6. Sonnenblumenöl in einer Pfanne erhitzen und die Lachsfilets von jeder Seite ca. 3 Minuten goldbraun braten. Währenddessen einen Topf mit ca. 2 l Wasser und ein Esslöffel Salz zum Kochen bringen. Nudeln hinzugeben und für ca. 6 bis 7 Minuten kochen. Dann in ein Sieb abgießen, abschrecken, zur Seite stellen und warm halten.
 7. Die Nudeln mit dem Lachsfilet und dem Spargelragout servieren. Basilikum waschen, trockentupfen, hacken und damit das Gericht garnieren.
 
+∎
