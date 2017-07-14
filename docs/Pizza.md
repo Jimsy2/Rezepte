@@ -4,7 +4,7 @@
 1. [Dinkel-Vollkorn-Pizzateig a la Dirk](#dinkel-vollkorn-pizzateig-a-la-dirk)
 
 
-<hr align=center width=50%>
+<span style="text-align:centet">---</span>
 
 
 Pizzateig a la Dirk
