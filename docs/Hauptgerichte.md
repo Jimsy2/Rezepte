@@ -1,15 +1,15 @@
 ## Hauptgerichte ##
 
-1. [Pasta mit Oliven, Schafskäse und Tomaten](#pasta-mit-oliven-schafskäse-und-tomaten)
+1. [Pasta mit Feta, Oliven und Tomaten](#pasta-mit-feta-oliven-und-tomaten)
 1. [Aloo Gobi Tomater](#aloo-gobi-tomater)
 1. [Eier in Senfsoße](#eier-in-senfsoße)
 
 &nbsp;
 
-Pasta mit Oliven, Schafskäse und Tomaten
-========================================
+Pasta mit Feta, Oliven und Tomaten
+==================================
 
-<img width="50%" src="https://jimsy2.github.io/Kochen-und-Backen/Bilder/Pasta-mit-Oliven-Schafskäse-Tomaten.jpg">
+<img width="50%" src="images/Pasta-mit-Feta-Oliven-Tomaten.jpg">
 
 **Zutaten** für 2 Portionen
 
@@ -17,7 +17,7 @@ Pasta mit Oliven, Schafskäse und Tomaten
 333 g     Nudeln (Fusilli)
 200 g     Kirschtomaten
  12 Stück schwarze Oliven (ohne Kern) 
-150 g     Schafskäse
+150 g     Fetakäse (aus Ziegen- oder Schafsmilch)
   3 EL    Olivenöl 
   2 Zehen Knoblauch 
           Basilikum (frisch gehackt)
@@ -26,14 +26,14 @@ Pasta mit Oliven, Schafskäse und Tomaten
 
 **Zubereitung**
 
-Die Nudeln in Salzwasser kochen. In der Zwischenzeit Olivenöl in einer großer Pfanne (oder großem Topf) erhitzen und die in Scheiben geschnittenen Knoblauchzehen darin anbraten. Tomaten, Schafskäse und Oliven würfeln, bzw. halbieren. Nudeln abtropfen lassen und in die Pfanne geben, umrühren und alle Zutaten dazugeben, vermischen und mit Peffer abschmecken. Kurz durchziehen lassen, so dass alle Zutaten erwärmt sind.
+Die Nudeln in Salzwasser kochen. In der Zwischenzeit Olivenöl in einer großer Pfanne (oder großem Topf) erhitzen und die in Scheiben geschnittenen Knoblauchzehen darin anbraten. Tomaten, Feta und Oliven würfeln, bzw. halbieren. Nudeln abtropfen lassen und in die Pfanne geben, umrühren und alle Zutaten dazugeben, vermischen und mit Peffer abschmecken. Kurz durchziehen lassen, so dass alle Zutaten erwärmt sind.
 
 &nbsp;
 
 Aloo Gobi Tomater
 =================
 
-<!-- ![Bild](https://jimsy2.github.io/Kochen-und-Backen/Bilder/Alu-Gobi-Tomater.jpg)-->
+![Bild](images/Alu-Gobi-Tomater.jpg)
 
 ### Zutaten
 
