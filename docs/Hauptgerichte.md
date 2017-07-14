@@ -28,6 +28,8 @@ Pasta mit Feta, Oliven und Tomaten
 
 Die Nudeln in Salzwasser kochen. In der Zwischenzeit Olivenöl in einer großer Pfanne (oder großem Topf) erhitzen und die in Scheiben geschnittenen Knoblauchzehen darin anbraten. Tomaten, Feta und Oliven würfeln, bzw. halbieren. Nudeln abtropfen lassen und in die Pfanne geben, umrühren und alle Zutaten dazugeben, vermischen und mit Peffer abschmecken. Kurz durchziehen lassen, so dass alle Zutaten erwärmt sind.
 
+> Quelle: Originalrezept war im Kalender 2016 des Combi-Markt
+
 &nbsp;
 
 Aloo Gobi Tomater
@@ -60,6 +62,8 @@ Kartoffeln schälen. Wenn man gute Frühkartoffeln hat, diese unter Wasser saube
 
 Tomaten dazugeben, mit Muskat und Salz würzen und gut vermischen. Kartoffel und Blumenkohl dazugeben, umrühren. Mit Deckel köcheln lassen bis alles gar ist. Gelegentlich umrühren.
 
+> Quelle: Originalrezept von http://www.jaisiyaram.de/blog/rezepte/8729-alu-gobi-tomater-ayurvedisches-rezept-fuer-blumenkohl-mit-kartoffeln-und-tomaten-20-aug-11.html
+
 &nbsp;
 
 Eier in Senfsoße
@@ -90,4 +94,4 @@ Eier in Senfsoße
 1. gekochte Eier halbieren und in der Soße aufwähren
 1. mit dem gehackten _Schnittlauch_ auf Pell- oder Salzkartoffeln servieren
 
-_Quelle: Reni_
+> Quelle: Reni
