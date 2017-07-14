@@ -2,7 +2,7 @@
 
 ## Inhalt
 
- - [Hauptgerichte](https://jimsy2.github.io/Rezepte/docs/Hauptgerichte)
+ - [Hauptgerichte](docs/Hauptgerichte)
  - [Suppen und Eintöpfe](https://jimsy2.github.io/Rezepte/docs/Suppen-und-Eintöpfe)
  - [Pizza](https://jimsy2.github.io/Rezepte/docs/Pizza)
  - [Salate](https://jimsy2.github.io/Rezepte/docs/Salate)
