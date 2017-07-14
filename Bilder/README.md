@@ -1,1 +1,0 @@
-Bilder zu den Rezepten
