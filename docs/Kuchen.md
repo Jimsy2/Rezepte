@@ -1,6 +1,6 @@
 ## Kuchen
 
-1. dm-Möhrchenkuchen
+1. [dm-Möhrchenkuchen](#dm-möhrchenkuchen)
 
 &nbsp;
 
