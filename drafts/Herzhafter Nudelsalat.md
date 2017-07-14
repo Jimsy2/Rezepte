@@ -10,7 +10,7 @@ Zubereitungszeit ca. 30 Minuten, pro Portion ca. 2730 Jouie/650 Kalorien
        Salz
   3    Zwiebeln
   8    Tomaten 
-400 g  Cabanossi
+400 g  Cabanossi (ungar. Paprikawurst) 
  12    schw. Oliven
   2    Knoblauchzehen
   6 EL Essig
@@ -25,4 +25,15 @@ Zubereitungszeit ca. 30 Minuten, pro Portion ca. 2730 Jouie/650 Kalorien
 
 **Zubereitung**
 
-Nudeln in reichlich kochendem Salzwasser 8-10 Min. garen, abgießen. Zwiebeln schälen, vierteln und in Scheiben schneiden. Tomaten überbrühen, enthäuten, entkernen und in Stücke schneiden. Cabanossi (ungar. Paprikawurst) in Scheiben schneiden. Schwarze Oliven halbieren und entsteinen. Knoblauch schälen und zerdrücken. Essig, Senf, Salz, Pfeffer und Knoblauch verrühren. Öl unter die Salatsoße rühren. Nudeln, Zwiebeln, Tomaten, Wurst, schwarze und grüne Oliven sowie Kapern mit der Soße mischen. Endiviensalat putzen, waschen, gut abtropfen lassen und auf eine Platte geben. Nudelsalat darauf anrichten. Mit gehackter Petersilie bestreut servieren.
+1. Nudeln nach Anleitung kochen, abgießen. 
+2. Zwiebeln schälen, vierteln und in Scheiben schneiden. 
+3. Tomaten in Stücke schneiden. 
+4. Cabanossi in Scheiben schneiden.
+5. Schwarze Oliven halbieren und entsteinen.
+6. Knoblauch schälen und fein hacken.
+7. Essig, Senf, Salz, Pfeffer und Knoblauch verrühren.
+8. Öl unter die Salatsoße rühren.
+9. Nudeln, Zwiebeln, Tomaten, Wurst, schwarze und grüne Oliven sowie Kapern mit der Soße mischen.
+10. Endiviensalat putzen, waschen, gut abtropfen lassen und auf eine Platte geben.
+11. Nudelsalat darauf anrichten.
+12. Mit gehackter Petersilie bestreut servieren.
