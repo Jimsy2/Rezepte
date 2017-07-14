@@ -8,7 +8,7 @@
 
 
 Pizzateig a la Dirk
--------------------
+===================
 
 ```
 375 g Weizenmehl (Type 550)
