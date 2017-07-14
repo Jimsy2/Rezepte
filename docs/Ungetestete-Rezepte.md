@@ -1,8 +1,6 @@
 ungetestet
 ----------
 
-Inhaltsverzeichnis
-
 1. [Zucchini-Zitrone Nudeln](#zucchini-zitrone-nudeln)
 1. [Kartoffel-Lauch-Suppe](#Kartoffel-Lauch-Suppe)
 2. [Bandnudeln mit Spargelragout und Knusperlachs](#bandnudeln-mit-spargelragout-und-knusperlachs)
@@ -36,11 +34,9 @@ Die Nudeln nach Packungsanweisung bissfest kochen. Die Zucchini in lange, dünne
 
 
 Kartoffel-Lauch-Suppe
----------------------
+=====================
 
-– für 2 Personen – ca. 45 min
-
-**Zutaten**
+**Zutaten** für 2 Personen – ca. 45 min
 ```
   2 Schalotten (oder halbe Gemüsezwiebel)
   2 Stangen Lauch
