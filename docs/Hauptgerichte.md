@@ -3,6 +3,36 @@
 1. [Pasta mit Feta, Oliven und Tomaten](#pasta-mit-feta-oliven-und-tomaten)
 1. [Aloo Gobi Tomater](#aloo-gobi-tomater)
 1. [Eier in Senfsoße](#eier-in-senfsoße)
+1. [Zucchini-Zitrone Nudeln](#zucchini-zitrone-nudeln)
+
+
+   ⸻
+
+
+Zucchini-Zitrone-Nudeln
+=======================
+
+<img width="50%" src="images/Zucchini-Zitrone-Nudeln.jpg">
+
+**Zutaten** für 4 Portionen
+
+```
+500 g Nudeln (Makkaroni)
+500 g Zucchini
+  2 EL Olivenöl
+  1 Zitrone, unbehandelt, Saft und abgeriebene Schale davon
+150 g Parmesan oder Pecorino, gerieben
+  2 Zehen Knoblauch, gehackt oder gepresst
+  1 Bund Petersilie
+    Salz, Pfeffer
+```
+
+**Zubereitung**
+
+Die Nudeln nach Packungsanweisung bissfest kochen. Die Zucchini in lange, dünne, ca. 2 cm breite Streifen schneiden und in einer großen Pfanne im heißen Öl anbraten, bis sie gebräunt sind. Abgeriebene Zitronenschale, gehackten oder gepressten Knoblauch und die gehackte Petersilie zugeben, kurz weiter braten. Die abgetropften Nudeln unter die Zucchini mischen. Den Parmesan bzw. den Pecorino unterrühren und mit Salz, Pfeffer und Zitronensaft abschmecken.
+
+
+   ⸻
 
 &nbsp;
 
