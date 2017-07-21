@@ -28,7 +28,7 @@ Zucchini-Zitrone-Nudeln
 
 **Zubereitung**
 
-Die Nudeln nach Packungsanweisung bissfest kochen. Die Zucchini in lange, dünne, ca. 2 cm breite Streifen schneiden und in einer großen Pfanne im heißen Öl anbraten, bis sie gebräunt sind. Abgeriebene Zitronenschale, gehackten oder gepressten Knoblauch und die gehackte Petersilie zugeben, kurz weiter braten. Die abgetropften Nudeln unter die Zucchini mischen. Den Parmesan bzw. den Pecorino unterrühren und mit Salz, Pfeffer und Zitronensaft abschmecken.
+Die Nudeln nach Packungsanweisung bissfest kochen. Die Zucchini in lange, dünne, ca. 1 cm breite Streifen schneiden und in einer großen Pfanne im heißen Öl anbraten, bis sie gebräunt sind. Abgeriebene Zitronenschale, gehackten Knoblauch und dann die gehackte Petersilie zugeben, kurz weiter braten, mit dem Zitronensaft ablöschen. Die Zucchini unter die abgetropften Nudeln mischen. Den Parmesan bzw. den Pecorino unterrühren und mit Pfeffer und evtl. Salz abschmecken.
 
 
    ⸻
