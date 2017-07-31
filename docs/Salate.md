@@ -18,6 +18,7 @@ Zutaten für 2 Portionen
   1 Apfel
  30 g Walnüsse
  50 g Joghurt (10 % Fett)
+      alternativ 25 g Joghurt (3,8%) und 25 g Hüttenkäse
   1 TL Zucker
   2 EL Zitronensaft
     Salz, Pfeffer
