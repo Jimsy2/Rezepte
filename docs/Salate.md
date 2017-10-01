@@ -73,8 +73,7 @@ Joghurt mit Zitronensaft und Zucker verrühren, mit Salz und Pfeffer abschmecken
 Apfel mit Kohlrabi und Joghurt-Dressing verrühren, mit Walnüssen bestreuen. 
 
 
-     ⸻
-<br style="page-break-before: always">
+   ⸻
 
 
 Zucchini-Champignonsalat
