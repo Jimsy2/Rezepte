@@ -4,18 +4,17 @@ Spreewälder Kürbissuppe
 **Zutaten** für 4 Personen:
 
 ```
-500 g  kleine Nudeln
-  3    Zwiebeln
-  8    Tomaten 
-400 g  Cabanossi (ungar. Paprikawurst) 
- 32    schw. Oliven (möglichst entsteint)
-  2    Knoblauchzehen
-  6 EL Essig
+500 ml Gemüsebrühe
+300 g  Kartoffeln (in Stücken) 
+100 g  Zwiebeln (halbiert)
+ 30 g  Butter
+450 g  Kürbisfleisch
   1 TL mittelscharfer Senf
-       schw. Pfeffer
-  8 EL Öl
-  2 EL Kapern
-  1 Bund Petersilie
+200 g  Schmand
+  2 Spritzer Worcester Sauce
+500 ml Milch
+  ½ TL schw. Pfeffer
+  ½ TL Salz
 ```
 
 **Zubereitung**
