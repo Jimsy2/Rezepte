@@ -5,8 +5,9 @@
 1. [Aloo Gobi Tomater](#aloo-gobi-tomater)
 1. [Eier in Senfsoße](#eier-in-senfsoße)
 
+∎
 
-   ⸻
+&nbsp;
 
 Zucchini-Zitrone-Nudeln
 =======================
@@ -30,8 +31,7 @@ Zucchini-Zitrone-Nudeln
 
 Die Nudeln nach Packungsanweisung bissfest kochen. Die Zucchini in lange, dünne, ca. 1 cm breite Streifen schneiden und in einer großen Pfanne im heißen Öl anbraten, bis sie gebräunt sind. Abgeriebene Zitronenschale, gehackten Knoblauch und dann die gehackte Petersilie zugeben, kurz weiter braten, mit dem Zitronensaft ablöschen. Die Zucchini unter die abgetropften Nudeln mischen. Den Parmesan bzw. den Pecorino unterrühren und mit Pfeffer und evtl. Salz abschmecken.
 
-
-   ⸻
+∎
 
 &nbsp;
 
@@ -58,6 +58,8 @@ Pasta mit Feta, Oliven und Tomaten
 Die Nudeln in Salzwasser kochen. In der Zwischenzeit Olivenöl in einer großer Pfanne (oder großem Topf) erhitzen und die in Scheiben geschnittenen Knoblauchzehen darin anbraten. Tomaten, Feta und Oliven würfeln, bzw. halbieren. Nudeln abtropfen lassen und in die Pfanne geben, umrühren und alle Zutaten dazugeben, vermischen und mit Peffer abschmecken. Kurz durchziehen lassen, so dass alle Zutaten erwärmt sind.
 
 > Quelle: Originalrezept war im Kalender 2016 des Combi-Markt
+
+∎
 
 &nbsp;
 
@@ -93,6 +95,8 @@ Tomaten dazugeben, mit Muskat und Salz würzen und gut vermischen. Kartoffel und
 
 > Quelle: Originalrezept von http://www.jaisiyaram.de/blog/rezepte/8729-alu-gobi-tomater-ayurvedisches-rezept-fuer-blumenkohl-mit-kartoffeln-und-tomaten-20-aug-11.html
 
+∎
+
 &nbsp;
 
 Eier in Senfsoße
@@ -124,3 +128,5 @@ Eier in Senfsoße
 1. mit dem gehackten _Schnittlauch_ auf Pell- oder Salzkartoffeln servieren
 
 > Quelle: Reni
+
+∎
