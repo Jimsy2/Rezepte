@@ -1,7 +1,7 @@
 Salate
 ======
 
-1. [Herzhafter Nudelsalat](#herzhafter-nudelsalat)		
+1. [Herzhafter Nudelsalat](#herzhafter-nudelsalat) __*neu*__	
 1. [Zucchini-Champignonsalat](#zucchini-champignonsalat)
 1. [Kohlrabisalat mit Walnüssen](#kohlrabisala-mit-walnüssen)
   		  
@@ -12,7 +12,9 @@ Herzhafter Nudelsalat
 =====================		
 		
 Zubereitungszeit ca. 30 Minuten, pro Portion ca. 2730 Jouie/650 Kalorien		
-		
+
+<img width="50%" src="images/Herzhafter_Nudelsalat.jpg">
+
 **Zutaten** für 4 Personen:		
 		
 ```		
