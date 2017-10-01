@@ -47,7 +47,7 @@ Zubereitungszeit ca. 30 Minuten, pro Portion ca. 2730 Jouie/650 Kalorien
 11. Nudelsalat darauf anrichten.		
 12. Mit gehackter Petersilie bestreut servieren.		
 		
-<div style="display:flex;justify-content:right">∎</div>
+<div style="width:100%;display:flex;justify-content:right">∎</div>
 
 &nbsp;
 
