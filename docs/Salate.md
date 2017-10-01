@@ -1,7 +1,7 @@
 Salate
 ======
 
-1. [Herzhafter Nudelsalat](#herzhafter-nudelsalat) __*neu*__	
+1. [Herzhafter Nudelsalat](#herzhafter-nudelsalat) &nbsp; __*neu*__	
 1. [Zucchini-Champignonsalat](#zucchini-champignonsalat)
 1. [Kohlrabisalat mit Walnüssen](#kohlrabisala-mit-walnüssen)
   		  
