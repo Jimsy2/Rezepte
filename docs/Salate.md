@@ -4,9 +4,10 @@ Salate
 1. [Herzhafter Nudelsalat](#herzhafter-nudelsalat) &nbsp; __*neu*__	
 1. [Zucchini-Champignonsalat](#zucchini-champignonsalat)
 1. [Kohlrabisalat mit Walnüssen](#kohlrabisala-mit-walnüssen)
-  		  
-     ⸻
+  
+&nbsp;
 
+<hr>
 
 Herzhafter Nudelsalat		
 =====================		
@@ -46,8 +47,9 @@ Zubereitungszeit ca. 30 Minuten, pro Portion ca. 2730 Jouie/650 Kalorien
 11. Nudelsalat darauf anrichten.		
 12. Mit gehackter Petersilie bestreut servieren.		
 		
-   ⸻
-<br style="page-break-before: always">
+∎
+
+&nbsp;
 
 Kohlrabisalat mit Walnüssen
 ---------------------------
@@ -72,9 +74,9 @@ Joghurt mit Zitronensaft und Zucker verrühren, mit Salz und Pfeffer abschmecken
 
 Apfel mit Kohlrabi und Joghurt-Dressing verrühren, mit Walnüssen bestreuen. 
 
+∎
 
-   ⸻
-
+&nbsp;
 
 Zucchini-Champignonsalat
 ------------------------
@@ -86,7 +88,7 @@ Zucchini-Champignonsalat
  * 100 g  _**Karotten**_ schälen und reiben,  
  * 1 kleine _**Zwiebel**_ würfeln.  
 
-<u><b>Dressing</b></u>
+**Dressing**
 
  * 4 EL    _**Olivenöl**_ 
  * 1 Prise _**Cayennepfeffer**_,  
