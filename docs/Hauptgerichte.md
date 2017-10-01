@@ -5,7 +5,7 @@
 1. [Aloo Gobi Tomater](#aloo-gobi-tomater)
 1. [Eier in Senfsoße](#eier-in-senfsoße)
 
-∎
+<hr>
 
 &nbsp;
 
