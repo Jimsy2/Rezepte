@@ -110,10 +110,10 @@ Eier in Senfsoße
  50 g  Mehl
 250 ml Gemüsebrühe
 250 ml Sahne (oder Milch)
+       Kartoffeln nach belieben
   4 EL mittelscharfer Senf
        Pfeffer, Salz, Zucker, Muskat
        Schnittlauch oder Frühlingszwiebeln
-       Kartoffeln nach belieben
 ```
 
 ### Zubereitung
