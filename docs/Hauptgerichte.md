@@ -1,6 +1,6 @@
 ## Hauptgerichte ##
 
-1. [Zucchini-Zitrone Nudeln](#zucchini-zitrone-nudeln) __*NEU*__
+1. [Zucchini-Zitrone Nudeln](#zucchini-zitrone-nudeln)
 1. [Pasta mit Feta, Oliven und Tomaten](#pasta-mit-feta-oliven-und-tomaten)
 1. [Aloo Gobi Tomater](#aloo-gobi-tomater)
 1. [Eier in Senfsoße](#eier-in-senfsoße)
