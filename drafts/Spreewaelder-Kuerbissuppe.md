@@ -1,7 +1,5 @@
-Herzhafter Nudelsalat
-=====================
-
-Zubereitungszeit ca. 30 Minuten, pro Portion ca. 2730 Jouie/650 Kalorien
+Spreewälder Kürbissuppe
+=======================
 
 **Zutaten** für 4 Personen:
 
