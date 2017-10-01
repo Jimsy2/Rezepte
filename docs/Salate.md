@@ -1,8 +1,6 @@
 Salate
 ======
 
-Inhaltsverzeichnis
-
 1. [Herzhafter Nudelsalat](#herzhafter-nudelsalat)		
 1. [Zucchini-Champignonsalat](#zucchini-champignonsalat)
 1. [Kohlrabisalat mit Walnüssen](#kohlrabisala-mit-walnüssen)
