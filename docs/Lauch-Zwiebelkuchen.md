@@ -22,7 +22,7 @@ Lauch-Zwiebelkuchen mit Nüssen
 
 ```
 500 g   Zwiebeln
-  2 gr. Stangen Lauch
+  2 große Stangen Lauch
   2 EL  Zitronensaft
  40 g   Butter
   2 Zehen Knoblauch
