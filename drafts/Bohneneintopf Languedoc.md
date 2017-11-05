@@ -26,6 +26,11 @@ Bohneneintopf Languedoc
 
 **Zubereitung**
 
-Bohnen über Nacht in Wasser einweichen, Wasser abgiessen. Bohnen mit Gemüsebrühe knapp bedecken, Lorbeerblatt, Bohnenkraut und Rosmarinzweig dazu geben, kurz aufkochen, Hitze ausschalten und zugedeckt ca. 1 Stunde garen lassen.
+ - Bohnen über Nacht in Wasser einweichen.
+ - Am nächsten Tag Einweichwasser abgiessen. Bohnen in einen großen Topf geben und mit Gemüsebrühe knapp bedecken.
+ - Lorbeerblatt, Bohnenkraut und Rosmarinzweig dazu geben, kurz aufkochen und bei kleiner Flamme zugedeckt ca. 1 Stunde garen lassen.
+ - Rosmarinzweig und Lorbeerblatt entfernen.
+ - Das restliche Gemüse entsprechend der Gardauer hinzufügen: Staudensellerie – Schalotten – Zucchini – Pilze – Tomaten und zugedeckt auf kleiner Hitze garen.
 
-Rosmarinzweig und Lorbeerblatt entfernen. Nun das restliche Gemüse etappenweise beifügen, entsprechend der Gardauer: Staudensellerie – Schalotten – Zucchini – -Pilze - Tomaten und zugedeckt auf kleiner Hitze garköcheln.
+
+ [Delinat.com](https://www.delinat.com/rezept.html?DStextrezept7=183)
