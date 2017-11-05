@@ -55,7 +55,6 @@ Heiß servieren.
 
 &nbsp;
 Anmerkungen:  
-> 200° C  
 > sehr gut!  
 
 ∎
