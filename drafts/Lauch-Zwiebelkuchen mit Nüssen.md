@@ -46,7 +46,7 @@ Teig zubereiten, gründlich verkneten und als Kugel geformt 30 Minuten im Kühls
 
 Butter in einer Pfanne erhitzen‚ Zwiebeln rösten, Lauch untermischen und glasig braten. Knoblauch dazugeben. Mit der Gemüsebrühe ablöschen. Mit Zitronensaft‚ Salz, Pfeffer, Thymianblättchen‚ Cayennepfeffer abschmecken. (So lange kochen lassen, bis die Flüssigkeit verdampft ist.) Abkühlen lassen.
 
-Cashewnüsse grob hacken. Eier mit Creme Fraiche und der Hälfte des geriebenen Käses verquirlen‚ mit Salz, Pfeffer und Cayennepfeffer abschmecken. Die gehackten Nüsse und den restlichen Käse unter die Zwiebel-Lauchmasse geben, Mischung auf dem Teig verteilen.
+Cashewnüsse grob hacken. Eier mit Creme Fraiche und der Hälfte des geriebenen Käses verquirlen Mit Salz, Pfeffer und Cayennepfeffer abschmecken. Die gehackten Nüsse und den restlichen Käse unter die Zwiebel-Lauchmasse geben, Mischung auf dem Teig verteilen.
 
 Eier-Käse-Mischung darüber gießen und mit Öl beträufeln. Auf mittlerer Schiene <ins>bei 200° C</ins> etwa 35 Minuten hellbraun backen.
 
