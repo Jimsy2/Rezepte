@@ -29,7 +29,7 @@ Lauch-Zwiebelkuchen mit Nüssen
 100 ml  Brühe (aus 1 TL Instantpulver)
 200 g   Creme fraiche (oder Schmand)
 150 g   Emmentaler Käse (oder Gouda), gerieben
-3-4     Eier
+  3 oder 4 Eier
         Salz, weisser Pfeffer, Cayennepfeffer
   3 Zweige Thymian
  60 g   Cashewnüsse (oder geröstete Sonnenblumenkerne)
