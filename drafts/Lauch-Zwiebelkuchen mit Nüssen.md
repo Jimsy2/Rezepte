@@ -1,6 +1,3 @@
-
-&nbsp;
-
 Lauch-Zwiebelkuchen mit Nüssen
 ------------------------
 
@@ -32,11 +29,9 @@ Lauch-Zwiebelkuchen mit Nüssen
 100 ml  Brühe
 200 g   Creme fraiche (oder Schmand)
 150 g   Emmentaler Käse (oder Gouda), gerieben
-  4     Eier
-        Salz
-        Weisser Pfeffer
+  3-4   Eier
+        Salz, weisser Pfeffer, Cayennepfeffer
   3 Zweige Thymian
-        Cayennepfeffer
  60 g   Cashewnüsse (oder geröstete Sonnenblumenkerne)
 ```
 
