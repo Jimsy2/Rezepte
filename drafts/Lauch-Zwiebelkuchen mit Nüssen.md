@@ -11,7 +11,7 @@ Lauch-Zwiebelkuchen mit Nüssen
 ```
 250 g   Weizenmehl (Typ 405)
 150 g   Roggenmehl (Typ 1150)
-        (alternativ 325g Weizen und 75g Buchweizen)
+        (oder 325g Weizen und 75g Buchweizen)
   1 TL  Weinstein-Backpulver
   1 Prise Salz
 1/2 TL  Majoran‚ getrocknet
@@ -25,19 +25,19 @@ Lauch-Zwiebelkuchen mit Nüssen
 
 ```
 500 g   Zwiebeln
-  2 Stangen Lauch
+  2 gr. Stangen Lauch
   2 EL  Zitronensaft
  40 g   Butter
   2 Zehen Knoblauch
 100 ml  Brühe
-200 g   Creme fraiche
-150 g   Emmentaler Käse, gerieben
+200 g   Creme fraiche (oder Schmand)
+150 g   Emmentaler Käse (oder Gouda), gerieben
   4     Eier
         Salz
         Weisser Pfeffer
   3 Zweige Thymian
         Cayennepfeffer
- 60 g   Cashewnüsse  
+ 60 g   Cashewnüsse (oder geröstete Sonnenblumenkerne)
 ```
 
 **Zubereitung**
