@@ -1,5 +1,5 @@
 Lauch-Zwiebelkuchen mit Nüssen
-------------------------------
+------------------------
 
 – für 1 Blech –
 
@@ -12,10 +12,10 @@ Lauch-Zwiebelkuchen mit Nüssen
   1 TL  Weinstein-Backpulver
   1 Prise Salz
 1/2 TL  Majoran‚ getrocknet
-250 g   Quark (mager?)
-  8 EL  Milch
+250 g   Quark (Magerstufe?)
+  8 EL  Milch (95 ml)
   1     Ei
-  8 EL  Öl
+  8 EL  Öl (72 ml Öl)
 ```
 
 **Zutaten für den Belag**
@@ -26,10 +26,10 @@ Lauch-Zwiebelkuchen mit Nüssen
   2 EL  Zitronensaft
  40 g   Butter
   2 Zehen Knoblauch
-100 ml  Brühe
+100 ml  Brühe (aus 1 TL Instantpulver)
 200 g   Creme fraiche (oder Schmand)
 150 g   Emmentaler Käse (oder Gouda), gerieben
-  3-4   Eier
+3-4     Eier
         Salz, weisser Pfeffer, Cayennepfeffer
   3 Zweige Thymian
  60 g   Cashewnüsse (oder geröstete Sonnenblumenkerne)
