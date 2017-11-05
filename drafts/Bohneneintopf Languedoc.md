@@ -1,6 +1,9 @@
 Bohneneintopf Languedoc
 =======================
 
+(franz. Cassoulet des légumes)
+------------------------------
+
 ```
 250 g  getrocknete Bohnen
 150 g  Pilze nach Saison
