@@ -8,6 +8,7 @@ Lauch-Zwiebelkuchen mit Nüssen
 
 **Zutaten für den Teig**
 
+```
 250 g   Weizenmehl (Typ 405)
 150 g   Roggenmehl (Typ 1150)
         (alternativ 325g Weizen und 75g Buchweizen)
@@ -18,9 +19,11 @@ Lauch-Zwiebelkuchen mit Nüssen
   8 EL  Milch
   1     Ei
   8 EL  Öl
+```
 
 **Zutaten für den Belag**
 
+```
 500 g   Zwiebeln
   2 Stangen Lauch
   2 EL  Zitronensaft
@@ -35,7 +38,22 @@ Lauch-Zwiebelkuchen mit Nüssen
   3 Zweige Thymian
         Cayennepfeffer
  60 g   Cashewnüsse  
+```
+**Zubereitung**
 
+Teig zubereiten, gründ11’ch verkneten und als Kugel geformt 30 Minuten im Kühlschrank ruhen lassen. Zwiebel schälen‚ in Ringe schneiden‚ Lauch putzen, waschen und in zwei Zentimeter lange Stücke schneiden.
+
+
+Butter in einer Pfanne erhitzen‚ wa’ebeln ro 'sten, Lauch untemischen und glaSL’g braten. Knoblauch dazugeben. Mit der Gemüsebrühe ablöschen, Zitronensaft‚ Salz, Pfeffer, Thymianblättchen‚ Cayennepfeffer dazugeben, abschmecken, so lange kochen lassen, b1's die Flüssigke1't verdmpft ist. Abkühlen lassen.
+
+
+Cashewnu 'sse grob hacken. Eier mit Creme Fraiche und der Hälfte des gerx'ebenen Käses verwirlen‚ mit Salz, Pfeffer und Cayennepfeffer abscMecken. Die gehackten Nüsse und den restlichen Kä'se unter die Zwiebel - Lauchmasse geben, Mischung auf dem Teig verteilen.
+
+
+Eier - Käse - Mischung darüber giessen und mit Öl beträufe1n. Auf mittlerer Schiene etwa 35 Minuten hellbraun backen.
+
+
+Heiß servieren.
 
 
 &nbsp;  
