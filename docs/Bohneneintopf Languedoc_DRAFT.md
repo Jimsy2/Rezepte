@@ -13,16 +13,17 @@ Bohneneintopf Languedoc
   1 Lorbeerblatt
   1 kleiner Zweig Rosmarin
   1 kleiner Zweig Bohnenkraut, Blätter abzupfen
-  5 mittlere Kartoffeln
+<del>5 mittlere Kartoffeln</del>
 150 g  Pilze nach Saison (alternativ Staudensellerie)
 1 kleine Zucchini, in 1 cm dicke Scheiben schneiden, evtl. halbieren
-2 fleischige Tomaten, nach Belieben gehäutet, entkernt, in Stücke schneiden
+370 g passierte Tomaten (oder zerkleinerte Tomaten aus der Dose)
   1 Stange Lauch
   1 Zwiebeln
 100 g  schwarze entkernte Oliven
   2 Knoblauchzehen
     Salz, Pfeffer
   6 EL Olivenöl
+    mit Baguette servieren
 ```
 
 **Zubereitung**
@@ -31,7 +32,7 @@ Bohneneintopf Languedoc
  - Am nächsten Tag Einweichwasser abgiessen. Bohnen in einen großen Topf geben und mit Gemüsebrühe knapp bedecken.
  - Lorbeerblatt, Bohnenkraut und Rosmarinzweig dazu geben, kurz aufkochen und bei kleiner Flamme zugedeckt ca. 1 Stunde garen lassen.
  - Rosmarinzweig und Lorbeerblatt entfernen.
- - Das restliche Gemüse entsprechend der Gardauer hinzufügen: Staudensellerie – Schalotten – Zucchini – Pilze – Tomaten und zugedeckt auf kleiner Hitze garen.
+ - Das restliche Gemüse entsprechend der Gardauer hinzufügen: Staudensellerie – Schalotten – Zucchini – Pilze – Tomaten und zugedeckt auf kleiner Hitze garen. Wasser zugeben bis das Gemüse bedeckt ist.
 
 
  [Delinat.com](https://www.delinat.com/rezept.html?DStextrezept7=183)
