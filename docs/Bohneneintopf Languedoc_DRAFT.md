@@ -3,6 +3,7 @@ Bohneneintopf Languedoc
 
 (franz. Cassoulet des légumes)
 
+<img width="50%" src="images/Bohneneintop_Languedoc.jpg">
 
 **Zutaten für 3 Personen**
 
