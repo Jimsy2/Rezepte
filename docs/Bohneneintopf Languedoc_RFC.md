@@ -3,7 +3,7 @@ Bohneneintopf Languedoc
 
 (franz. Cassoulet des légumes)
 
-<img style="dir:rtl;display:relative;margin-top:2em" width="40%" src="images/Bohneneintop_Languedoc.jpg">
+<img align=right style="margin-top:2em;border-radius: 8px" width="45%" src="images/Bohneneintop_Languedoc.jpg">
    
 **Zutaten für 3 Personen**
 
@@ -12,10 +12,11 @@ Bohneneintopf Languedoc
 0,5 l  Gemüsebrühe (Bouillon)
   1 Lorbeerblatt
   1 kleiner Zweig Rosmarin
-  1 kleiner Zweig Bohnenkraut, Blätter abzupfen
+  1 kleiner Zweig Bohnenkraut
 150 g  Pilze nach Saison
   1 kleine Zucchini
-370 g  passierte Tomaten (oder zerkleinerte Tomaten aus der Dose)
+370 g  passierte Tomaten (oder 
+    zerkleinerte Dosentomaten)
   1 Stange Lauch
   1 Zwiebeln 
 100 g  schwarze entkernte Oliven
@@ -35,7 +36,7 @@ Bohneneintopf Languedoc
 
  - Bohnen über Nacht in Wasser einweichen.
  - Am nächsten Tag Einweichwasser abgiessen. Bohnen in einen großen Topf geben und mit Gemüsebrühe knapp bedecken.
- - Lorbeerblatt, Bohnenkraut und Rosmarinzweig dazu geben, kurz aufkochen und bei kleiner Flamme zugedeckt ca. 1 Stunde garen lassen.
+ - Lorbeerblatt, Bohnenkraut (Blätter abzupfen) und Rosmarinzweig dazu geben, kurz aufkochen und bei kleiner Flamme zugedeckt ca. 1 Stunde garen lassen.
  - ggf. Kartoffeln Schälen und in 1 cm großen Würfel schneiden
  - ggf. Staudensellerie waschen, Grün hacken, Stangen von Fäden befreien und in 5mm dicke Scheiben schneiden.
  - Zucchini in 1 cm dicke Scheiben schneiden, viertelen, beiseite stellen.
