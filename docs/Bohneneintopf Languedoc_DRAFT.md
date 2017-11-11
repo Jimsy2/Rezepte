@@ -3,8 +3,8 @@ Bohneneintopf Languedoc
 
 (franz. Cassoulet des légumes)
 
-<table><tr><td>
-  
+<img style="float:left" width="50%" src="images/Bohneneintop_Languedoc.jpg">
+   
 **Zutaten für 3 Personen**
 
 ```
@@ -30,8 +30,6 @@ Bohneneintopf Languedoc
 ```
 5 mittlere Kartoffeln mitkochen und ohne Baguette servieren, Staudensellerie statt Pilze, Schalotten statt Zwiebeln
 ```
- 
-<img style="float:left" width="50%" src="images/Bohneneintop_Languedoc.jpg">
  
 **Zubereitung**
 
