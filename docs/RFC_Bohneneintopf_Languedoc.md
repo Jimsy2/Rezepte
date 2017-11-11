@@ -27,8 +27,12 @@ Bohneneintopf Languedoc
 ```
 
 **Variation**
-
-   5 mittlere Kartoffeln mitkochen und ohne Baguette servieren, Staudensellerie statt Pilze, Schalotten statt Zwiebeln
+```
+5 mittlere Kartoffeln mitkochen
+und ohne Baguette servieren,
+Staudensellerie statt Pilze,
+Schalotten statt Zwiebeln
+```
  
 **Zubereitung**
 
