@@ -8,21 +8,21 @@ Bohneneintopf Languedoc
 **Zutaten für 3 Personen**
 
 ```
-250 g  getrocknete Bohnen
-0,5 l  Gemüsebrühe (Bouillon)
+250 g getrocknete Bohnen
+0,5 ℓ Gemüsebrühe (Bouillon)
   1 Lorbeerblatt
   1 kleiner Zweig Rosmarin
   1 kleiner Zweig Bohnenkraut
-150 g  Pilze nach Saison
+150 g Pilze nach Saison
   1 kleine Zucchini
-370 g  passierte Tomaten (oder 
+370 g passierte Tomaten (oder 
     zerkleinerte Dosentomaten)
   1 Stange Lauch
   1 Zwiebeln 
-100 g  schwarze entkernte Oliven
+100 g schwarze entkernte Oliven
   2 Knoblauchzehen
     Salz, Pfeffer
-  6 EL  Olivenöl
+  6 EL Olivenöl
     mit Baguette servieren 
 ```
 
