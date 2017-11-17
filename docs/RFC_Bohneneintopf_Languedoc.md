@@ -12,7 +12,7 @@ Bohneneintopf Languedoc
 0,5 ℓ Gemüsebrühe (Bouillon)
   1 Lorbeerblatt
   1 kleiner Zweig Rosmarin
-  1 kleiner Zweig Bohnenkraut
+  1 TL Bohnenkraut
 150 g Champignons  
   1 kleine Zucchini
 370 g passierte Tomaten (oder 
@@ -36,7 +36,7 @@ Bohneneintopf Languedoc
 
 1. Bohnen über Nacht in Wasser einweichen.
 2. Am nächsten Tag Einweichwasser abgiessen. Bohnen in einen großen Topf geben und mit Gemüsebrühe knapp bedecken.
-3. Lorbeerblatt, Bohnenkraut (Blätter abzupfen) und Rosmarinzweig dazu geben, kurz aufkochen und bei kleiner Flamme zugedeckt ca. 1 Stunde garen lassen.
+3. Lorbeerblatt, Bohnenkraut und Rosmarinzweig dazu geben, kurz aufkochen und bei kleiner Flamme zugedeckt ca. 1 Stunde garen lassen.
 4. ggf. Kartoffeln Schälen und in 1 cm großen Würfel schneiden
 5. ggf. Staudensellerie waschen, Grün hacken, Stangen von Fäden befreien und in 5mm dicke Scheiben schneiden.
 6. Zucchini in 1 cm dicke Scheiben schneiden, viertelen, beiseite stellen.
