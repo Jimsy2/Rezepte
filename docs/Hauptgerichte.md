@@ -1,35 +1,69 @@
 ## Hauptgerichte ##
 
-1. [Zucchini-Zitrone Nudeln](#zucchini-zitrone-nudeln)
+1. [Bohneneintopf Languedoc](#bohneneintopf-languedoc)
 1. [Pasta mit Feta, Oliven und Tomaten](#pasta-mit-feta-oliven-und-tomaten)
 1. [Aloo Gobi Tomater](#aloo-gobi-tomater)
 1. [Eier in Senfsoße](#eier-in-senfsoße)
+1. [Zucchini-Zitrone Nudeln](#zucchini-zitrone-nudeln)
 
 <hr>
 
 &nbsp;
 
-Zucchini-Zitrone-Nudeln
+
+Bohneneintopf Languedoc
 =======================
 
-<img width="50%" src="images/Zucchini-Zitrone-Nudeln.jpg">
+(franz. Cassoulet des légumes)
 
-**Zutaten** für 4 Portionen
+<img align='right' style="margin:5ex 0 1ex 1em;border-radius:8px" width="50%" src="images/Bohneneintop_Languedoc.jpg">
+   
+**Zutaten für 3 Personen**
 
 ```
-500 g Nudeln (Makkaroni)
-500 g Zucchini
-  2 EL Olivenöl
-  1 Zitrone, unbehandelt, Saft und abgeriebene Schale davon
-150 g Parmesan oder Pecorino, gerieben
-  2 Zehen Knoblauch, gehackt oder gepresst
-  1 Bund Petersilie
+250 g getrocknete Bohnen
+0,5 ℓ Gemüsebrühe (Bouillon)
+  1 Lorbeerblatt
+  1 kleiner Zweig Rosmarin
+  1 TL Bohnenkraut
+150 g Champignons  
+  1 kleine Zucchini
+370 g passierte Tomaten (oder 
+    zerkleinerte Dosentomaten)
+  1 Stange Lauch
+  1 Zwiebeln 
+100 g schwarze entkernte Oliven
+  2 Knoblauchzehen
     Salz, Pfeffer
+  6 EL Olivenöl
+    mit Baguette servieren 
 ```
 
+**Variationen**
+
+ - 5 mittlere Kartoffeln mitkochen und ohne Baguette servieren,  
+ - Pilze der Saison statt Champignons oder Staudensellerie statt Pilze,  
+ - Schalotten statt Zwiebeln  
+ 
 **Zubereitung**
 
-Die Nudeln nach Packungsanweisung bissfest kochen. Die Zucchini in lange, dünne, ca. 1 cm breite Streifen schneiden und in einer großen Pfanne im heißen Öl anbraten, bis sie gebräunt sind. Abgeriebene Zitronenschale, gehackten Knoblauch und dann die gehackte Petersilie zugeben, kurz weiter braten, mit dem Zitronensaft ablöschen. Die Zucchini unter die abgetropften Nudeln mischen. Den Parmesan bzw. den Pecorino unterrühren und mit Pfeffer und evtl. Salz abschmecken.
+1. Bohnen über Nacht in Wasser einweichen.
+2. Am nächsten Tag Einweichwasser abgiessen. Bohnen in einen großen Topf geben und mit Gemüsebrühe knapp bedecken.
+3. Lorbeerblatt, Bohnenkraut und Rosmarinzweig dazu geben, kurz aufkochen und bei kleiner Flamme zugedeckt ca. 1 Stunde garen lassen.
+4. ggf. Kartoffeln Schälen und in 1 cm großen Würfel schneiden
+5. ggf. Staudensellerie waschen, Grün hacken, Stangen von Fäden befreien und in 5mm dicke Scheiben schneiden.
+6. Zucchini in 1 cm dicke Scheiben schneiden, viertelen, beiseite stellen.
+7. Lauch waschen, putzen und in Scheiben schneiden.
+8. Rosmarinzweig und Lorbeerblatt entfernen.
+9. Das restliche Gemüse entsprechend der Gardauer hinzufügen:
+   1. ggf. Kartoffeln (falls Variation)
+   2. Lauch, Zwiebel (fein gewürfelt), Oliven (geviertelt) und ggf. Staudensellerie
+   3. Zucchini und Pilze (geviertelt)
+   4. Tomaten
+   
+   Wasser zugeben bis das Gemüse bedeckt ist. Zugedeckt auf kleiner Hitze garen. 
+
+Nach einer Rezeptidee von [Delinat.com](https://www.delinat.com/rezept.html?DStextrezept7=183)
 
 ∎
 
@@ -130,3 +164,31 @@ Eier in Senfsoße
 > Quelle: Reni
 
 ∎
+
+&nbsp;
+
+Zucchini-Zitrone-Nudeln
+=======================
+
+<img width="50%" src="images/Zucchini-Zitrone-Nudeln.jpg">
+
+**Zutaten** für 4 Portionen
+
+```
+500 g Nudeln (Makkaroni)
+500 g Zucchini
+  2 EL Olivenöl
+  1 Zitrone, unbehandelt, Saft und abgeriebene Schale davon
+150 g Parmesan oder Pecorino, gerieben
+  2 Zehen Knoblauch, gehackt oder gepresst
+  1 Bund Petersilie
+    Salz, Pfeffer
+```
+
+**Zubereitung**
+
+Die Nudeln nach Packungsanweisung bissfest kochen. Die Zucchini in lange, dünne, ca. 1 cm breite Streifen schneiden und in einer großen Pfanne im heißen Öl anbraten, bis sie gebräunt sind. Abgeriebene Zitronenschale, gehackten Knoblauch und dann die gehackte Petersilie zugeben, kurz weiter braten, mit dem Zitronensaft ablöschen. Die Zucchini unter die abgetropften Nudeln mischen. Den Parmesan bzw. den Pecorino unterrühren und mit Pfeffer und evtl. Salz abschmecken.
+
+∎
+
+&nbsp;
