@@ -3,7 +3,7 @@ Bohneneintopf Languedoc
 
 (franz. Cassoulet des légumes)
 
-<img align='right' style="margin:3em 0 1ex 1em;border-radius:8px" width="50%" src="images/Bohneneintop_Languedoc.jpg">
+<img align='right' style="margin:5ex 0 1ex 1em;border-radius:8px" width="50%" src="images/Bohneneintop_Languedoc.jpg">
    
 **Zutaten für 3 Personen**
 
@@ -13,7 +13,7 @@ Bohneneintopf Languedoc
   1 Lorbeerblatt
   1 kleiner Zweig Rosmarin
   1 kleiner Zweig Bohnenkraut
-150 g Pilze nach Saison
+150 g Champignons  
   1 kleine Zucchini
 370 g passierte Tomaten (oder 
     zerkleinerte Dosentomaten)
@@ -26,13 +26,11 @@ Bohneneintopf Languedoc
     mit Baguette servieren 
 ```
 
-**Variation**
-```
-5 mittlere Kartoffeln mitkochen
-und ohne Baguette servieren,
-Staudensellerie statt Pilze,
-Schalotten statt Zwiebeln
-```
+**Variationen**
+
+ > 5 mittlere Kartoffeln mitkochen und ohne Baguette servieren,  
+ > Pilze der Saison statt Champignons oder Staudensellerie statt Pilze,  
+ > Schalotten statt Zwiebeln  
  
 **Zubereitung**
 
