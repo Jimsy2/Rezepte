@@ -9,7 +9,7 @@ Ratatouille Lasagne
   1 rote Paprika
   1 gelbe Paprika
 700 g passierte Tomaten
-  1 Zweig Thymian
+  1 TL Thymian
  10 Blätter Basilikum
     Paprika edelsüß
     Muskatnuss (frisch gerieben)
@@ -20,5 +20,17 @@ Ratatouille Lasagne
  12 Lasagneplatten
   3 Käsescheiben zum überbacken 
 ```
+
+1. Die Zwiebel schälen und würfeln
+2. Knoblauch schälen und fein würfeln
+3. Zwiebelwürfel und Knoblauch in einem Topf mit etwas Öl andünsten.
+4. Die Zucchini waschen, würfeln und zu den Zwiebeln geben
+5. Die Paprikas waschen, Kerne entfernen, Würfeln und in den Topf geben.
+6. Die passierten Tomaten dazu geben und mit Thymian, Basilikum, Paprika, Muskat, Salz und Pfeffer würzen.
+7. Eine Auflaufform einfetten
+8. Als erstes etwas Tomaten-Gemüse-Sauce in die Form geben.
+9. Dann eine Schicht Lasagne-Nudeln einschichten.
+10. Nun abwechselnd Frischkäse, Nudelplatten und Sauec einschichten und mit Sauce abschließen.
+11. Die letzte Schichte Schicht mit den Käsescheiben belegen und backen.
 
 14.07.2017
