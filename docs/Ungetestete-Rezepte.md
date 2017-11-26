@@ -34,12 +34,12 @@ Spreewälder Kürbissuppe
 
 1. Kartoffeln in Salzwasser 20 min kochen, abgießen. 
 2. Zwiebeln in feine Würfel scheiden und in der Butter glasig dünsten. 
-3. Gemüsebrühe in einen großen Topf geben und alle Zutaten darin 15 min kochen.
-4. Suppen mit dem Pürierstab sämig prürriern
+3. Gemüsebrühe in einen großen Topf geben und alle Zutaten darin 15 min kochen.  
+4. Suppe mit dem Pürierstab sämig prürriern.  
 
-
-   ⸻
-
+∎  
+  
+&nbsp;
 
 Kartoffel-Lauch-Suppe
 =====================
