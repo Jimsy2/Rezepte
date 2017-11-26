@@ -14,6 +14,8 @@ Spreewälder Kürbissuppe
 
 **Zutaten** für 4 Personen:
 
+<img align='right' style="margin:5ex 0 1ex 1em;border-radius:8px" width="50%" src="images/Kürbis_vorbereiten_01_trimmed.jpg">
+
 ```
 300 g  Kartoffeln (in Stücken) 
 100 g  Zwiebeln
