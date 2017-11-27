@@ -44,9 +44,8 @@ Spreewälder Kürbissuppe
 3. Gemüsebrühe in einen großen Topf geben und alle Zutaten darin 15 min kochen.  
 4. Suppe mit dem Pürierstab sämig prürriern.  
 
-∎  
-  
-&nbsp;
+
+<p align="center">_________</p>  
 
 
 Zwiebelhack-Eintopf (vegetarisch)
