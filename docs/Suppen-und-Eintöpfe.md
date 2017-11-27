@@ -45,7 +45,7 @@ Spreewälder Kürbissuppe
 4. Suppe mit dem Pürierstab sämig prürriern.  
 
 
-<p align="center"><br><br>* * *<br><br><br></p>  
+<p align="center"><br><br><br>∗ ∗ ∗<br><br></p>  
 
 
 Zwiebelhack-Eintopf (vegetarisch)
