@@ -89,7 +89,7 @@ Zwiebelhack-Eintopf (vegetarisch)
 <p>Idee: <a href="http://www.netto-online.de/Zwiebelhackfleisch.chtm?xtmc=Zwiebelhackfleisch&amp;xtcr=1">Netto Koch-Shop</a></p>
 
 
-<br><hr><br>
+<p align="center"><br><br><br>∗ ∗ ∗<br><br></p>  
 
 
 Linseneintopf mit Räuchertofu
@@ -131,7 +131,7 @@ Kräuter, Gewürze und gewürfelten Räuchertofu beimengen.
 Tipp: Verwenden Sie zum Garnieren frische Kräuter.</p>
 
 
-<br><hr><br>
+<p align="center"><br><br><br>∗ ∗ ∗<br><br></p>  
 
 
 Käse-Lauch-Suppe (lacto-veg.)
@@ -167,7 +167,7 @@ Dazu passt Baguette.
 P.S. enthält Laktose
 
 
-<br><hr><br>
+<p align="center"><br><br><br>∗ ∗ ∗<br><br></p>  
 
 
 Minestrone nach Jamie Oliver
@@ -220,7 +220,7 @@ Quelle
 > Erfasst *RK* 12.01.2010 von Petra Holzapfel  
 
 
-<br><hr><br>
+<p align="center"><br><br><br>∗ ∗ ∗<br><br></p>  
 
 
 Rote Linsensuppe mit Curry
@@ -260,7 +260,7 @@ Die Suppe 20 Minuten lang siedend kochen. Dabei mehrmals umrühren und darauf ac
 Quelle: NW-News
 
 
-<br><hr><br>
+<p align="center"><br><br><br>∗ ∗ ∗<br><br></p>  
 
 
 Serbische Bohnensuppe (vegetarisch)
@@ -313,7 +313,7 @@ Bohnen mit 750 ml Wasser 12 Stunden einweichen.
 Idee: "Müllers Mühle":http://www.muellers-muehle.de
 
 
-<br><hr><br>
+<p align="center"><br><br><br>∗ ∗ ∗<br><br></p>  
 
 
 Serbische Bohnensuppe (original)
@@ -356,3 +356,5 @@ Bohnen mit 750 ml Wasser 12 Stunden einweichen.
 1. Die Bohnen mit dem Tomatenmark unter das Gemüse mischen.
 1. Die Wurst in Scheiben schneiden und in der Suppe erhitzen.
 1. Die Suppe mit der Petersilie bestreut anrichten
+
+∎
