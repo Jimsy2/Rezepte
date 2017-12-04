@@ -1,14 +1,50 @@
 ## Hauptgerichte ##
 
+1. [Aloo Gobi Tomater](#aloo-gobi-tomater)
 1. [Bohneneintopf Languedoc](#bohneneintopf-languedoc)
 1. [Pasta mit Feta, Oliven und Tomaten](#pasta-mit-feta-oliven-und-tomaten)
-1. [Aloo Gobi Tomater](#aloo-gobi-tomater)
 1. [Eier in Senfsoße](#eier-in-senfsoße)
 1. [Zucchini-Zitrone Nudeln](#zucchini-zitrone-nudeln)
 
-<hr>
+      <hr>
 
-&nbsp;
+      &nbsp;
+
+
+Aloo Gobi Tomater
+=================
+
+<img align='right' style="margin:5ex 0 1ex 1em;border-radius:8px" width="50%" src="images/Alu-Gobi-Tomater.jpg">
+
+### Zutaten
+
+```
+  1 kleiner Blumenkohl
+  4 Kartoffeln
+400 g Tomaten (z.B. Pizzatomaten aus der Dose)
+  2 EL  Olivenöl
+  1 gestr. EL Kreuzkümmel (Cumin)
+  1 gestr. EL Garam Masala
+  1 gestr. TL Korianderpulver
+  1 Prise Muskatnuss
+  1 gestr. TL Kurkuma (Gelbwurz)
+  1 TL frischer Ingwer (gerieben)
+    Salz
+dazu Basmati-Reis
+```
+
+### Zubereitung
+
+Kartoffeln schälen. Wenn man gute Frühkartoffeln hat, diese unter Wasser sauber bürsten. In 2 bis 3 cm große Stücke schneiden. Blumenkohl waschen und Röschen in gleicher Größe abtrennen. Wenn man frische Tomaten hat, ebenfalls waschen und in Stücke schneiden.
+
+Öl in einer tiefen Pfanne (oder flachem Topf) erhitzen und alle Gewürze (außer Muskat) darin unter Rühren anrösten bis es duftet.
+
+Tomaten dazugeben, mit Muskat und Salz würzen und gut vermischen. Kartoffel und Blumenkohl dazugeben, umrühren. Mit Deckel köcheln lassen bis alles gar ist. Gelegentlich umrühren.
+
+> Quelle: Originalrezept von http://www.jaisiyaram.de/blog/rezepte/8729-alu-gobi-tomater-ayurvedisches-rezept-fuer-blumenkohl-mit-kartoffeln-und-tomaten-20-aug-11.html
+
+
+   <p align="center"><br><br><br>∗ ∗ ∗<br><br></p>  
 
 
 Bohneneintopf Languedoc
@@ -65,14 +101,14 @@ Bohneneintopf Languedoc
 
 Nach einer Rezeptidee von [Delinat.com](https://www.delinat.com/rezept.html?DStextrezept7=183)
 
-∎
 
-&nbsp;
+<p align="center"><br><br><br>∗ ∗ ∗<br><br></p>  
+
 
 Pasta mit Feta, Oliven und Tomaten
 ==================================
 
-<img width="50%" src="images/Pasta-mit-Feta-Oliven-Tomaten.jpg">
+   <img align='right' style="margin:5ex 0 1ex 1em;border-radius:8px" width="50%" src="images/Pasta-mit-Feta-Oliven-Tomaten.jpg">
 
 **Zutaten** für 2 Portionen
 
@@ -93,45 +129,9 @@ Die Nudeln in Salzwasser kochen. In der Zwischenzeit Olivenöl in einer großer 
 
 > Quelle: Originalrezept war im Kalender 2016 des Combi-Markt
 
-∎
 
-&nbsp;
+<p align="center"><br><br><br>∗ ∗ ∗<br><br></p>  
 
-Aloo Gobi Tomater
-=================
-
-<img align='right' style="margin:5ex 0 1ex 1em;border-radius:8px" width="50%" src="images/Alu-Gobi-Tomater.jpg">
-
-### Zutaten
-
-```
-  1 kleiner Blumenkohl
-  4 Kartoffeln
-400 g Tomaten (z.B. Pizzatomaten aus der Dose)
-  2 EL  Olivenöl
-  1 gestr. EL Kreuzkümmel (Cumin)
-  1 gestr. EL Garam Masala
-  1 gestr. TL Korianderpulver
-  1 Prise Muskatnuss
-  1 gestr. TL Kurkuma (Gelbwurz)
-  1 TL frischer Ingwer (gerieben)
-    Salz
-dazu Basmati-Reis
-```
-
-### Zubereitung
-
-Kartoffeln schälen. Wenn man gute Frühkartoffeln hat, diese unter Wasser sauber bürsten. In 2 bis 3 cm große Stücke schneiden. Blumenkohl waschen und Röschen in gleicher Größe abtrennen. Wenn man frische Tomaten hat, ebenfalls waschen und in Stücke schneiden.
-
-Öl in einer tiefen Pfanne (oder flachem Topf) erhitzen und alle Gewürze (außer Muskat) darin unter Rühren anrösten bis es duftet.
-
-Tomaten dazugeben, mit Muskat und Salz würzen und gut vermischen. Kartoffel und Blumenkohl dazugeben, umrühren. Mit Deckel köcheln lassen bis alles gar ist. Gelegentlich umrühren.
-
-> Quelle: Originalrezept von http://www.jaisiyaram.de/blog/rezepte/8729-alu-gobi-tomater-ayurvedisches-rezept-fuer-blumenkohl-mit-kartoffeln-und-tomaten-20-aug-11.html
-
-∎
-
-&nbsp;
 
 Eier in Senfsoße
 ================
@@ -163,14 +163,14 @@ Eier in Senfsoße
 
 > Quelle: Reni
 
-∎
 
-&nbsp;
+   <p align="center"><br><br><br>∗ ∗ ∗<br><br></p>  
+
 
 Zucchini-Zitrone-Nudeln
 =======================
 
-<img width="50%" src="images/Zucchini-Zitrone-Nudeln.jpg">
+   <img align='right' style="margin:5ex 0 1ex 1em;border-radius:8px" width="50%" src="images/Zucchini-Zitrone-Nudeln.jpg">
 
 **Zutaten** für 4 Portionen
 
