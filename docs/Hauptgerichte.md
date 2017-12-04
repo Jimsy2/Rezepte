@@ -100,7 +100,7 @@ Die Nudeln in Salzwasser kochen. In der Zwischenzeit Olivenöl in einer großer 
 Aloo Gobi Tomater
 =================
 
-![Bild](images/Alu-Gobi-Tomater.jpg)
+<img align='right' style="margin:5ex 0 1ex 1em;border-radius:8px" width="50%" src="images/Alu-Gobi-Tomater.jpg">
 
 ### Zutaten
 
