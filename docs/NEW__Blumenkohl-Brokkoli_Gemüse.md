@@ -6,20 +6,16 @@ Blumenkohl-Brokkoli Gemüse
 <img align='right' style="margin:5ex 0 1ex 1em;border-radius:8px" width="50%" src="images/Blumenkohl-Brokkoli-Gemuese.jpg">
 
 ```
-1  kleiner Blumenkohl  (750 g) 
-400 g Brokkoli
-200 g Möhren
-```
-
-**für die Käsesoße**
-```
-50 g Butter
-30 g Mehl
-250 g Sahne
-1/8 l Milch
+750 g  Blumenkohl 
+400 g  Brokkoli
+200 g  Möhren
+ 50 g  Butter
+ 30 g  Mehl
+250 g  Sahne
+125 ml Milch
 250 g
-Salz und Pfeffer
-Muskatnuss
+       Salz und Pfeffer
+       Muskatnuss
 ```
 
 Vorbereitungszeit: 40 Minuten  
