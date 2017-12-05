@@ -13,7 +13,7 @@ Blumenkohl-Brokkoli Gemüse
  30 g  Mehl
 250 g  Sahne
 125 ml Milch
-250 g
+120 g  Emmentaler (gerieben)
        Salz und Pfeffer
        Muskatnuss
 ```
