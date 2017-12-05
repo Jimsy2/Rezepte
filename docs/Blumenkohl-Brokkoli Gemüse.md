@@ -1,17 +1,19 @@
 Blumenkohl-Brokkoli Gemüse
 ==========================
 
-
 für 4 Portionen
 
-<img width='50%' src="images/Blumenkohl-Brokkoli-Gemuese.jpg">
+<img align='right' style="margin:5ex 0 1ex 1em;border-radius:8px" width="50%" src="images/Blumenkohl-Brokkoli-Gemuese.jpg">
 
+```
 1  kleiner Blumenkohl  (750 g) 
 400 g Brokkoli
 200 g Möhren
+```
 <del>200 g gekochter Schinken</del>
 
-**für die Käse Soße**
+**für die Käsesoße**
+```
 50 g Butter
 30 g Mehl
 250 g Sahne
@@ -19,6 +21,7 @@ für 4 Portionen
 250 g
 Salz und Pfeffer
 Muskatnuss
+```
 
 Vorbereitungszeit: 40 Minuten
 Backen: 15 Minuten
