@@ -9,8 +9,8 @@ Vollkornbrötchen
 =================
 
 ```
-  75 g    Vollkornweizenmehl 
- 325 g    Weizennmehl
+ 100 g    Vollkornweizenmehl 
+ 400 g    Weizennmehl
  300 ml   Wasser
    1 Pck. Trockenhefe
    1 TL   Salz
@@ -30,7 +30,7 @@ nochmal 10 Min. gehen lassen.
 > Die Backzeit beträgt ca. 25-30 min.
 
 
-Quelle: Chefkoch
+Vorlage: [Chefkoch](https://www.chefkoch.de/rezepte/662201168007807/Die-schnellsten-Broetchen-der-Welt.html)
 
 &nbsp;
 
@@ -43,14 +43,15 @@ Röstzwiebelbrötchen
  250 g	   Quark (Magerquark)
    1 TL	   Salz
    1 Pck.  Backpulver
-   1 	     Ei
+   1       Ei
   50 g	   Röstzwiebeln
  ```
  
-Das Mehl mit dem Backpulver und dem Salz mischen.   
-Magerquark, verquirlte Eier und Röstzwiebeln dazugeben.  
-Alles zu einem Teig verkneten. (Der Teig ist etwas trocken, die Brötchen schön saftig).  
-Aus der Masse kleine Brötchen formen.  
-Bei 190° ca. 20-30 Minuten backen.
+ * Das Mehl mit dem Backpulver und dem Salz mischen.  
+ * Magerquark, Ei und Röstzwiebeln dazugeben und zu einem Teig verkneten.
+   (Der Teig ist etwas trocken, die Brötchen schön saftig).  
+ * Aus der Masse 8 kleine Brötchen formen.  
+
+> Bei 190° C ca. 20-30 Minuten backen.
 
 Quelle: [Chefkoch](https://www.chefkoch.de/rezepte/517131147874728/Zwiebelbrot.html)
