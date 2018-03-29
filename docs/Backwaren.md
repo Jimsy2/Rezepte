@@ -53,4 +53,4 @@ Alles zu einem Teig verkneten. (Der Teig ist etwas trocken, die Brötchen schön
 Aus der Masse kleine Brötchen formen.  
 Bei 190° ca. 20-30 Minuten backen.
 
-Quelle: Chefkoch https://www.chefkoch.de/rezepte/517131147874728/Zwiebelbrot.html
+Quelle: [Chefkoch](https://www.chefkoch.de/rezepte/517131147874728/Zwiebelbrot.html)
