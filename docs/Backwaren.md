@@ -1,7 +1,7 @@
 ## Backwaren
 
-1. [Vollkornbrötchen](#Vollkornbrötchen)
-2. [Röstzwiebelbrötchen](#Röstzwiebelbrötchen)
+1. [Vollkornbrötchen](#vollkornbrötchen)
+2. [Röstzwiebelbrötchen](#röstzwiebelbrötchen)
 
 &nbsp;
 
