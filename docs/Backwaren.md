@@ -41,9 +41,9 @@ Röstzwiebelbrötchen
 ```
  250 g	   Mehl
  250 g	   Quark (Magerquark)
-   1 TL	 Salz
-   1 Pck. Backpulver
-   1 	   Ei
+   1 TL	   Salz
+   1 Pck.  Backpulver
+   1 	     Ei
   50 g	   Röstzwiebeln
  ```
  
