@@ -5,6 +5,7 @@
  - [Pizza](https://jimsy2.github.io/Rezepte/docs/Pizza)
  - [Salate](https://jimsy2.github.io/Rezepte/docs/Salate)
  - [Kuchen](https://jimsy2.github.io/Rezepte/docs/Kuchen)
+ - [Backwaren](https://jimsy2.github.io/Rezepte/docs/Backwaren)
 
 ### ungetestet
 
