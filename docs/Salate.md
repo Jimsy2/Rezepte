@@ -5,9 +5,9 @@ Salate
 1. [Zucchini-Champignonsalat](#zucchini-champignonsalat)
 1. [Kohlrabisalat mit Walnüssen](#kohlrabisalat-mit-walnüssen)
   
-&nbsp;
+--  
 
-<hr>
+
 
 Herzhafter Nudelsalat		
 =====================		
@@ -49,7 +49,7 @@ Zubereitungszeit ca. 30 Minuten, pro Portion ca. 2730 Jouie/650 Kalorien
 		
 <div dir="rtl">∎</div>
 
-&nbsp;
+
 
 Kohlrabisalat mit Walnüssen
 ---------------------------
@@ -74,9 +74,9 @@ Joghurt mit Zitronensaft und Zucker verrühren, mit Salz und Pfeffer abschmecken
 
 Apfel mit Kohlrabi und Joghurt-Dressing verrühren, mit Walnüssen bestreuen. 
 
-∎
+<div dir="rtl">∎</div>
 
-&nbsp;
+
 
 Zucchini-Champignonsalat
 ------------------------
@@ -103,4 +103,5 @@ Anmerkungen:
 > mit Sesam testen  
 > mit weißem Balsamico testen  
 
-∎
+<div dir="rtl">∎</div>
+
