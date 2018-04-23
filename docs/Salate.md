@@ -5,7 +5,7 @@ Salate
 1. [Zucchini-Champignonsalat](#zucchini-champignonsalat)
 1. [Kohlrabisalat mit Walnüssen](#kohlrabisalat-mit-walnüssen)
   
---  
+<p dir="rtl">∎</p>
 
 
 
