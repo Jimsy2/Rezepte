@@ -5,12 +5,12 @@ Salate
 1. [Zucchini-Champignonsalat](#zucchini-champignonsalat)
 1. [Kohlrabisalat mit Walnüssen](#kohlrabisalat-mit-walnüssen)
   
-<p dir="rtl">∎</p>
+<div dir="rtl">∎</div>
 
 
 
 Herzhafter Nudelsalat		
-=====================		
+---------------------		
 		
 Zubereitungszeit ca. 30 Minuten, pro Portion ca. 2730 Jouie/650 Kalorien		
 
