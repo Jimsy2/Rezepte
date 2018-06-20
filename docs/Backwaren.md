@@ -23,7 +23,7 @@ Vollkornbrötchen
  -  Honig zugeben und das Salz einstreuen.  
  -  Unter ständigem Rühren das Mehl nach und nach zugeben.  
  -  Den Teig 30 Minuten gehen lassen.  
- -  Neun kleine Brötchen daraus formen.  
+ -  9 kleine Brötchen daraus formen.  
  -  Auf ein mit Backpapier ausgelegtes Blech legen und 
 nochmal 10 Min. gehen lassen.  
 
