@@ -17,6 +17,8 @@ Vollkornbrötchen
    1 TL   Honig
 ```
    
+**Zubereitung**
+
 &nbsp;•&nbsp;  Die Hefe im Wasser auflösen.  
 &nbsp;•&nbsp;  Honig zugeben und das Salz einstreuen.  
 &nbsp;•&nbsp;  Unter ständigem Rühren das Mehl nach und nach zugeben.  
