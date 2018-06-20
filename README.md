@@ -1,19 +1,19 @@
 # Rezeptsammlung
 
  - [Hauptgerichte](docs/Hauptgerichte.md)
- - [Suppen und Eintöpfe](https://jimsy2.github.io/Rezepte/docs/Suppen-und-Eintöpfe)
- - [Pizza](https://jimsy2.github.io/Rezepte/docs/Pizza)
- - [Salate](https://jimsy2.github.io/Rezepte/docs/Salate)
- - [Kuchen](https://jimsy2.github.io/Rezepte/docs/Kuchen)
- - [sonstige Backwaren](https://jimsy2.github.io/Rezepte/docs/Backwaren)
+ - [Suppen und Eintöpfe](docs/Suppen-und-Eintöpfe.md)
+ - [Pizza](docs/Pizza.md)
+ - [Salate](docs/Salate.md)
+ - [Kuchen](docs/Kuchen.md)
+ - [sonstige Backwaren](docs/Backwaren.md)
 
 ### ungetestet
 
- - [Ungetestete Rezepte](https://jimsy2.github.io/Rezepte/docs/Ungetestete-Rezepte)
+ - [Ungetestete Rezepte](docs/Ungetestete-Rezepte.md)
 
 ## Infos zu Nahrungsmitteln
 
- - [Zuckergehalt-Tabelle](https://jimsy2.github.io/Rezepte/docs/Zuckergehalt_2017)
+ - [Zuckergehalt-Tabelle](docs/Zuckergehalt_2017.md)
 
    ⸻
 
