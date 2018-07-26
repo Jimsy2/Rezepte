@@ -1,16 +1,16 @@
 Zucchini mit Couscous gefüllt
 =================
 
-<img align='right' style="margin:5ex 0 1ex 1em;border-radius:8px" width="50%" src="images/Zucchini.jpg">
+<img align='right' style="margin:5ex 0 1ex 1em;border-radius:8px" width="37%" src="images/Zucchini.jpg">
 
 **Zutaten** für 4 Personen
 ```
 350 ml Gemüsebrühe
- 40 g Rosinen
+ 40 g Rosinen                       | 4 EL Korinthen
   ½ TL Zimtpulver
   1 TL Curcuma
-2–3 TL Harissa (scharfe Chilipaste)
-200 g Couscous
+2–3 TL Harissa (scharfe Chilipaste) | 1 TL
+200 g Couscous                      | 180 g
   4 EL Olivenöl
   3 EL gehackte Mandeln
   2 EL gehackte Petersilienblätter
