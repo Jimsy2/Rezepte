@@ -17,7 +17,14 @@ Zucchini mit Couscous gefüllt
   4 Zucchini à ca. 220 g       3 Zucchini
 400 g gewürfelte Tomaten     200 ml Tomatensaft
 200 g Joghurt                200 g griechischer
-    Pfeffer und Salz             Cayennepfeffer
+    Pfeffer und Salz             Salz
+                                 Cayennepfeffer
+                     1 TL Paprikapulver edelsüß
+                         ½ TL gemahlener Ingwer
+                         1 unbehandelte Limette
+                             100 g Feta
+                               2 Knoblauchzehen
+                               3 Schalotten
 ```
 
 1. Brühe mit Rosinen, Zimt, Curcuma und Harissa aufkochen. Topf von der Flamme nehmen. Couscous zugeben und zugedeckt nach Packungsanweisung quellen lassen. Mit einer Gabel auflockern. 2 EL Olivenöl, Mandeln und Petersilie unterrühren. Salzen.
