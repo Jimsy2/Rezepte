@@ -1,4 +1,5 @@
-## Hauptgerichte ##
+Hauptgerichte
+=============
 
 1. [Aloo Gobi Tomater](#aloo-gobi-tomater)
 2. [Bohneneintopf Languedoc](#bohneneintopf-languedoc)
@@ -11,7 +12,7 @@ ____
 　  
 
 Aloo Gobi Tomater
-=================
+-----------------
 
 <img align='right' style="margin:5ex 0 1ex 1em;border-radius:8px" width="50%" src="images/Alu-Gobi-Tomater.jpg">
 
@@ -47,7 +48,7 @@ Tomaten dazugeben, mit Muskat und Salz würzen und gut vermischen. Kartoffel und
 
 
 Bohneneintopf Languedoc
-=======================
+-----------------------
 
 (franz. Cassoulet des légumes)
 
@@ -105,7 +106,7 @@ Nach einer Rezeptidee von [Delinat.com](https://www.delinat.com/rezept.html?DSte
 
 
 Pasta mit Feta, Oliven und Tomaten
-==================================
+----------------------------------
 
    <img align='right' style="margin:5ex 0 1ex 1em;border-radius:8px" width="50%" src="images/Pasta-mit-Feta-Oliven-Tomaten.jpg">
 
@@ -133,7 +134,7 @@ Die Nudeln in Salzwasser kochen. In der Zwischenzeit Olivenöl in einer großer 
 
 
 Eier in Senfsoße
-================
+----------------
 
 **Zutaten** für 3 Personen
 
@@ -167,7 +168,7 @@ Eier in Senfsoße
 
 
 Zucchini-Zitrone-Nudeln
-=======================
+-----------------------
 
    <img align='right' style="margin:5ex 0 1ex 1em;border-radius:8px" width="50%" src="images/Zucchini-Zitrone-Nudeln.jpg">
 
