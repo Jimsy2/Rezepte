@@ -14,7 +14,7 @@ ____
 Aloo Gobi Tomater
 -----------------
 
-<img align='right' style="margin:7ex 0 1ex 1em;border-radius:8px" width="40%" src="images/Alu-Gobi-Tomater.jpg">
+<img align='right' style="float:right;mmargin:7ex 0 1ex 1em;border-radius:8px" width="40%" src="images/Alu-Gobi-Tomater.jpg">
 
 **Zutaten**
 
