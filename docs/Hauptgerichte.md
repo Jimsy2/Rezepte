@@ -1,14 +1,12 @@
 ## Hauptgerichte ##
 
 1. [Aloo Gobi Tomater](#aloo-gobi-tomater)
-1. [Bohneneintopf Languedoc](#bohneneintopf-languedoc)
-1. [Pasta mit Feta, Oliven und Tomaten](#pasta-mit-feta-oliven-und-tomaten)
-1. [Eier in Senfsoße](#eier-in-senfsoße)
-1. [Zucchini-Zitrone Nudeln](#zucchini-zitrone-nudeln)
+2. [Bohneneintopf Languedoc](#bohneneintopf-languedoc)
+3. [Pasta mit Feta, Oliven und Tomaten](#pasta-mit-feta-oliven-und-tomaten)
+4. [Eier in Senfsoße](#eier-in-senfsoße)
+5. [Zucchini-Zitrone Nudeln](#zucchini-zitrone-nudeln)
 
-      <hr>
-
-      &nbsp;
+____  
 
 
 Aloo Gobi Tomater
