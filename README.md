@@ -15,7 +15,7 @@
 
  - [Zuckergehalt-Tabelle](docs/Zuckergehalt_2017.md)
 
-　
+　  
 ———
 
 *Der Mealmaster ist tot, lang lebe Markdown!* ;-)  
