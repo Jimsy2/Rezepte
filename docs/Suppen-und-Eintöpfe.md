@@ -12,9 +12,9 @@ Suppen und Eintöpfe
 1. [Serbische Bohnensuppe HTML](#serbische-bohnensuppe-original)
 1. [Spreewälder Kürbissuppe](#spreewälder-kürbissuppe)
 
-
-<br><hr><br>
-
+　  
+____  
+　  
 
 Spreewälder Kürbissuppe
 =======================
@@ -357,4 +357,4 @@ Bohnen mit 750 ml Wasser 12 Stunden einweichen.
 1. Die Wurst in Scheiben schneiden und in der Suppe erhitzen.
 1. Die Suppe mit der Petersilie bestreut anrichten
 
-∎
+∎  
