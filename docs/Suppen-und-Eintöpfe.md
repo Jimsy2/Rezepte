@@ -8,7 +8,7 @@ Suppen und Eintöpfe
 1. [Käse-Lauch-Suppe von becel](#käse-lauch-suppe-lacto-veg)
 1. [Minestrone nach Jamie Oliver](#minestrone-nach-jamie-oliver)
 1. [Rote Linsensuppe mit Curry](#rote-linsensuppe-mit-curry)
-1. [Serbische Bohnensuppe](#serbische-bohnensuppe)
+1. [Serbische Bohnensuppe](#serbische-bohnensuppe-vegetarisch)
 1. [Serbische Bohnensuppe HTML](#serbische-bohnensuppe-original)
 1. [Spreewälder Kürbissuppe](#spreewälder-kürbissuppe)
 
