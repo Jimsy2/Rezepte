@@ -14,14 +14,15 @@ ____
 Aloo Gobi Tomater
 -----------------
 
-<img align='right' style="float:right;margin:7ex 0 1ex 1em;border-radius:8px" width="40%" src="images/Alu-Gobi-Tomater.jpg">
+<img align='right' style="margin:7ex 0 1ex 1em;border-radius:8px" width="50%" src="images/Alu-Gobi-Tomater.jpg">
 
 **Zutaten**
 
 ```
   1 kleiner Blumenkohl
   4 Kartoffeln
-400 g Tomaten (z.B. Pizzatomaten aus der Dose)
+400 g Tomaten
+    (z.B. Pizzatomaten aus der Dose)
   2 EL  Olivenöl
   1 gestr. EL Kreuzkümmel (Cumin)
   1 gestr. EL Garam Masala
@@ -57,18 +58,18 @@ Bohneneintopf Languedoc
 **Zutaten für 3 Personen**
 
 ```
-250 g getrocknete Bohnen
-0,5 ℓ Gemüsebrühe (Bouillon)
+250 g  getrocknete Bohnen
+0,5 l  Gemüsebrühe (Bouillon)
   1 Lorbeerblatt
   1 kleiner Zweig Rosmarin
   1 TL Bohnenkraut
 150 g Champignons  
   1 kleine Zucchini
-370 g passierte Tomaten (oder 
+370 g  passierte Tomaten (oder 
     zerkleinerte Dosentomaten)
   1 Stange Lauch
   1 Zwiebeln 
-100 g schwarze entkernte Oliven
+100 g  schwarze entkernte Oliven
   2 Knoblauchzehen
     Salz, Pfeffer
   6 EL Olivenöl
@@ -118,7 +119,8 @@ Pasta mit Feta, Oliven und Tomaten
 333 g     Nudeln (Fusilli)
 200 g     Kirschtomaten
  12 Stück schwarze Oliven (ohne Kern) 
-150 g     Fetakäse (aus Ziegen- oder Schafsmilch)
+150 g     Fetakäse 
+          (aus Ziegen- oder Schafsmilch)
   3 EL    Olivenöl 
   2 Zehen Knoblauch 
           Basilikum (frisch gehackt)
