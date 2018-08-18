@@ -44,7 +44,7 @@ Tomaten dazugeben, mit Muskat und Salz würzen und gut vermischen. Kartoffel und
 > Quelle: Originalrezept siehe https://goo.gl/eAAMmP
 
 
-   <p align="center"><br><br><br>∗ ∗ ∗<br><br></p>  
+   <p align="center"><br><br><br>＊　＊　＊<br><br></p>  
 
 
 Bohneneintopf Languedoc
@@ -102,7 +102,9 @@ Bohneneintopf Languedoc
 Nach einer Rezeptidee von [Delinat.com](https://www.delinat.com/rezept.html?DStextrezept7=183)
 
 
-<p align="center"><br><br><br>∗ ∗ ∗<br><br></p>  
+
+   <p align="center"><br><br><br>＊　＊　＊<br><br></p>  
+
 
 
 Pasta mit Feta, Oliven und Tomaten
@@ -130,7 +132,9 @@ Die Nudeln in Salzwasser kochen. In der Zwischenzeit Olivenöl in einer großer 
 > Quelle: Originalrezept war im Kalender 2016 des Combi-Markt
 
 
-<p align="center"><br><br><br>∗ ∗ ∗<br><br></p>  
+
+   <p align="center"><br><br><br>＊　＊　＊<br><br></p>  
+
 
 
 Eier in Senfsoße
@@ -164,7 +168,9 @@ Eier in Senfsoße
 > Quelle: Reni
 
 
-   <p align="center"><br><br><br>∗ ∗ ∗<br><br></p>  
+
+   <p align="center"><br><br><br>＊　＊　＊<br><br></p>  
+
 
 
 Zucchini-Zitrone-Nudeln
