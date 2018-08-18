@@ -16,7 +16,7 @@ Aloo Gobi Tomater
 
 <img align='right' style="margin:5ex 0 1ex 1em;border-radius:8px" width="50%" src="images/Alu-Gobi-Tomater.jpg">
 
-### Zutaten
+**Zutaten**
 
 ```
   1 kleiner Blumenkohl
@@ -33,7 +33,7 @@ Aloo Gobi Tomater
 dazu Basmati-Reis
 ```
 
-### Zubereitung
+**Zubereitung**
 
 Kartoffeln schälen. Wenn man gute Frühkartoffeln hat, diese unter Wasser sauber bürsten. In 2 bis 3 cm große Stücke schneiden. Blumenkohl waschen und Röschen in gleicher Größe abtrennen. Wenn man frische Tomaten hat, ebenfalls waschen und in Stücke schneiden.
 
