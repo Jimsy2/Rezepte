@@ -41,7 +41,7 @@ Kartoffeln schälen. Wenn man gute Frühkartoffeln hat, diese unter Wasser saube
 
 Tomaten dazugeben, mit Muskat und Salz würzen und gut vermischen. Kartoffel und Blumenkohl dazugeben, umrühren. Mit Deckel köcheln lassen bis alles gar ist. Gelegentlich umrühren.
 
-> Quelle: Originalrezept von http://www.jaisiyaram.de/blog/rezepte/8729-alu-gobi-tomater-ayurvedisches-rezept-fuer-blumenkohl-mit-kartoffeln-und-tomaten-20-aug-11.html
+> Quelle: Originalrezept siehe https://goo.gl/eAAMmP
 
 
    <p align="center"><br><br><br>∗ ∗ ∗<br><br></p>  
