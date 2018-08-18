@@ -3,8 +3,9 @@
 1. [Pizzateig a la Dirk](#pizzateig-a-la-dirk)
 1. [Dinkel-Vollkorn-Pizzateig a la Dirk](#dinkel-vollkorn-pizzateig-a-la-dirk)
 
-   ⸻
-
+　  
+____  
+　  
 
 Pizzateig a la Dirk
 ===================
@@ -27,7 +28,9 @@ Pizzateig a la Dirk
 1. Wenn der Teig sein Volumen in etwa verdoppelt hat noch mal etwas durchkneten (ggf. bemehlen), anschließend ausrollen.
 
 
-   ⸻
+　  
+____  
+　  
 
 
 Dinkel-Vollkorn-Pizzateig a la Dirk
@@ -50,4 +53,4 @@ Dinkel-Vollkorn-Pizzateig a la Dirk
 1. Teig bemehlen, abdecken und gehen lassen.
 1. Wenn der Teig sein Volumen in etwa verdoppelt hat noch mal etwas durchkneten (ggf. bemehlen), anschließend ausrollen.
 
-   ∎
+   ∎  
