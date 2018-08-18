@@ -111,7 +111,7 @@ Nach einer Rezeptidee von [Delinat.com](https://www.delinat.com/rezept.html?DSte
 Pasta mit Feta, Oliven und Tomaten
 ----------------------------------
 
-   <img align='right' style="margin:5ex 0 1ex 1em;border-radius:8px" width="50%" src="images/Pasta-mit-Feta-Oliven-Tomaten.jpg">
+<img align='right' style="margin:5ex 0 1ex 1em;border-radius:8px" width="50%" src="images/Pasta-mit-Feta-Oliven-Tomaten.jpg">
 
 **Zutaten** für 2 Portionen
 
@@ -186,7 +186,8 @@ Zucchini-Zitrone-Nudeln
 500 g Nudeln (Makkaroni)
 500 g Zucchini
   2 EL Olivenöl
-  1 Zitrone, unbehandelt, Saft und abgeriebene Schale davon
+  1 Zitrone, unbehandelt, 
+    Saft und abgeriebene Schale davon
 150 g Parmesan oder Pecorino, gerieben
   2 Zehen Knoblauch, gehackt oder gepresst
   1 Bund Petersilie
