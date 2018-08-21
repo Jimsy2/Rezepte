@@ -186,10 +186,12 @@ Zucchini-Zitrone-Nudeln
 500 g Nudeln (Makkaroni)
 500 g Zucchini
   2 EL Olivenöl
-  1 Zitrone, unbehandelt, 
-    Saft und abgeriebene Schale davon
-150 g Parmesan oder Pecorino, gerieben
-  2 Zehen Knoblauch, gehackt oder gepresst
+  1 Zitrone, unbehandelt, Saft  
+    und abgeriebene Schale davon
+150 g Parmesan oder Pecorino,  
+    gerieben
+  2 Zehen Knoblauch, gehackt 
+    oder gepresst
   1 Bund Petersilie
     Salz, Pfeffer
 ```
