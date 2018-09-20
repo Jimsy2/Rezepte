@@ -17,9 +17,9 @@ Rezept 1                     Rezept 2
   2 EL gehackte Petersilie     1 EL gehackte P.
   4 Zucchini à ca. 220 g       3 Zucchini
 400 g gewürfelte Tomaten     200 ml Tomatensaft
-200 g Joghurt                200 g griechischer J.
-    Pfeffer und Salz             Salz
-                                 Cayennepfeffer
+200 g Joghurt                200 g griech. Jogh.
+    Pfeffer                      Cayennepfeffer
+     und Salz                    Salz
                      1 TL Paprikapulver edelsüß
                          ½ TL gemahlener Ingwer
                          1 unbehandelte Limette
