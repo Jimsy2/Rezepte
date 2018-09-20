@@ -1,10 +1,11 @@
 Zucchini mit Couscous gefüllt
 =================
 
-<img align='right' style="margin:5ex 0 1ex 1em;border-radius:8px" width="37%" src="images/Zucchini.jpg">
+<img align='right' style="margin:5ex 0 1ex 1em;border-radius:8px" width="33%" src="images/Zucchini.jpg">
 
 **Zutaten** für 4 Personen
 ```
+Rezept 1                     Rezept 2
 350 ml Gemüsebrühe           200 ml Gemüsebrühe
  40 g Rosinen                  4 EL Korinthen
   ½ TL Zimtpulver              1 Prise Zimt
@@ -26,13 +27,16 @@ Zucchini mit Couscous gefüllt
                                2 Knoblauchzehen
                                3 Schalotten
 ```
+Rezept 1
 
-<div width=50%>
 <ol><li>Brühe mit Rosinen, Zimt, Curcuma und Harissa aufkochen. Topf von der Flamme nehmen. Couscous zugeben und zugedeckt nach Packungsanweisung quellen lassen. Mit einer Gabel auflockern. 2 EL Olivenöl, Mandeln und Petersilie unterrühren. Salzen.  
 <li>Zucchini längs halbieren. Kerne mit einem Teelöffel herauslösen und hacken. Fruchtfleisch mit Tomaten und restlichem Öl mischen, salzen, pfeffern und in eine Auflaufform geben. Zucchinihälften darauf setzen und mit der Couscous-Masse füllen.  
 <li>Bei 220 Grad 30 Minuten im Ofen garen. Falls die Nüsse und Rosinen zu stark bräunen, mit einem Deckel abdecken. Mit Joghurt servieren.
 </ol>
 <p align=right>inspiriert durch Schrot&Korn 8/2011 </p>
+
+Rezept 2
+
 <ol>
 <li>Den Backofen auf 200°C Ober- und Unterhitze vorheizen. Eine große oder 2 kleinere ofenfeste Formen mit etwas Öl ausstreichen.  
 <li> Die Zucchini waschen, die Enden abschneiden und in ca. 8 cm lange Stücke schneiden. Diese mit einem Kugelausstecher oder einem kleinen Löffel aushöhlen, dabei darauf achten das ein ca. 1 cm dicker Boden übrig bleibt. Mit der Öffnung nach oben in die Formen stellen. Die Hälfte vom Fruchtfleisch klein hacken. Die Mandeln grob hacken und in einer Pfanne ohne Fett kurz anrösten, bis sie duften.  
