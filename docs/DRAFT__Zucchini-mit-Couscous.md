@@ -1,31 +1,25 @@
 Zucchini mit Couscous gefüllt
 =================
 
-<img align='right' style="margin:5ex 0 1ex 1em;border-radius:8px" width="33%" src="images/Zucchini.jpg">
+<img align='right' style="margin:5ex 0 1ex 1em;border-radius:8px" width="50%" src="images/Zucchini.jpg">
 
 **Zutaten** für 4 Personen
 ```
-Rezept 1                     Rezept 2
-350 ml Gemüsebrühe           200 ml Gemüsebrühe
- 40 g Rosinen                  4 EL Korinthen
-  ½ TL Zimtpulver              1 Prise Zimt
-  1 TL Curcuma                 1 TL Kurkuma
-2–3 TL Harissa (Chilipaste)    1 TL Harissa
-200 g Couscous               180 g Couscous
-  4 EL Olivenöl                2 EL Olivenöl
-  3 EL gehackte Mandeln       40 g geschälte M.
-  2 EL gehackte Petersilie     1 EL gehackte P.
-  4 Zucchini à ca. 220 g       3 Zucchini
-400 g gewürfelte Tomaten     200 ml Tomatensaft
-200 g Joghurt                200 g griech. Jogh.
-    Pfeffer                      Cayennepfeffer
-     und Salz                    Salz
-                     1 TL Paprikapulver edelsüß
-                         ½ TL gemahlener Ingwer
-                         1 unbehandelte Limette
-                             100 g Feta
-                               2 Knoblauchzehen
-                               3 Schalotten
+360 ml Gemüsebrühe
+ 40 g Rosinen
+  ½ TL Zimtpulver
+  1 TL Curcuma
+  1 TL Harissa (Chilipaste)
+180 g Couscous
+  2 EL Olivenöl
+ 40 g gehackte Mandeln
+  3 EL gehackte Petersilie
+  2 Zucchini à ca. 400 g
+400 g gewürfelte Tomaten
+    Pfeffer und Salz
+100 g Feta
+  1 TL Knoblauchgranulat
+  1 Zwiebel
 ```
 Rezept 1
 
