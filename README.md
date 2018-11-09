@@ -13,7 +13,7 @@
 
 ## Infos zu Nahrungsmitteln
 
- - [Zuckergehalt-Tabelle](docs/Zuckergehalt_2017.md)
+ - [Zuckergehalt-Tabelle](docs/Zuckergehalt_2017.html)
 
 　  
 ———
