@@ -1,7 +1,9 @@
-Vegetarisches Mafé
+Maafe ohne Fleisch
 ------------------
 
 <img align='right' style="margin:5ex 0 1ex 1em;border-radius:8px" width="50%" src="images/Vegan.png">
+
+Maafe (franz. Mafé) ist ein westafrikanisches Gericht und bedeutet wörtlich übersetzt "Erdnussbuttersoße". Es ist ein im Senegal und Gambia beliebtes Gericht und existiert in vielen Variationen.
 
 **Zutaten** für 4 Personen
 
@@ -10,13 +12,13 @@ Vegetarisches Mafé
 250 g	 Karotte(n)
 400 g	 Kartoffel(n)
 100 g	 Zwiebel(n)
-  2 	  Knoblauchzehe(n)
-  2 EL	Olivenöl
-  1 EL	Currypulver
-350 ml	Gemüsebrühe
-  2 EL	Erdnussbutter
-  1 EL	Tomatenmark
-  2 EL	Sojasauce
+  2    Knoblauchzehe(n)
+  2 EL Olivenöl
+  1 EL Currypulver
+350 ml Gemüsebrühe
+  2 EL Erdnussbutter
+  1 EL Tomatenmark
+  2 EL Sojasauce
  	     Salz und Pfeffer
  	     Chilipulver
 ```
@@ -30,6 +32,6 @@ Kurz aufkochen lassen, zudecken und bei kleiner Hitze 20 - 30 Min. kochen, bis d
 
 Dazu wird normalerweise Reis gegessen. Fladenbrot passt aber auch gut dazu. In ein "echtes" Mafé gehört ein ganzes Glas Erdnussbutter. Da mir das zu reichhaltig ist, habe ich das Rezept, das mir unser senegalesischer Wanderführer aufgeschrieben hat, abgewandelt. Im Senegal gibt es das wohl auch oft mit Fleisch, für die Wandergruppe hatte er es aber ohne Fleisch zubereitet. Uns hat dabei nichts gefehlt.
 
-<div align="right">#lactovegetarisch</div>
+<div align="right">#vegan</div>
 
-> Quelle: Abwandlung des Rezeptes &bdquo;Vegetarische Bauernpfanne&ldquo; von Sven Bach
+> Quelle: Nach dem Rezept "Vegetarisches Mafé" von honig-tine
