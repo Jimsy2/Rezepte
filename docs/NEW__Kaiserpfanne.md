@@ -1,6 +1,8 @@
 Kaiserpfanne
 ===================
 
+<img align='right' style="margin:5ex 0 1ex 1em;border-radius:8px" width="50%" src="images/Zucchini.jpg">
+
 **Zutaten** für 4 Personen
 
 ```
@@ -18,7 +20,7 @@ Kaiserpfanne
 
 **Zubereitung**
 
-1. Die Kartoffeln schälen, vierteln und mit Salz kochen. Die Kartoffeln nicht zu weich kochen, da sie noch in die Bratpfanne kommen. Ich selbst ziehe es vor die Kartoffeln ohne Salz in der Mikrowelle zu garen. So kann man die Kartoffeln kleiner schneiden ohne Gefahr zu laufen, dass sie beim Kochen auslaugen.
+1. Die Kartoffeln schälen, vierteln und in Salzwasser kochen. Die Kartoffeln nicht zu weich kochen, da sie noch in die Bratpfanne kommen. Ich selbst ziehe es vor die Kartoffeln ohne Salz in der Mikrowelle zu garen. So kann man die Kartoffeln kleiner schneiden ohne Gefahr zu laufen, dass sie beim Kochen auslaugen.
 
 2. Das gefrorene Kaisergemüse in eine feuerfeste Glasschüssel geben und in der Mikrowelle al dente garen. Wenn TK-Mais verwendet wird diesen mitkochen.
 
