@@ -36,6 +36,6 @@ Kaiserpfanne
 
 6. Die Sauce über die Pfanne gießen und kurz aufkochen lassen.
 
-<label align="right">#lactovegetarisch</label>
+<div align="right">#lactovegetarisch</div>
 
 > Quelle: Abwandlung des Rezeptes &bdquo;Vegetarische Bauernpfanne&ldquo; von Sven Bach
