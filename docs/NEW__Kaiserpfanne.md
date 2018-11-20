@@ -18,21 +18,21 @@ Kaiserpfanne
 
 **Zubereitung**
 
-1. Die Kartoffeln sch&auml;len, vierteln und mit Salz kochen. Die Kartoffeln nicht zu weich kochen, da sie noch in die Bratpfanne kommen. Ich selbst ziehe es vor die Kartoffeln ohne Salz in der Mikrowelle zu garen. So kann man die Kartoffeln kleiner schneiden&nbsp;ohne Gefahr zu laufen, dass sie beim Kochen auslaugen.
+1. Die Kartoffeln schälen, vierteln und mit Salz kochen. Die Kartoffeln nicht zu weich kochen, da sie noch in die Bratpfanne kommen. Ich selbst ziehe es vor die Kartoffeln ohne Salz in der Mikrowelle zu garen. So kann man die Kartoffeln kleiner schneiden ohne Gefahr zu laufen, dass sie beim Kochen auslaugen.
 
-2. Das gefrorene Kaisergem&uuml;se in eine feuerfeste Glassch&uuml;ssel geben und in der Mikrowelle al dente garen. Wenn TK-Mais verwendet wird diesen&nbsp;mitkochen.
+2. Das gefrorene Kaisergemüse in eine feuerfeste Glasschüssel geben und in der Mikrowelle al dente garen. Wenn TK-Mais verwendet wird diesen mitkochen.
 
-2. Die Zwiebel sch&auml;len, in W&uuml;rfel schneiden und in einer hochwandigen Pfanne (oder gro&szlig;en Topf)&nbsp;mit dem &Ouml;l glasig d&uuml;nsten.
+3. Die Zwiebel schälen, in Würfel schneiden und in einer hochwandigen Pfanne (oder großen Topf) mit dem Öl glasig dünsten.
     
-3. Das al dente gegarte Gem&uuml;se zu den glasigen Zwiebeln in die Pfanne geben. Die vorgegarten Kartoffeln abgie&szlig;en, und vorsichtig untermischen und alles auf kleiner Stufe schmoren lassen.
+4. Das al dente gegarte Gemüse zu den glasigen Zwiebeln in die Pfanne geben. Die vorgegarten Kartoffeln abgießen, und vorsichtig untermischen und alles auf kleiner Stufe schmoren lassen. 
 
-4. Mit Salz, Pfeffer, Muskat und Paprika w&uuml;rzen. Wenn Mais aus der Dose verwendet wird, diesen abgie&szlig;en und ebenfalls in die Pfanne geben.
+5. Mit Salz, Pfeffer, Muskat und Paprika würzen. Wenn Mais aus der Dose verwendet wird, diesen abgießen und ebenfalls in die Pfanne geben. 
 
 5. Petersilie waschen und fein hacken bzw. auftauen lassen.
 
-5. Die Gem&uuml;sebr&uuml;he mit dem Schmand und der gehackten Petersilie zu einer Sauce vermischen.
+5. Die Gemüsebrühe mit dem Schmand und der gehackten Petersilie zu einer Sauce vermischen.
 
-6. Die Sauce &uuml;ber die Pfanne gie&szlig;en und kurz aufkochen lassen.
+6. Die Sauce über die Pfanne gießen und kurz aufkochen lassen.
 
 Quelle: Abwandlung des Rezeptes &bdquo;Vegetarische Bauernpfanne&ldquo; von Sven Bach
 
