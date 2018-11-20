@@ -1,7 +1,7 @@
-Vegetarisches Mafe
+Vegetarisches Mafé
 ------------------
 
-<img align='right' style="margin:5ex 0 1ex 1em;border-radius:8px" width="50%" src="images/Zucchini.jpg">
+<img align='right' style="margin:5ex 0 1ex 1em;border-radius:8px" width="50%" src="images/Vegan.png">
 
 **Zutaten** für 4 Personen
 
