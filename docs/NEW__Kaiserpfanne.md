@@ -5,15 +5,15 @@ Kaiserpfanne
 
 ```
 700 g  Kartoffeln (keine mehligen)
-    350 g  Kaisergem&uuml;se (tiefgefroren)
-    100 g  Mais (Dose oder TK-Ware)
-     20 g  Petersilie (gehackt, ggf. TK-Ware) 
-    150 ml Gem&uuml;sebr&uuml;he
-    200 g  Schmand
-           Salz, Pfeffer, 
-           Muskat, Paprika (edels&uuml;&szlig;)
-      1 gro&szlig;e Gem&uuml;sezwiebel (oder 5 kleine)
-      2 EL Raps- oder Oliven&ouml;l
+350 g  Kaisergemüse (tiefgefroren)
+100 g  Mais (Dose oder TK-Ware)
+ 20 g  Petersilie (gehackt, ggf. TK-Ware) 
+150 ml Gemüsebrühe
+200 g  Schmand
+       Salz, Pfeffer, 
+       Muskat, Paprika (edelsüß)
+  1 große Gemüsezwiebel (oder 5 kleine)
+  2 EL Raps- oder Olivenöl
 ```
 
 **Zubereitung**
