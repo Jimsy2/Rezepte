@@ -44,11 +44,11 @@ Kaiserpfanne
 
 5. Mit Salz, Pfeffer, Muskat und Paprika würzen. Wenn Mais aus der Dose verwendet wird, diesen abgießen und ebenfalls in die Pfanne geben. 
 
-5. Petersilie waschen und fein hacken bzw. auftauen lassen.
+6. Petersilie waschen und fein hacken bzw. auftauen lassen.
 
-5. Die Gemüsebrühe mit dem Schmand und der gehackten Petersilie zu einer Sauce vermischen.
+7. Die Gemüsebrühe mit dem Schmand und der gehackten Petersilie zu einer Sauce vermischen.
 
-6. Die Sauce über die Pfanne gießen und kurz aufkochen lassen.
+8. Die Sauce über die Pfanne gießen und kurz aufkochen lassen.
 
 > Quelle: Abwandlung des Rezeptes &bdquo;Vegetarische Bauernpfanne&ldquo; von Sven Bach
 
