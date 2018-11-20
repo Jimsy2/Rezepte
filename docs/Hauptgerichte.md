@@ -8,8 +8,9 @@ Hauptgerichte
 5. [Eier in Senfsoße](#eier-in-senfsoße)
 6. [Zucchini-Zitrone Nudeln](#zucchini-zitrone-nudeln)
 
-　  
-____  
+
+   <p align="center"><br><br><br>____<br><br></p>  
+  
 
 
 Kaiserpfanne
