@@ -10,7 +10,6 @@ Hauptgerichte
 
 
    <p align="center"><br><br><br>____<br><br></p>  
-  
 
 
 Kaiserpfanne
