@@ -17,7 +17,7 @@ Maafe ohne Fleisch
 
 <p>Maafe (franz. Maf&eacute;) ist ein westafrikanisches Gericht und bedeutet w&ouml;rtlich &uuml;bersetzt &quot;Erdnussbutterso&szlig;e&quot;. Es ist ein im Senegal und Gambia beliebtes Gericht und existiert in vielen Variationen.</p>
 
-<img align='right' style="margin:5ex 0 1ex 1em;border-radius:8px" width="50%" src="images/Kaiserpfanne.jpg">
+<img align='right' style="margin:5ex 0 1ex 1em;border-radius:8px" width="50%" src="images/Maafe-ohne-Fleisch.jpg">
 
 <div style="float:left;"><p><strong>Zutaten</strong> f&uuml;r 4 Personen</p><pre>250 g  Kohlrabi
 250 g  Karotte(n)
