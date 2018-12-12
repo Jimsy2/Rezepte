@@ -39,8 +39,18 @@ Maafe ohne Fleisch
 
 **Zubereitung**
 
-<ol><li><p>Das Gem&uuml;se sch&auml;len. Kohlrabi, Karotten und Kartoffeln in mundgerechte St&uuml;cke schneiden, Zwiebeln w&uuml;rfeln, Knoblauch fein hacken.</p></li><li><p>In einem gro&szlig;en Topf das &Ouml;l erhitzen und das Currypulver kurz anbraten, dann Zwiebeln und Knoblauch zugeben und glasig d&uuml;nsten. Anschlie&szlig;end das Gem&uuml;se und die Kartoffeln zugeben und kurz mit anbraten. Erdnussbutter, Tomatenmark, Sojaso&szlig;e zugeben und mit Gem&uuml;sebr&uuml;he abl&ouml;schen. Kurz aufkochen lassen, zudecken und bei kleiner Hitze 20 - 30 Min. kochen, bis das Gem&uuml;se gar, aber noch bissfest ist. Ab und zu umr&uuml;hren. Zum Schluss mit Salz, Pfeffer und Chili abschmecken.</p></li></ol><p>Dazu wird normalerweise Reis gegessen. Fladenbrot passt aber auch gut dazu. In ein &quot;echtes&quot; Maf&eacute; geh&ouml;rt ein ganzes Glas Erdnussbutter. Da mir das zu reichhaltig ist, habe ich das Rezept, das mir unser senegalesischer Wanderf&uuml;hrer aufgeschrieben hat, abgewandelt. Im Senegal gibt es das wohl auch oft mit Fleisch, f&uuml;r die Wandergruppe hatte er es aber ohne Fleisch zubereitet. Uns hat dabei nichts gefehlt.</p></div>
+   1. Das Gemüse schälen. Kohlrabi, Karotten und Kartoffeln in mundgerechte Stücke schneiden,
+      Zwiebeln würfeln, Knoblauch fein hacken.
+   2. In einem großen Topf das Öl erhitzen und das Currypulver kurz anbraten, dann Zwiebeln und 
+      Knoblauch zugeben und glasig dünsten. Anschließend das Gemüse und die Kartoffeln 
+      zugeben und kurz mit anbraten. Erdnussbutter, Tomatenmark, Sojasoße zugeben und mit 
+      Gemüsebrühe ablöschen. Kurz aufkochen lassen, zudecken und bei kleiner 
+      Hitze 20 - 30 Min. kochen, bis das Gemüse gar, aber noch bissfest ist. Ab und zu 
+      umrühren. Zum Schluss mit Salz, Pfeffer und Chili abschmecken.
 
+  Dazu wird meist Reis gegessen. Fladenbrot passt ebenfalls gut dazu. 
+  In ein authentisches Maf&eacute; kommt wesentlich mehr Erdnussbutter als hier verwendet wird.
+  
 > Quelle: Nach dem Rezept &quot;Vegetarisches Maf&eacute;&quot; von honig-tine
 
 #vegan
