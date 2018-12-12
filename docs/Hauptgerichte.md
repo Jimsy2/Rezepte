@@ -62,7 +62,7 @@ Maafe ohne Fleisch
 Kaiserpfanne
 ------------
 
-<img align='right' style="margin:5ex 0 1ex 1em;border-radius:8px" width="50%" src="images/Kaiserpfanne.jpg">
+<img align='right' style="margin:5ex 0 1ex 1em;border-radius:8px" width="40%" src="images/Kaiserpfanne.jpg">
 
 **Zutaten** für 4 Personen
 
@@ -108,7 +108,7 @@ Kaiserpfanne
 Aloo Gobi Tomater
 -----------------
 
-<img align='right' style="margin:7ex 0 1ex 1em;border-radius:8px" width="50%" src="images/Alu-Gobi-Tomater.jpg">
+<img align='right' style="margin:7ex 0 1ex 1em;border-radius:8px" width="45%" src="images/Alu-Gobi-Tomater.jpg">
 
 **Zutaten**
 
@@ -205,7 +205,7 @@ Nach einer Rezeptidee von [Delinat.com](https://www.delinat.com/rezept.html?DSte
 Pasta mit Feta, Oliven und Tomaten
 ----------------------------------
 
-<img align='right' style="margin:5ex 0 1ex 1em;border-radius:8px" width="50%" src="images/Pasta-mit-Feta-Oliven-Tomaten.jpg">
+<img align='right' style="margin:5ex 0 1ex 1em;border-radius:8px" width="45%" src="images/Pasta-mit-Feta-Oliven-Tomaten.jpg">
 
 **Zutaten** für 2 Portionen
 
