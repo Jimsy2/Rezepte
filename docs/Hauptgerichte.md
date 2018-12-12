@@ -19,19 +19,31 @@ Maafe ohne Fleisch
 
 <img align='right' style="margin:5ex 0 1ex 1em;border-radius:8px" width="50%" src="images/Maafe-ohne-Fleisch.jpg">
 
-<div style="float:left;"><p><strong>Zutaten</strong> f&uuml;r 4 Personen</p><pre>250 g  Kohlrabi
+**Zutaten** für 4 Personen
+
+```
+250 g  Kohlrabi
 250 g  Karotte(n)
 400 g  Kartoffel(n)
 100 g  Zwiebel(n)
   2    Knoblauchzehe(n)
-  2 EL Oliven&ouml;l
+  2 EL Olivenöl
   1 EL Currypulver
-350 ml Gem&uuml;sebr&uuml;he
+350 ml Gemüsebrühe
   2 EL Erdnussbutter
   1 EL Tomatenmark
   2 EL Sojasauce
        Salz und Pfeffer
-       Chilipulver</pre></div><div style="float:left;"><p><strong>Zubereitung</strong></p><ol><li><p>Das Gem&uuml;se sch&auml;len. Kohlrabi, Karotten und Kartoffeln in mundgerechte St&uuml;cke schneiden, Zwiebeln w&uuml;rfeln, Knoblauch fein hacken.</p></li><li><p>In einem gro&szlig;en Topf das &Ouml;l erhitzen und das Currypulver kurz anbraten, dann Zwiebeln und Knoblauch zugeben und glasig d&uuml;nsten. Anschlie&szlig;end das Gem&uuml;se und die Kartoffeln zugeben und kurz mit anbraten. Erdnussbutter, Tomatenmark, Sojaso&szlig;e zugeben und mit Gem&uuml;sebr&uuml;he abl&ouml;schen. Kurz aufkochen lassen, zudecken und bei kleiner Hitze 20 - 30 Min. kochen, bis das Gem&uuml;se gar, aber noch bissfest ist. Ab und zu umr&uuml;hren. Zum Schluss mit Salz, Pfeffer und Chili abschmecken.</p></li></ol><p>Dazu wird normalerweise Reis gegessen. Fladenbrot passt aber auch gut dazu. In ein &quot;echtes&quot; Maf&eacute; geh&ouml;rt ein ganzes Glas Erdnussbutter. Da mir das zu reichhaltig ist, habe ich das Rezept, das mir unser senegalesischer Wanderf&uuml;hrer aufgeschrieben hat, abgewandelt. Im Senegal gibt es das wohl auch oft mit Fleisch, f&uuml;r die Wandergruppe hatte er es aber ohne Fleisch zubereitet. Uns hat dabei nichts gefehlt.</p></div><p style="clear:left;">#vegan</p><p>Quelle: Nach dem Rezept &quot;Vegetarisches Maf&eacute;&quot; von honig-tine</p>
+       Chilipulver
+```
+
+**Zubereitung**
+
+<ol><li><p>Das Gem&uuml;se sch&auml;len. Kohlrabi, Karotten und Kartoffeln in mundgerechte St&uuml;cke schneiden, Zwiebeln w&uuml;rfeln, Knoblauch fein hacken.</p></li><li><p>In einem gro&szlig;en Topf das &Ouml;l erhitzen und das Currypulver kurz anbraten, dann Zwiebeln und Knoblauch zugeben und glasig d&uuml;nsten. Anschlie&szlig;end das Gem&uuml;se und die Kartoffeln zugeben und kurz mit anbraten. Erdnussbutter, Tomatenmark, Sojaso&szlig;e zugeben und mit Gem&uuml;sebr&uuml;he abl&ouml;schen. Kurz aufkochen lassen, zudecken und bei kleiner Hitze 20 - 30 Min. kochen, bis das Gem&uuml;se gar, aber noch bissfest ist. Ab und zu umr&uuml;hren. Zum Schluss mit Salz, Pfeffer und Chili abschmecken.</p></li></ol><p>Dazu wird normalerweise Reis gegessen. Fladenbrot passt aber auch gut dazu. In ein &quot;echtes&quot; Maf&eacute; geh&ouml;rt ein ganzes Glas Erdnussbutter. Da mir das zu reichhaltig ist, habe ich das Rezept, das mir unser senegalesischer Wanderf&uuml;hrer aufgeschrieben hat, abgewandelt. Im Senegal gibt es das wohl auch oft mit Fleisch, f&uuml;r die Wandergruppe hatte er es aber ohne Fleisch zubereitet. Uns hat dabei nichts gefehlt.</p></div>
+
+> Quelle: Nach dem Rezept &quot;Vegetarisches Maf&eacute;&quot; von honig-tine
+
+#vegan
 
 
    <p align="center"><br><br><br>＊　＊　＊<br><br></p>  
