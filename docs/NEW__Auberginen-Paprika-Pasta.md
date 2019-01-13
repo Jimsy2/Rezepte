@@ -26,7 +26,7 @@ Auberginen-Paprika-Pasta mit Hüttenkäse
 
 2. Öl erhitzen, Zwiebeln und Knoblauch andünsten, Gemüse dazugeben und etwa 6 min mitdünsten, dann mit der Gemüsebrühe ablöschen.
 
-3.In
+3. Inzwischen Pasta in Salzwasser nach Packungsanweisung al dente kochen.
 
 <div align="right">#vegan</div>
 
