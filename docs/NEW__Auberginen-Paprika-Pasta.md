@@ -28,6 +28,10 @@ Auberginen-Paprika-Pasta mit Hüttenkäse
 
 3. Inzwischen Pasta in Salzwasser nach Packungsanweisung al dente kochen.
 
-<div align="right">#vegan</div>
+4. Parmesan reiben. Gemüse mit Pfeffer, Salz und Kräutern abschmecken, 60 g Parmesan und Hüttenkäse zum Gemüse geben und vermengen.
 
-> Quelle: Nach dem Rezept "Vegetarisches Mafé" von honig-tine
+5. Die fertige Pasta tropfnass zum Gemüse geben und vermengen. Mit restlichem Parmesan bestreut servieren.
+
+<div align="right">#lacto-vegetarisch</div>
+
+> Quelle: Nach dem Rezept aus Sven Bachs Jobrezepte
