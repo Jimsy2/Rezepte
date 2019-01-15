@@ -1,7 +1,7 @@
 Auberginen-Paprika-Pasta mit Hüttenkäse
 ------------------
 
-<img align='right' style="margin:5ex 0 1ex 1em;border-radius:8px" width="50%" src="images/Auberginen-Paprika-Pasta">
+<img align='right' style="margin:5ex 0 1ex 1em;border-radius:8px" width="50%" src="images/Auberginen-Paprika-Pasta.jpg">
 
 **Zutaten** für 4 Personen
 
