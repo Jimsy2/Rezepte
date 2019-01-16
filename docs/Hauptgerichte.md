@@ -1,7 +1,7 @@
 Hauptgerichte
 =============
 
-1. [Auberginen-Paprika-Nudeln mit Hüttenkäse](#kaiserpfanne)
+1. [Auberginen-Paprika-Nudeln mit Hüttenkäse](#auberginen-paprika-nudeln-mit-httenkäse)
 1. [Maafe ohne Fleisch](#maafe-ohne-fleisch)
 1. [Kaiserpfanne](#kaiserpfanne)
 2. [Aloo Gobi Tomater](#aloo-gobi-tomater)
