@@ -13,7 +13,7 @@ Auberginen-Paprika-Pasta mit Hüttenkäse
   4    Schalotten
   2 EL Rapsöl
 250 ml Gemüsebrühe
-500 g  Pasta nach Belieben
+500 g  Fusilli Nudeln (Spirali)
 100 g  Parmesankäse (gerieben)
   1 handvoll Kräuter nach Belieben
 200 g  Hüttenkäse
