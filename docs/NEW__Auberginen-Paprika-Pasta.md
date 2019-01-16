@@ -17,16 +17,16 @@ Auberginen-Paprika-Pasta mit Hüttenkäse
 100 g  Parmesankäse
   1 handvoll Kräuter nach Belieben
 200 g  Hüttenkäse
- 	     Salz und Pfeffer
+       Salz und Pfeffer
 ```
 
 **Zubereitung**
 
 1. Auberginen, Champignons und Paprika waschen, putzen und in 2 cm große Würfel schneiden. Schalotten und Knoblauch schälen und klein schneiden.
 
-2. Öl erhitzen, Zwiebeln und Knoblauch andünsten, Gemüse dazugeben und etwa 6 min mitdünsten, dann mit der Gemüsebrühe ablöschen.
+2. Öl erhitzen, Zwiebeln und Knoblauch andünsten, Gemüse dazugeben und etwa 5 min anbraten. Anschließend Gemüsebrühe zugeben und Flamme klein stellen.
 
-3. Inzwischen Pasta in Salzwasser nach Packungsanweisung al dente kochen.
+3. Pasta in Salzwasser nach Packungsanweisung al dente kochen.
 
 4. Parmesan reiben. Gemüse mit Pfeffer, Salz und Kräutern abschmecken, 60 g Parmesan und Hüttenkäse zum Gemüse geben und vermengen.
 
