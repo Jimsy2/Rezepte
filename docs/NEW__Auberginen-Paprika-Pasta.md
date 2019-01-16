@@ -14,7 +14,7 @@ Auberginen-Paprika-Pasta mit Hüttenkäse
   2 EL Rapsöl
 250 ml Gemüsebrühe
 500 g  Pasta nach Belieben
-100 g  Parmesankäse
+100 g  Parmesankäse (gerieben)
   1 handvoll Kräuter nach Belieben
 200 g  Hüttenkäse
        Salz und Pfeffer
@@ -28,9 +28,9 @@ Auberginen-Paprika-Pasta mit Hüttenkäse
 
 3. Pasta in Salzwasser nach Packungsanweisung al dente kochen.
 
-4. Parmesan reiben. Gemüse mit Pfeffer, Salz und Kräutern abschmecken, 60 g Parmesan und Hüttenkäse zum Gemüse geben und vermengen.
+4. Hüttenkäse, Kräuter und die Hälfte vom Parmesan zum Gemüse geben, mit Pfeffer und Salz abschmecken.
 
-5. Die fertige Pasta tropfnass zum Gemüse geben und vermengen. Mit restlichem Parmesan bestreut servieren.
+5. Die fertige Pasta zum Gemüse geben und vermengen. Mit dem restlichem Parmesan bestreut servieren.
 
 <div align="right">#lacto-vegetarisch</div>
 
