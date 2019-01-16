@@ -15,7 +15,8 @@ Auberginen-Paprika-Nudeln mit Hüttenkäse
 250 ml Gemüsebrühe
 500 g  Fusilli Nudeln (Spirali)
 100 g  Parmesankäse (gerieben)
-  1 handvoll Kräuter nach Belieben
+  1    Kräuter nach Belieben
+       (Petersilie, Basilikum, Thymian)
 200 g  Hüttenkäse
        Salz und Pfeffer
 ```
