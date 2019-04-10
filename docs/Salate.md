@@ -12,18 +12,16 @@ Salate
 Herzhafter Nudelsalat		
 ---------------------		
 		
-Zubereitungszeit ca. 30 Minuten, pro Portion ca. 2730 Jouie/650 Kalorien		
-
 <img width="50%" src="images/Herzhafter_Nudelsalat.jpg">
 
-**Zutaten** für 4 Personen:		
+**Zutaten** für 4 Personen
 		
 ```		
-500 g  kleine Nudeln		
+500 g  kleine Nudeln (Rigatoni, Fussili)		
   3    Zwiebeln		
   8    Tomaten 		
 400 g  Cabanossi (ungar. Paprikawurst) 		
- 32    schw. Oliven (möglichst entsteint)		
+ 32    schw. Oliven (entsteint)		
   2    Knoblauchzehen		
   6 EL Essig		
   1 TL mittelscharfer Senf		
