@@ -22,8 +22,7 @@ Zutaten für die Füllung
  50 g    Zucker
 1 1/2 TL   Zimt (gemahlen)
   2 TL   Mehl
-  1      Ei
-  1 EL   Wasser
+  
 ```
 
 **Zubereitung**
@@ -35,7 +34,7 @@ Zutaten für die Füllung
 5. Für die Füllung Zucker, Zimt und 2 TL Mehl in einem Schälchen verrühren. 
 6. Wenn der Teig genügend aufgegangen ist, diesen nochmal durchkneten.
 7. Teig auf einer bemehlten Arbeitsfläche oder Backmatte mit einem Nudelholz auf eine Größe von etwa 20 x 50 cm ausrollen.
-8. Das Ei mit 1 EL Wasser verquirlen und damit den Teig bestreichen.
+8. Den Teig mit der Füllung bestreuen.
 9. Den Teig von der schmalen Seite her aufrollen und mit der Naht nach unten in die ausgekleidete Kastenform legen.
 10. Nochmal 15 min gehen lassen. Während dessen Backofen auf 180° C vorheizen.
 11. Bei Umluft 35 bis 45 Minuten goldbraun backen.
