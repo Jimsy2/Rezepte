@@ -1,4 +1,4 @@
-## Pizza
+## Pizza und Flammkuchen
 
 1. [Pizzateig a la Dirk](#pizzateig-a-la-dirk)
 1. [Dinkel-Vollkorn-Pizzateig a la Dirk](#dinkel-vollkorn-pizzateig-a-la-dirk)
