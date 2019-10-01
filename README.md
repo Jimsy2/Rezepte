@@ -2,7 +2,7 @@
 
  - [Hauptgerichte](docs/Hauptgerichte.md)
  - [Suppen und Eintöpfe](docs/Suppen-und-Eintöpfe.md)
- - [Pizza](docs/Pizza.md)
+ - [Pizza und Flammkuchen](docs/Pizza-und-Flammkuchen.md)
  - [Salate](docs/Salate.md)
  - [Kuchen](docs/Kuchen.md)
  - [sonstige Backwaren](docs/Backwaren.md)
