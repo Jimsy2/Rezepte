@@ -26,7 +26,7 @@ Schmandfladen
 
 **Zubereitung**
 
-1. Trockenbdackhefe, 
+1. Trockenbackhefe, 
 1. Für den Hefeteig beide Sorten Mehl in einer Schüssel miteinander vermischen und in die Mitte eine Mulde formen. Die Hefe in 350 ml handwarmen Wasser und einer Prise Zucker auflösen und in die Mulde vom Mehl gießen. Etwas Mehl vom Rand über die Flüssigkeit streuen und den Vorteig abgedeckt an einem warmem Ort für 15 Minuten gehen lassen.
 2. In der Zwischenzeit die Kartoffeln zusammen mit 1 TL Kümmel und 1/2 ungeschälten Zwiebeln in kochendem Wasser fast gar kochen, abgießen, abkühlen lassen, dann pellen und vollständig kalt werden lassen. Danach in dünne Scheiben (0,5 cm) schneiden.
 3. 3 EL Olivenöl und das Salz zum Teig zufügen und mit der Küchenmaschine oder per Hand zu einem glatten Teig kneten (per Hand mindestens 10 Minuten kneten). Den Teig zu einem Kugel formen und abgedeckt an einem warmen Ort ca. 45 Minuten gehen lassen, bis sich sein Volumen verdoppelt hat.
