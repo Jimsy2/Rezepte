@@ -1,11 +1,7 @@
-Portionen 6 Fladen
-
-Portionen 3 Portionen
-
 Knusprige Kartoffel Fladen mit Schmand, Frühlingszwiebeln und Speck
 -------------------------------------------------------------------
 
-2 hr Gesamtzeit
+2 h Gesamtzeit, 3 Portionen (6 Fladen)
 
 **Zutaten**
 
@@ -46,6 +42,12 @@ Knusprige Kartoffel Fladen mit Schmand, Frühlingszwiebeln und Speck
 4. Den Schmand mit Salz und Pfeffer würzen (bei Bedarf frisch geriebenen Meerrettich 
    nach Geschmack zufügen) und beiseite stellen und den Backofen auf 180 Grad Ober- 
    und Unterhitze vorheizen.
-5. Den Teig auf einer bemehlten Arbeitsfläche in 6 Portionen teilen (pro Portion so ca. 150 g) und zu länglichen Fladen ausrollen. Die Fladen auf ein mit Backpapier ausgelegtes Backblech legen und mit Schmand bestreichen. Bei Bedarf etwas Bergkäse auf dem Schmand verteilen und mit den Kartoffelscheiben belegen. Die Frühlingszwiebeln darüber verteilen und bei Bedarf einige Fenchelsamen und etwas geräuchrter Speck. Ein paar Tropfen Olivenöl über die Fladen träufeln und im vorgeheizten Backofen ca. 20-25 Minuten backen.
+5. Den Teig auf einer bemehlten Arbeitsfläche in 6 Portionen teilen (pro Portion so 
+   ca. 150 g) und zu länglichen Fladen ausrollen. Die Fladen auf ein mit Backpapier 
+   ausgelegtes Backblech legen und mit Schmand bestreichen. Bei Bedarf etwas Bergkäse 
+   auf dem Schmand verteilen und mit den Kartoffelscheiben belegen. Die Frühlingszwiebeln 
+   darüber verteilen und bei Bedarf einige Fenchelsamen und etwas geräuchrter Speck. #
+   Ein paar Tropfen Olivenöl über die Fladen träufeln und im vorgeheizten Backofen 
+   ca. 20-25 Minuten backen.
 
 Quelle: https://www.malteskitchen.de/fladen-kartoffeln-fruehlingszwiebeln-speck/
