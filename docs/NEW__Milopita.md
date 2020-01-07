@@ -24,4 +24,4 @@ etwas Puderzucker
 > vor dem Servieren wird der Kuchen “gestürzt”, mit Puderzucker bestreut und dann aufgeschnitten.
 
 
-Quelle: L. Petrou (TN; Förderzentrum)
+Quelle: L. Petrou
