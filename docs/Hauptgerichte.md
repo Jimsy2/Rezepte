@@ -8,7 +8,7 @@ Hauptgerichte
 3. [Bohneneintopf Languedoc](#bohneneintopf-languedoc)
 4. [Pasta mit Feta, Oliven und Tomaten](#pasta-mit-feta-oliven-und-tomaten)
 5. [Eier in Senfsoße](#eier-in-senfsoße)
-6. [Zucchini-Zitrone Nudeln](#zucchini-zitrone-nudeln)
+6. [Zucchini-Zitronen Nudeln](#zucchini-zitronen-nudeln)
 
 
    <p align="center"><br><br><br>____<br><br></p>  
