@@ -12,7 +12,7 @@ Kürbisbrot
  50 g  Zucker
  60 g  Margarine
        Salz
- 10 g  Hefe
+ 20 g  Hefe
 ```
 
 **Zubereitung**
