@@ -314,15 +314,15 @@ Eier in Senfsoße
 
 
 
-Zucchini-Zitrone-Nudeln
------------------------
+Zucchini-Zitronen-Nudeln
+------------------------
 
    <img align='right' style="margin:5ex 0 1ex 1em;border-radius:8px" width="50%" src="images/Zucchini-Zitrone-Nudeln.jpg">
 
 **Zutaten** für 4 Portionen
 
 ```
-500 g Nudeln (Makkaroni)
+500 g Nudeln (z.B. Makkaroni)
 500 g Zucchini
   2 EL Olivenöl
   1 Zitrone, unbehandelt, Saft  
