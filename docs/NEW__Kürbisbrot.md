@@ -1,7 +1,7 @@
 Kürbisbrot
 ----------
 
-<img align='right' style="margin:5ex 0 1ex 1em;border-radius:8px" width="50%" src="images/Schmandfladen.jpeg">
+<img align='right' style="margin:5ex 0 1ex 1em;border-radius:8px" width="50%" src="images/Kürbisbrot.jpg">
 
 Ich hatte das Rezept skaliert, weil ich nicht soviel Kürbis hatte.
 250g Kürbisfleisch, den Rest geviertelt und ca. 350-400g Mehl, weil der Teig sonst zu klebrig war.
