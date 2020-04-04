@@ -9,7 +9,7 @@
 
 
 Kürbisbrot
-----------
+==========
 
 <img align='right' style="margin:5ex 0 1ex 1em;border-radius:8px" width="50%" src="images/Kuerbisbrot.jpg">
 
@@ -101,7 +101,7 @@ Vorlage: [Chefkoch](https://www.chefkoch.de/rezepte/662201168007807/Die-schnells
 
 
 Zimtbrot
---------
+========
 
 <img align='right' style="margin:5ex 0 1ex 1em;border-radius:8px" width="50%" src="images/Zimtbrot.jpg">
 
