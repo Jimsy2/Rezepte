@@ -323,8 +323,8 @@ Serbische Bohnensuppe (original)
 
 ```
   250 g     Weiße Bohnen (getrocknet)  
-    1 Bund  Suppengrün  
   250 g     Zwiebeln  
+    1 Bund  Suppengrün  
     1       Knoblauchzehe  
   250 g     Kartoffeln  
   300 g     Tomaten  
