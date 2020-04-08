@@ -1,12 +1,11 @@
-<figure style="float:left;margin-top:1ex;margin-right:3ex;">
-  <img
-    src="images/Spanischer_Apfelkuchen_2020-04-09.jpg"
-    style="width: 300px; border-radius: 6px;"
-    class="fr-fic fr-cdbc"
-  />
-</figure>
-<div class="ZUTATEN" style="float:left;margin-right:3ex;">
-  <p style="width:fit-content;"><strong>Zutaten</strong></p>
+Spanischer Apfelkuchen
+-----------------------
+
+<img align='right' style="margin:5ex 0 1ex 1em;border-radius:8px" width="50%" 
+    src="images/Spanischer_Apfelkuchen_2020-04-09.jpg"  />
+
+**Zutaten**
+
   <pre>
 4-5    &Auml;pfel
   3 EL Rum
