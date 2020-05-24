@@ -6,7 +6,7 @@ Spanischer Apfelkuchen
 
 **Zutaten**
 
-  <pre>
+```
 4-5    &Auml;pfel
   3 EL Rum
   1 Pck. Vanillezucker
@@ -17,9 +17,10 @@ Spanischer Apfelkuchen
 125 g  Mandeln (gemahlen)
   2 EL Kakaopulver
   1 TL Zimt
-  1 TL Backpulver</pre
-  >
-</div>
+  1 TL Backpulver
+```
+
+
 <div class="ANMERKUNG" style="float:left;">
   <p>
     <em
