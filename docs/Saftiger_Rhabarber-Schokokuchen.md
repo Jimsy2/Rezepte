@@ -1,3 +1,10 @@
+Saftiger Rhabarber-Schokokuchen
+-------------------------------
+
+<img align='right' style="margin:5ex 0 1ex 1em;border-radius:8px" width="50%" 
+    src="images/Spanischer_Apfelkuchen_2020-04-09.jpg"  />
+
+
 **Zutaten**
 
 ```
