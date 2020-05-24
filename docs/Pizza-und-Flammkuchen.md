@@ -2,7 +2,7 @@
 
 1. [Pizzateig a la Dirk](#pizzateig-a-la-dirk)
 1. [Dinkel-Vollkorn-Pizzateig a la Dirk](#dinkel-vollkorn-pizzateig-a-la-dirk)
-1. [Schmandfladen mit Kartoffel](#schamdfladen-mit-kartoffeln)
+1. [Schmandfladen mit Kartoffel](#schmandfladen-mit-kartoffeln)
 
 
 　  
