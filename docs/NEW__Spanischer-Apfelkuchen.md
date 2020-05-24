@@ -21,36 +21,21 @@ Spanischer Apfelkuchen
 ```
 
 
-<div class="ANMERKUNG" style="float:left;">
-  <p>
-    <em
-      ><strong>Anmerkung:</strong> Mit Kakaopulver ist kein Getr&auml;nkepulver
-      gemeint (welches bis zu 80% aus Zucker besteht). Wenn man
-      Kakao-Getr&auml;nkepulver verwenden will, sollte man etwa 8 EL nehmen und
-      die Zuckermenge entsprechend reduzieren.</em
-    >
-  </p>
-</div>
-<div class="ZUBEREITUNG" style="float:left;">
-  <p><strong>Zubereitung</strong></p>
-  <ol>
-    <li>In einer Schale den Rum mit dem Vanillezucker verr&uuml;hren.</li>
-    <li>
-      Die &Auml;pfel sch&auml;len, Kerngeh&auml;use entfernen und w&uuml;rfeln.
-    </li>
-    <li>
-      Die W&uuml;rfel in den Schale mit dem Rum geben und ca. 1 Stunde lang
-      ziehen lassen.
-    </li>
-    <li>Die Butter mit dem Zucker schaumig r&uuml;hren.</li>
-    <li>Die Eier dazu geben und unterr&uuml;hren.</li>
-    <li>Mandel, Kakao und Zimt unterr&uuml;hren.</li>
-    <li>Danach das Mehl und das Backpulver unter mixen.</li>
-    <li>Zuletzt die Apfelw&uuml;rfel unterheben.</li>
-    <li>Eine Springform fetten und den Teig hineingeben.</li>
-  </ol>
-</div>
-<p style="clear:left;">Bei 175&deg; C Umluft, 50 bis 55 min backen.</p>
-<div style="clear:left;">&nbsp;</div>
-<aside style="float:right;">lr</aside>
-<div>#tierisch</div>
+_**Anmerkung:** Mit Kakaopulver ist kein Getränkepulver gemeint (welches bis zu 80% aus Zucker besteht). Wenn man Kakao-Getränkepulver verwenden will, sollte man etwa 8 EL nehmen und die Zuckermenge entsprechend reduzieren._
+
+**Zubereitung** 
+
+1. In einer Schale den Rum mit dem Vanillezucker verrühren.
+2. Die Äpfel schälen, Kerngehäuse entfernen und würfeln.
+3. Die Würfel in den Schale mit dem Rum geben und ca. 1 Stunde lang ziehen lassen.
+4. Die Butter mit dem Zucker schaumig rühren.
+5. Die Eier dazu geben und unterrühren.
+6. Mandel, Kakao und Zimt unterrühren.
+7. Danach das Mehl und das Backpulver unter mixen.
+8. Zuletzt die Apfelwürfel unterheben.
+9. Eine Springform fetten und den Teig hineingeben.
+
+Bei 175° C Umluft, 50 bis 55 min backen.
+
+ 
+#eier lr dbp
