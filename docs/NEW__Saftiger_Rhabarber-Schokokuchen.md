@@ -2,7 +2,7 @@ Saftiger Rhabarber-Schokokuchen
 -------------------------------
 
 <img align='right' style="margin:5ex 0 1ex 1em;border-radius:8px" width="50%" 
-    src="images/Schoko-Rhabarberkuchen.jpg"  />
+    src="images/Schoko-Rhabarberkuchen_2020-05-11.jpg"  />
 
 
 **Zutaten**
