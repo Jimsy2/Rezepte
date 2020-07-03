@@ -19,7 +19,8 @@ Soße:
    1 EL Butter
    2 EL Mehl
  700 ml Gemüsebrühe
- 400 ml fettreduzierte Sahne (zB. 7% Fett) (ich: 200 ml Sahne + 200ml Wasser)
+ 400 ml fettreduzierte Sahne (z.B. 7% Fett) 
+        (oder 200 ml Sahne + 200ml Wasser)
    2    Lorbeerblätter 
    1 TL Paprikapulver, edelsüß
  1/2 TL Knoblauchgranulat (oder eine frische Zehe)
