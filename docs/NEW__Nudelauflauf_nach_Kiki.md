@@ -16,23 +16,23 @@ Schneller bunter Nudelauflauf (4-6 Personen)
   1 Dose Mais (ca. 300 g) 
 
 Soße:
-• 1 EL Butter
-• 2 EL Mehl
-• 700 ml Gemüsebrühe
-• 400 ml fettreduzierte Sahne (zB. 7% Fett) (ih: 200 ml Sahne + 200ml Wasser)
-• 2 Lorbeerblätter 
-• 1 TL Paprikapulver, edelsüß
-• 1/2 TL Knoblauchgranulat (oder eine frische Zehe)
-• 1,5 TL Salz 
-• 1/2 TL weißen oder schwarzen Pfeffer
-• 1,5 TL Oregano
+   1 EL Butter
+   2 EL Mehl
+ 700 ml Gemüsebrühe
+ 400 ml fettreduzierte Sahne (zB. 7% Fett) (ich: 200 ml Sahne + 200ml Wasser)
+   2    Lorbeerblätter 
+   1 TL Paprikapulver, edelsüß
+ 1/2 TL Knoblauchgranulat (oder eine frische Zehe)
+ 1,5 TL Salz 
+ 1/2 TL weißen oder schwarzen Pfeffer
+ 1,5 TL Oregano
 
 Käse zum Überbacken:
-• 180 g Gouda-Käse 
+ 180 g  Gouda-Käse 
 ```
 
 
-_**Anmerkung:** Mit Kakaopulver ist kein Getränkepulver gemeint (welches bis zu 80% aus Zucker besteht). Wenn man Kakao-Getränkepulver verwenden will, sollte man etwa 8 EL nehmen und die Zuckermenge entsprechend reduzieren._
+_**Anmerkung:** Je nach Nudelsorte muss die Menge der Soße angepasst werden, die Nudeln sollen mit der Soße bedeckt sein._
 
 **Zubereitung** 
 
