@@ -4,7 +4,7 @@ Nudelauflauf nach Kiki
 Schneller bunter Nudelauflauf (4-6 Personen)
 
 <img align='right' style="margin:5ex 0 1ex 1em;border-radius:8px" width="50%" 
-    src="images/Spanischer_Apfelkuchen_2020-04-09.jpg"  />
+    src="https://leckere-rezepte.de/images/QC-approved.svg"  />
 
 **Zutaten**
 
