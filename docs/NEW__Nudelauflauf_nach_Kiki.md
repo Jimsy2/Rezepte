@@ -9,7 +9,7 @@ Schneller bunter Nudelauflauf (4-6 Personen)
 **Zutaten**
 
 ```
-500 g rohe Nudeln, zB. Mini-Fusilli
+500 g rohe Nudeln, z.&thinsp;B. Mini-Fusilli
   6   Geflügelwürstchen, klein geschnitten 
   1   rote Paprika, fein gewürfelt 
 300 g TK-Erbsen 
