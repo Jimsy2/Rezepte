@@ -61,11 +61,11 @@ _**Anmerkung:** Mit Kakaopulver ist kein Getränkepulver gemeint (welches bis zu
 
 1. In einer Schale den Rum mit dem Vanillezucker verrühren.
 2. Die Äpfel schälen, Kerngehäuse entfernen und würfeln.
-3. Die Würfel in den Schale mit dem Rum geben und ca. 1 Stunde lang ziehen lassen.
+3. Die Würfel in die Schale mit dem Rum geben und ca. 1 Stunde lang ziehen lassen.
 4. Die Butter mit dem Zucker schaumig rühren.
 5. Die Eier dazu geben und unterrühren.
 6. Mandel, Kakao und Zimt unterrühren.
-7. Danach das Mehl und das Backpulver unter mixen.
+7. Danach das Mehl und das Backpulver untermixen.
 8. Zuletzt die Apfelwürfel unterheben.
 9. Eine Springform fetten und den Teig hineingeben.
 
