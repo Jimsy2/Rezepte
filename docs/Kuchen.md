@@ -1,7 +1,7 @@
 ## Kuchen
 
-1. [dm-Möhrchenkuchen](#dm-möhrchenkuchen)
-1. [Spanischer Apfelkuchen](#spanischer-apfelkuchen)
+1. [dm-Möhrchenkuchen](#dm-möhrchenkuchen) Ⓥ
+1. [Spanischer Apfelkuchen](#spanischer-apfelkuchen) 🥚
 1. [Saftiger Rhabarber-Schokokuchen](#saftiger-rhabarber-schokokuchen) 🥚
 <!-- 1. [Schmandfladen mit Kartoffel](#schmandfladen-mit-kartoffeln)
 -->
@@ -68,7 +68,7 @@ Etwa 55 Minuten bei 170 °C Umluft backen bis der Kuchen goldbraun ist.
 
 Herkunft: Nach einem Rezept von Chefkoch/Estrellaks
 
-#ovovegetarisch
+#ovovegetarisch dbp
 
 ____  
 
