@@ -21,6 +21,7 @@ Die Knoblauchzehen abziehen und pressen und zur Marinade geben. Diese im verschl
 Champignons säubern, den Stiel entfernen. Die Zucchini waschen, abtrocknen und in daumendicke Scheiben schneiden. Die Paprika waschen, abtrocknen und von den Kernen befreien. Danach in passende Stücke schneiden. Die Gemüstestücke in eine Frischaltedose oder einen Gefrierbeutel geben und mit der Marinade begießen. Mindestens 1 Stunde ziehen lassen, dabei ab und zu wenden, damit die Marinade gleichmäßig aufgesogen werden kann und sich nicht am Boden absetzt.
 
 Nach dem Marinieren die Gemüsestücke abwechselnd auf Spieße stecken und auf den Grill legen.
+
 Grillzeit: 10 Minuten  
 
 Nach einer Idee von Komarus (bei Chefkoch) https://www.chefkoch.de/rezepte/2690211421751404/Champignonspiesse-vom-Grill.html
