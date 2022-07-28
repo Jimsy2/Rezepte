@@ -7,14 +7,13 @@ vegetarische Grillspieße
 
 ```
 500 g  Champignons (kleine bis mittlere) 
-2-3	  kleine Zucchini (Durchmesser etwa Champignongroß)
-1-2	  Paprika, rot
-100 ml	Olivenöl
-  4 EL	Sojasauce, salzige
-  2 EL	Agavendicksaft (
-  2 TL	Kräuter der Provence
+2-3    kleine Zucchini (Durchmesser etwa Champignongroß)
+1-2    Paprika, rot
+100 ml Olivenöl
+  4 EL Sojasauce, salzige
+  2 EL Agavendicksaft (alternativ Honig)
+  2 TL Kräuter der Provence
        Knoblauchgranulat  (oder 4 Knoblauchzehen)
-
 ```
 Als Erstes die Marinade herstellen. Dazu das Olivenöl, die Sojasoße, deb Honig oder Agavendicksaft und die Kräuter in einem Schraubglass vermischen.
 Die Knoblauchzehen abziehen und pressen und zur Marinade geben. Diese im verschlossenen Schraubglas kräftig schütteln.
@@ -24,3 +23,4 @@ Champignons säubern, den Stiel entfernen. Die Zucchini waschen, abtrocknen und 
 Nach dem Marinieren die Gemüsestücke abwechselnd auf Spieße stecken und auf den Grill legen.
 Grillzeit: 10 Minuten  
 
+Nach einer Idee von Komarus (bei Chefkoch) https://www.chefkoch.de/rezepte/2690211421751404/Champignonspiesse-vom-Grill.html
