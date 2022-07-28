@@ -15,7 +15,7 @@ vegetarische Grillspieße
   2 TL Kräuter der Provence
        Knoblauchgranulat  (oder 4 Knoblauchzehen)
 ```
-Als Erstes die Marinade herstellen. Dazu das Olivenöl, die Sojasoße, deb Honig oder Agavendicksaft und die Kräuter in einem Schraubglass vermischen.
+Als Erstes die Marinade herstellen. Dazu das Olivenöl, die Sojasoße, den Agavendicksaft und die Kräuter in einem Schraubglass vermischen.
 Die Knoblauchzehen abziehen und pressen und zur Marinade geben. Diese im verschlossenen Schraubglas kräftig schütteln.
 
 Champignons säubern, den Stiel entfernen. Die Zucchini waschen, abtrocknen und in daumendicke Scheiben schneiden. Die Paprika waschen, abtrocknen und von den Kernen befreien. Danach in passende Stücke schneiden. Die Gemüstestücke in eine Frischaltedose oder einen Gefrierbeutel geben und mit der Marinade begießen. Mindestens 1 Stunde ziehen lassen, dabei ab und zu wenden, damit die Marinade gleichmäßig aufgesogen werden kann und sich nicht am Boden absetzt.
