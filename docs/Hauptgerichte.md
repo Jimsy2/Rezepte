@@ -7,7 +7,7 @@ Hauptgerichte
 2. [Aloo Gobi Tomater](#aloo-gobi-tomater)
 4. [Pasta mit Feta, Oliven und Tomaten](#pasta-mit-feta-oliven-und-tomaten)
 5. [Eier in Senfsoße](#eier-in-senfsoße)
-6. [Zucchini-Zitronen Nudeln](#zucchini-zitronen-nudeln)
+6. [Zucchini-Zitrone-Nudeln](#zucchini-zitrone-nudeln)
 
 
    <p align="center"><br><br><br>____<br><br></p>  
@@ -253,8 +253,8 @@ Eier in Senfsoße
 
 
 
-Zucchini-Zitronen-Nudeln
-------------------------
+Zucchini-Zitrone-Nudeln
+-----------------------
 
    <img align='right' style="margin:5ex 0 1ex 1em;border-radius:8px" width="50%" src="images/Zucchini-Zitrone-Nudeln.jpg">
 
@@ -277,5 +277,12 @@ Zucchini-Zitronen-Nudeln
 **Zubereitung**
 
 Die Nudeln nach Packungsanweisung bissfest kochen. Die Zucchini in lange, dünne, ca. 1 cm breite Streifen schneiden und in einer großen Pfanne im heißen Öl anbraten, bis sie gebräunt sind. Abgeriebene Zitronenschale, gehackten Knoblauch und dann die gehackte Petersilie zugeben, kurz weiter braten, mit dem Zitronensaft ablöschen. Die Zucchini unter die abgetropften Nudeln mischen. Den Parmesan bzw. den Pecorino unterrühren und mit Pfeffer und evtl. Salz abschmecken.
+
+
+   <img align='right' style="margin:5ex 0 1ex 1em;border-radius:8px" width="50%" src="images/Zucchini-Zitrone-Nudeln-Variation.jpg">
+
+**Variation**
+
+Zucchini in Scheiben schneiden und immer nur soviele Scheiben anbraten wie in die Pfanne passen. Wie gehabt mit den restlichen Zutaten in der Pfanne würzen und mischen. Nudeln auf Tellern portionieren, Zuchhinigemüse drauf geben und mit Pecorino bestreuen. 
 
 ∎  
