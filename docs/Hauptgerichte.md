@@ -8,6 +8,7 @@ Hauptgerichte
 4. [Pasta mit Feta, Oliven und Tomaten](#pasta-mit-feta-oliven-und-tomaten)
 5. [Eier in Senfsoße](#eier-in-senfsoße)
 6. [Zucchini-Zitrone-Nudeln](#zucchini-zitrone-nudeln)
+7. [Reis-Frikadellen](Hauptgerichte/Reis-Frikadellen)
 
 
    <p align="center"><br><br><br>____<br><br></p>  
