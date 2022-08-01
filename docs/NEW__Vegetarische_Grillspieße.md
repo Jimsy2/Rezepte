@@ -3,7 +3,7 @@ Vegetarische Grillspieße
 
 **Zutaten** für 4 Portionen
 
-<img align='right' style="margin:5ex 0 1ex 1em;border-radius:8px" width="50%" src="https://leckere-rezepte.de/images/Veg_Grillspiesse.jpg">
+<img align='right' style="margin:5ex 0 1ex 1em;border-radius:8px" width="50%" src="images/Veg_Grillspiesse.jpg">
 
 ```
 500 g  Champignons (kleine bis mittlere) 
