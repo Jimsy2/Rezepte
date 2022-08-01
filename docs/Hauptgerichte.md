@@ -9,6 +9,7 @@ Hauptgerichte
 5. [Eier in Senfsoße](#eier-in-senfsoße)
 6. [Zucchini-Zitrone-Nudeln](#zucchini-zitrone-nudeln)
 7. [Reis-Frikadellen](Hauptgerichte/Reis-Frikadellen.md)
+8. [Vegetarische Grillspieße](Hauptgerichte/Vegetarische_Grillspieße.md)
 
 
    <p align="center"><br><br><br>____<br><br></p>  
