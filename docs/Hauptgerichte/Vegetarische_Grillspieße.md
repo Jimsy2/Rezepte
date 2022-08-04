@@ -7,7 +7,8 @@ Vegetarische Grillspieße
 
 ```
 500 g  Champignons (kleine bis mittlere) 
-2-3    kleine Zucchini (Durchmesser etwa Champignongroß)
+2-3    kleine Zucchini
+       (etwa gleicher Durchmesser wie Champignons)
 1-2    Paprika, rot
 100 ml Olivenöl
   4 EL Sojasauce, salzige
