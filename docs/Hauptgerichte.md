@@ -6,7 +6,7 @@ Hauptgerichte
 1. [Kaiserpfanne](#kaiserpfanne)
 2. [Aloo Gobi Tomater](#aloo-gobi-tomater)
 4. [Pasta mit Feta, Oliven und Tomaten](#pasta-mit-feta-oliven-und-tomaten)
-5. [Eier in Senfsoße](#eier-in-senfsoße)
+5. [Eier in Senfsoße](Hauptgerichte/Eier-in-Senfsoße.md)
 6. [Zucchini-Zitrone-Nudeln](Hauptgerichte/Zucchini-Zitrone-Nudeln.md)
 7. [Reis-Frikadellen](Hauptgerichte/Reis-Frikadellen.md)
 8. [Vegetarische Grillspieße](Hauptgerichte/Vegetarische_Grillspieße.md)
@@ -218,36 +218,6 @@ Die Nudeln in Salzwasser kochen. In der Zwischenzeit Olivenöl in einer großer 
    <p align="center"><br><br><br>＊　＊　＊<br><br></p>  
 
 
-
-Eier in Senfsoße
-----------------
-
-**Zutaten** für 3 Personen
-
-```
-  8    Eier
- 40 g  Butter
- 50 g  Mehl
-250 ml Gemüsebrühe
-250 ml Sahne (oder Milch)
-       Kartoffeln nach belieben
-  4 EL mittelscharfer Senf
-       Pfeffer, Salz, Zucker, Muskat
-       Schnittlauch oder Frühlingszwiebeln
-```
-
-### Zubereitung
-
-1. _Kartoffeln_ aufsetzen
-1. _Eier_ hartkochen
-1. _Butter_ zerlassen und mit dem _Mehl_ zu einer Mehlschwitze verrühren.
-1. _Brühe_ unter Rühren dazugeben.
-1. _Sahne_ mit dem _Senf_ vermischen und dazugeben
-1. mit _Pfeffer, Salz, Zucker, Muskat_ abschmecken
-1. gekochte Eier halbieren und in der Soße aufwähren
-1. mit dem gehackten _Schnittlauch_ auf Pell- oder Salzkartoffeln servieren
-
-> Quelle: Reni
 
 
 ∎  
