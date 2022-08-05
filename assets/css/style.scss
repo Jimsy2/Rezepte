@@ -10,9 +10,12 @@ h1 {
   font-size:200% /*28px*/;
 }
 small, kbd,
-.downloads a strong {
+.downloads a {
   font-size:79% /*11px*/;
 }     
+.downloads a strong {
+  font-size:14px /*14px*/;
+}    
 div.wrapper {
     width:1024px;
     margin:0 auto;
