@@ -11,11 +11,10 @@ Reis-Frikadellen
   1 TL Senf
   1 TL Brühepulver
   1 kleine Zwiebel
-  1 Ei
-    Salz
-    Pfeffer
-    Bohnenkraut
-    Öl zum Braten
+  1    Ei
+       Salz und Pfeffer
+       Bohnenkraut
+       Öl zum Braten
 ```
 
  - Reis mit etwas kaltem Wasser vermengen damit er klebrig wird, Haferflocken dazu
