@@ -52,7 +52,7 @@ Auberginen-Paprika-Nudeln mit Hüttenkäse
 
 > Quelle: Nach dem Rezept aus Sven Bachs Jobrezepte
 
-<div align="right">#lacto-vegetarisch</div>
+#lacto-vegetarisch
 
 
    <p align="center"><br><br><br>＊　＊　＊<br><br></p>  
@@ -214,10 +214,7 @@ Die Nudeln in Salzwasser kochen. In der Zwischenzeit Olivenöl in einer großer 
 > Quelle: Originalrezept war im Kalender 2016 des Combi-Markt
 
 
-
    <p align="center"><br><br><br>＊　＊　＊<br><br></p>  
-
-
 
 
 ∎  
