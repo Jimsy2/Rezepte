@@ -1,13 +1,13 @@
 # Rezeptsammlung
 
- - [Hauptgerichte](docs/Hauptgerichte.md)
+ - [Hauptgerichte](docs/Hauptgerichte/index.md)
  - [Suppen und Eintöpfe](docs/Suppen-und-Eintöpfe.md)
  - [Pizza und Flammkuchen](docs/Pizza-und-Flammkuchen.md)
  - [Salate](docs/Salate.md)
  - [Kuchen](docs/Kuchen.md)
  - [sonstige Backwaren](docs/Backwaren.md)
 
-### ungetestet
+## ungetestet
 
  - [Ungetestete Rezepte](docs/Ungetestete-Rezepte.md)
 
