@@ -1,7 +1,7 @@
 Zucchini-Zitrone-Nudeln
 -----------------------
 
-   <img align='right' style="margin:5ex 0 1ex 1em;border-radius:8px" width="50%" src="images/Zucchini-Zitrone-Nudeln.jpg">
+   <img align='right' style="margin:5ex 0 1ex 1em;border-radius:8px" width="50%" src="../images/Zucchini-Zitrone-Nudeln.jpg">
 
 **Zutaten** für 4 Portionen
 
