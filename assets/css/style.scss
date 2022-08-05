@@ -211,14 +211,28 @@ footer {
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
-
-
 @media screen {
 
   div.wrapper {
     width:1024px;
     margin:0 auto;
     }  
+
+  h1 {
+    font-size:200% /*28px*/;
+  }
+  small, kbd,
+  .downloads a {
+    font-size:79% /*11px*/;
+  }     
+  .downloads a strong {
+    font-size:100% /*14px*/;
+  }
+  
+}
+  
+@media print, screen {
+
   header, section, footer {
     float:none;
     position:static;
@@ -245,17 +259,7 @@ footer {
     right:50px;
     top:52px;
   }
-/* REZEPTE */
-  h1 {
-    font-size:200% /*28px*/;
-  }
-  small, kbd,
-  .downloads a {
-    font-size:79% /*11px*/;
-  }     
-  .downloads a strong {
-    font-size:100% /*14px*/;
-  }
+
 }
 
 @media print, screen and (max-width: 960px) {
