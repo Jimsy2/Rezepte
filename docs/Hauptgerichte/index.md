@@ -6,10 +6,10 @@ Hauptgerichte
 1. [Kaiserpfanne](#kaiserpfanne)
 2. [Aloo Gobi Tomater](#aloo-gobi-tomater)
 4. [Pasta mit Feta, Oliven und Tomaten](#pasta-mit-feta-oliven-und-tomaten)
-5. [Eier in Senfsoße](Hauptgerichte/Eier-in-Senfsoße.md)
-6. [Zucchini-Zitrone-Nudeln](Hauptgerichte/Zucchini-Zitrone-Nudeln.md)
-7. [Reis-Frikadellen](Hauptgerichte/Reis-Frikadellen.md)
-8. [Vegetarische Grillspieße](Hauptgerichte/Vegetarische_Grillspieße.md)
+5. [Eier in Senfsoße](Eier-in-Senfsoße.md)
+6. [Zucchini-Zitrone-Nudeln](Zucchini-Zitrone-Nudeln.md)
+7. [Reis-Frikadellen](Reis-Frikadellen.md)
+8. [Vegetarische Grillspieße](Vegetarische_Grillspieße.md)
 
 
    <p align="center"><br><br><br>____<br><br></p>  
