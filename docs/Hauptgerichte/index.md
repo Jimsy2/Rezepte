@@ -5,7 +5,7 @@ Hauptgerichte
 1. [Maafe ohne Fleisch](#maafe-ohne-fleisch)
 1. [Kaiserpfanne](#kaiserpfanne)
 2. [Aloo Gobi Tomater](#aloo-gobi-tomater)
-4. [Pasta mit Feta, Oliven und Tomaten](#pasta-mit-feta-oliven-und-tomaten)
+4. [Pasta mit Feta, Oliven und Tomaten](Pasta_mit_Feta_Oliven_Tomaten.md)
 5. [Eier in Senfsoße](Eier-in-Senfsoße.md)
 6. [Zucchini-Zitrone-Nudeln](Zucchini-Zitrone-Nudeln.md)
 7. [Reis-Frikadellen](Reis-Frikadellen.md)
