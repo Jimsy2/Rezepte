@@ -18,7 +18,7 @@ Hauptgerichte
 Auberginen-Paprika-Nudeln mit Hüttenkäse
 ------------------
 
-<img align='right' style="margin:5ex 0 1ex 1em;border-radius:8px" width="50%" src="images/Auberginen-Paprika-Pasta.jpg">
+<img align='right' style="margin:5ex 0 1ex 1em;border-radius:8px" width="50%" src="../images/Auberginen-Paprika-Pasta.jpg">
 
 **Zutaten** für 4 Personen
 
@@ -50,9 +50,9 @@ Auberginen-Paprika-Nudeln mit Hüttenkäse
 
 5. Die fertige Pasta zum Gemüse geben und vermengen. Mit dem restlichem Parmesan bestreut servieren.
 
-<div align="right">#lacto-vegetarisch</div>
-
 > Quelle: Nach dem Rezept aus Sven Bachs Jobrezepte
+
+<div align="right">#lacto-vegetarisch</div>
 
 
    <p align="center"><br><br><br>＊　＊　＊<br><br></p>  
@@ -63,7 +63,7 @@ Maafe ohne Fleisch
 
 <p>Maafe (franz. Maf&eacute;) ist ein westafrikanisches Gericht und bedeutet w&ouml;rtlich &uuml;bersetzt &quot;Erdnussbutterso&szlig;e&quot;. Es ist ein im Senegal und Gambia beliebtes Gericht und existiert in vielen Variationen.</p>
 
-<img align='right' style="margin:5ex 0 1ex 1em;border-radius:8px" width="50%" src="images/Maafe-ohne-Fleisch.jpg">
+<img align='right' style="margin:5ex 0 1ex 1em;border-radius:8px" width="50%" src="../images/Maafe-ohne-Fleisch.jpg">
 
 **Zutaten** für 4 Personen
 
@@ -108,7 +108,7 @@ Maafe ohne Fleisch
 Kaiserpfanne
 ------------
 
-<img align='right' style="margin:5ex 0 1ex 1em;border-radius:8px" width="40%" src="images/Kaiserpfanne.jpg">
+<img align='right' style="margin:5ex 0 1ex 1em;border-radius:8px" width="40%" src="../images/Kaiserpfanne.jpg">
 
 **Zutaten** für 4 Personen
 
@@ -154,7 +154,7 @@ Kaiserpfanne
 Aloo Gobi Tomater
 -----------------
 
-<img align='right' style="margin:7ex 0 1ex 1em;border-radius:8px" width="45%" src="images/Alu-Gobi-Tomater.jpg">
+<img align='right' style="margin:7ex 0 1ex 1em;border-radius:8px" width="45%" src="../images/Alu-Gobi-Tomater.jpg">
 
 **Zutaten**
 
@@ -191,7 +191,7 @@ Tomaten dazugeben, mit Muskat und Salz würzen und gut vermischen. Kartoffel und
 Pasta mit Feta, Oliven und Tomaten
 ----------------------------------
 
-<img align='right' style="margin:5ex 0 1ex 1em;border-radius:8px" width="45%" src="images/Pasta-mit-Feta-Oliven-Tomaten.jpg">
+<img align='right' style="margin:5ex 0 1ex 1em;border-radius:8px" width="45%" src="../images/Pasta-mit-Feta-Oliven-Tomaten.jpg">
 
 **Zutaten** für 2 Portionen
 
