@@ -211,13 +211,10 @@ footer {
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
-@media print, screen and (max-width: 960px) {
-/*
-  div.wrapper {
-    width:auto;
-    margin:0;
-  }
-*/
+
+
+@media print, screen and (max-width: 2960px) {
+
   div.wrapper {
     width:1024px;
     margin:0 auto;
@@ -231,6 +228,14 @@ footer {
   }     
   .downloads a strong {
     font-size:100% /*14px*/;
+  }
+}
+
+@media print, screen and (max-width: 960px) {
+
+  div.wrapper {
+    width:auto;
+    margin:0;
   }
 
   header, section, footer {
