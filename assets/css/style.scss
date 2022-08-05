@@ -4,7 +4,11 @@
 @import "{{ site.theme }}";
 body {
     font-family: 'Helvetica Neue', Helvetica, Arial, serif;
-    font-size: 16px;
+    font-size: 16px /*14px*/;
+    }
+div.wrapper {
+    width:1024px;
+    margin:0 auto;
     }
 h1 {
   font-size:200% /*28px*/;
@@ -14,12 +18,9 @@ small, kbd,
   font-size:79% /*11px*/;
 }     
 .downloads a strong {
-  font-size:14px /*14px*/;
-}    
-div.wrapper {
-    width:1024px;
-    margin:0 auto;
-    }
+  font-size:100% /*14px*/;
+}
+/* from media print */
 header, section, footer {
     float:none;
     position:static;
