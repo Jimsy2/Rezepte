@@ -33,4 +33,4 @@ für 3-4 Personen
 
 Quelle: Nach einer Idee von [daElli65 auf Chefkoch](https://www.chefkoch.de/rezepte/2566081401619369/Kartoffel-Bohnen-Champignon-Pfanne.html)
 
-#vegan docs gh
+#vegan #laktosefrei
