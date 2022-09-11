@@ -31,6 +31,6 @@ für 3-4 Personen
 6. Beides weiter braten,  danach die Pilze dazugeben und weiterbraten. 
 7. Mit Knoblauch, Salz, Pfeffer und Kräutern würzen.
 
-Quelle: Nach einer Idee von daElli65 auf Chefkoch (https://www.chefkoch.de/rezepte/2566081401619369/Kartoffel-Bohnen-Champignon-Pfanne.html)
+Quelle: Nach einer Idee von [daElli65 auf Chefkoch](https://www.chefkoch.de/rezepte/2566081401619369/Kartoffel-Bohnen-Champignon-Pfanne.html)
 
 #vegan docs gh
