@@ -4,7 +4,7 @@ Kartoffel-Bohnen-Champignon-Pfanne
 
 für 3-4 Personen
 
-<img align='right' style="margin:5ex 0 1ex 1em;border-radius:8px" width="30%" 
+<img align='right' style="margin:5ex 0 1ex 1em;border-radius:8px" width="50%" 
     src="images/Kartoffel-Bohnen-Champignon-Pfanne.jpg"  />
 
 **Zutaten**
@@ -13,14 +13,13 @@ für 3-4 Personen
 600 g  Kartoffeln, festkochend
 450 g  grüne Bohnen (1 Päckchen TK-Brechbohnen)
 400 g  Champignons (frisch)
-       Öl
+       Öl für die Pfanne
 1/2 TL Knoblauchgranulat (oder eine frische Zehe)
-1,5 TL Salz und Pfeffer
-1,5 TL Oregano (getrocknet)
+  1 TL Salz
+       Pfeffer
+  1 TL Oregano (getrocknet)
 ```
 
-
-_**Anmerkung:** ._
 
 **Zubereitung** 
 
