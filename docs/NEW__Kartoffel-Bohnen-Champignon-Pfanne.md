@@ -5,7 +5,7 @@ Kartoffel-Bohnen-Champignon-Pfanne
 für 3-4 Personen
 
 <img align='right' style="margin:5ex 0 1ex 1em;border-radius:8px" width="50%" 
-    src="https://leckere-rezepte.de/images/QC-vegan.svg"  />
+    src="https://leckere-rezepte.de/images/Vegan.png"  />
 
 **Zutaten**
 
