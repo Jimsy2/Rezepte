@@ -15,12 +15,13 @@
 ```
 
 **Zubereitung:**  
-2. Den Kürbis teilen, schälen und mit dem Hobel fein raspeln. 
-3. Alle Zutaten dann nur noch in eine Schüssel geben und mit dem Mixer vermengen. 
-4. 26cm Kastenform einfetten und den Teig einfüllen. 
+
+1. Den Kürbis teilen, entkernen und fein raspeln. 
+3. Alle Zutaten in eine Schüssel geben und mit dem Mixer vermengen. 
+4. Eine Kastenform einfetten und den Teig einfüllen. 
 
 > Bei 180°C ca. 50-60 Minuten backen. Stäbchenprobe machen.
 
 
 
-Quelle: saskiarundumdieuhr.blogspot.com
+Quelle: Nach einem Rezept von saskiarundumdieuhr.blogspot.com
