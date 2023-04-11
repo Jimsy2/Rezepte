@@ -2,14 +2,15 @@
 
 
 **Zutaten:**
+
 ```
-1 Butternutkürbis
-1 große Zwiebel
-4 EL Olivenöl
-250g Bulgur (fein)
-2 Liter Brühe
-2 TL Salz
-0,5 Tl Pfeffer
+  1    Butternutkürbis
+  1    große Zwiebel
+  4 EL Olivenöl
+250 g  Bulgur (fein)
+  2 l  Brühe
+  2 TL Salz
+  ½ TL Pfeffer
 ```
 
 **Zubereitung:**
