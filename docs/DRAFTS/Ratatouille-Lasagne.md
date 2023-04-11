@@ -1,6 +1,8 @@
 Ratatouille Lasagne
 ===================
 
+<img align='right' style="margin:5ex 0 1ex 1em;border-radius:8px" width="30%" src="https://leckere-rezepte.de/images/QC-approved.svg">
+
 ```
   1    große Zwiebel
   1    Koblauchzehe
@@ -30,7 +32,7 @@ Ratatouille Lasagne
 7. Eine Auflaufform einfetten
 8. Als erstes etwas Tomaten-Gemüse-Sauce in die Form geben.
 9. Dann eine Schicht Lasagne-Nudeln einschichten.
-10. Nun abwechselnd Frischkäse, Nudelplatten und Sauec einschichten und mit Sauce abschließen.
+10. Nun abwechselnd Frischkäse, Nudelplatten und Sauce einschichten und mit Sauce abschließen.
 11. Die letzte Schicht mit den Käsescheiben belegen und backen.
 
 14.07.2017
