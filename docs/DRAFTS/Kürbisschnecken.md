@@ -7,16 +7,16 @@ Kürbis würfeln und in einem Topf mit etwas Wasser 20 min dünsten, Kürbis rau
 ### 2. Hefeteig mit Kürbis
 
 ```
-0,5        Hefe (Würfel)
-2 EL     Wasser
-80 g     Zucker
-125 ml Milch
+  1/2   Hefe Würfel
+  2 EL  Wasser
+ 80 g   Zucker
+125 ml  Milch
 125 g   Kürbispüree (Hokkaido)
 500 g   Mehl
-1 TL    Vanilleextrakt
-1          Ei
-1 TL    Salz
-80 g    Butter
+  1 TL  Vanilleextrakt
+  1     Ei
+  1 TL  Salz
+ 80 g   Butter
 ```
 
 erstellen und 1 Stunde ruhen lassen
@@ -24,13 +24,13 @@ erstellen und 1 Stunde ruhen lassen
 ### 3. Die Füllung machen
 
 ```
-2 TL    Butter
-2        saure Äpfel
-1        unbehandelte Zitrone (Saft und Schale)
-2        Zucker
-0,25 TL Ingwer (gemahlen)
-          Muskatnuss
-1 TL   Zimt
+  2 TL Butter
+  2    saure Äpfel
+  1    unbehandelte Zitrone (Saft und Schale)
+  2    Zucker
+1/4 TL Ingwer (gemahlen)
+       Muskatnuss
+  1 TL Zimt
 150 g  Kürbispüree
 ```
 
@@ -46,9 +46,9 @@ Bei 180° backen.
 ### 5. Den Karamellguss machen
 
 ```
-50 g   brauner Zucker
-2 TL   Butter
-5 EL   Sahne
+ 50 g   brauner Zucker
+  2 TL   Butter
+  5 EL   Sahne
 ```
 
 Schmelze den braunen Zucker bei mittelhoher Hitze im Topf, füge die Butter hinzu und verrühre es gründlich. Nehme den Topf vom Herd herunter und rühre die Sahne ein. Lasse es erneut auf dem Herd aufkochen und ziehe den Topf dann herunter.
