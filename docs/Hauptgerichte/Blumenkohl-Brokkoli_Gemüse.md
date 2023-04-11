@@ -3,7 +3,7 @@ Blumenkohl-Brokkoli Gemüse
 
 **Zutaten** für 4 Portionen
 
-<img align='right' style="margin:5ex 0 1ex 1em;border-radius:8px" width="50%" src="../images/Blumenkohl-Brokkoli-Gemuese.jpg">
+<!-- img align='right' style="margin:5ex 0 1ex 1em;border-radius:8px" width="50%" src="../images/Blumenkohl-Brokkoli-Gemuese.jpg" -->
 
 ```
 750 g  Blumenkohl 
