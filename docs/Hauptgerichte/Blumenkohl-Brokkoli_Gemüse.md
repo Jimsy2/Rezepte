@@ -31,4 +31,4 @@ Backen: 15 Minuten
 
 5. Das Gemüse in eine Auflaufform geben und mit der Käsesoße übergießen. Im Ofen (Gas drei; Umluft 180 °C) etwa 15 Minuten knusprig überbacken. 
 
-Nährwerte: 600 kcal, 35 g Eiweiß, 43 g Fett, 19 g Kohlenhydrate
+<!-- Nährwerte: 600 kcal, 35 g Eiweiß, 43 g Fett, 19 g Kohlenhydrate -->
