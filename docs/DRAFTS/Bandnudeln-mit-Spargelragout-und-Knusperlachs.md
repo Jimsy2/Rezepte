@@ -1,5 +1,6 @@
-Bandnudeln mit Spargelragout und Knusperlachs
----------------------------------------------
+# Bandnudeln mit Spargelragout und Knusperlachs
+
+<img align='right' style="margin:5ex 0 1ex 1em;border-radius:8px" width="40%" src="https://leckere-rezepte.de/images/QC-approved.svg">
 
 ### Zutaten
 
