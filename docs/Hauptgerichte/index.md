@@ -6,10 +6,11 @@ Hauptgerichte
 3. [Blumenkohl-Brokkoli-Gemüse](Blumenkohl-Brokkoli_Gemüse.md)
 4. [Eier in Senfsoße](Eier-in-Senfsoße.md)
 5. [Kaiserpfanne](Kaiserpfanne.md)
-6. [Maafe ohne Fleisch](Maafe-ohne-Fleisch.md)
-7. [Pasta mit Feta, Oliven und Tomaten](Pasta_mit_Feta_Oliven_Tomaten.md)
-8. [Reis-Frikadellen](Reis-Frikadellen.md)
-9. [Vegetarische Grillspieße](Vegetarische_Grillspieße.md)
-10. [Zucchini-Zitrone-Nudeln](Zucchini-Zitrone-Nudeln.md)
+6. [Kartoffel-Bohnen-Champignon-Pfanne](Kartoffel-Bohnen-Champignon-Pfanne.md)
+7. [Maafe ohne Fleisch](Maafe-ohne-Fleisch.md)
+8. [Pasta mit Feta, Oliven und Tomaten](Pasta_mit_Feta_Oliven_Tomaten.md)
+9. [Reis-Frikadellen](Reis-Frikadellen.md)
+10. [Vegetarische Grillspieße](Vegetarische_Grillspieße.md)
+11. [Zucchini-Zitrone-Nudeln](Zucchini-Zitrone-Nudeln.md)
    
 ∎  
