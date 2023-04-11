@@ -7,7 +7,7 @@ Suppen und Eintöpfe
 1. [Zwiebelhack-Eintopf (veg.)](Zwiebelhack-Eintopf-vegetarisch.md)
 1. [Linseneintopf mit Räuchertofu](Linseneintopf-mit-Räuchertofu.md)
 1. [Käse-Lauch-Suppe von becel](Käse-Lauch-Suppe.md)
-1. [Minestrone nach Jamie Oliver](Minestrone-nach-Jamie-Oliver.md)
+1. [Minestrone nach Jamie Oliver](Minestrone-nach-Jamie.md)
 1. [Rote Linsensuppe mit Curry](Rote-Linsensuppe-mit-Curry.md)
 1. [Serbische Bohnensuppe](Serbische-Bohnensuppe-vegetarisch.md)
 1. [Serbische Bohnensuppe HTML](Serbische-Bohnensuppe.html)
