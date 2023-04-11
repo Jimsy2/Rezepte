@@ -7,15 +7,15 @@ Kürbis würfeln und in einem Topf mit etwas Wasser 20 min dünsten, Kürbis rau
 ### 2. Hefeteig mit Kürbis
 
 ```
-  1/2   Hefe Würfel
-  2 EL  Wasser
+  7 g   Trockenbackhefe
+  2 EL  Wasser?
  80 g   Zucker
-125 ml  Milch
-125 g   Kürbispüree (Hokkaido)
-500 g   Mehl
-  1 TL  Vanilleextrakt
+100 ml  Vollmilch
+125 g   Kürbispüree (vorzugsweise Hokkaido)
+500 g   Weizenmehl (Type 550)
+  8 g   Vanillinzucker
   1     Ei
-  1 TL  Salz
+1/2 TL  Salz
  80 g   Butter
 ```
 
