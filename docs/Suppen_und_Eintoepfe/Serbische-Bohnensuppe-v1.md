@@ -11,7 +11,7 @@ Serbische Bohnensuppe (v1)
   250 g     Kartoffeln  
   300 g     Tomaten  
  ~~100 g~~ ~~durchwachsener Speck~~  
-    1 EL    <del>Keimöl</del> Olivenöl  
+    1 EL    ~~Keimöl~~ Olivenöl  
   1/2 TL    Salz  
     1 TL    Paprikapulver (edelsüß)  
     1 Prise getrockneter Majoran  
