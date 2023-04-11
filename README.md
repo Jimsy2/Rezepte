@@ -6,7 +6,7 @@
  - [Pizza und Flammkuchen](docs/Pizza_und_Flammkuchen/index.md)  
  - [Salate](docs/Salate/index.md)
  - [Entwürfe (DRAFTS)](docs/DRAFTS/)  
- - [Ungetestete Rezepte (RFC)](docs/UNTESTED/index.md)  
+ - [Ungetestete Rezepte](docs/UNTESTED/index.md)  
 
 ### Infos zu Nahrungsmitteln
 
