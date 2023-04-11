@@ -3,7 +3,7 @@ Serbische Bohnensuppe (vegetarisch)
 
 **Zutaten** – für 4 Personen –
 
-<pre style="font: bold 100% monospace,Courier;line-height:1.5">
+```
   250 g     Weiße Bohnen (getrocknet, über Nacht eingeweicht)
     1 Bund  Suppengrün
   250 g     Zwiebeln
@@ -22,8 +22,8 @@ Serbische Bohnensuppe (vegetarisch)
 
  Variation: Wenn man keine veg. Würstchen hat, kann man auch 
             das Salz durch Rauchsalz ersetzen.
-</pre>
-
+```
+ 
 **Vorbereitung**
 
 Bohnen mit 750 ml Wasser 12 Stunden einweichen. 
@@ -45,4 +45,4 @@ Bohnen mit 750 ml Wasser 12 Stunden einweichen.
 1. Wurst längs halbieren, in feine Scheiben schneiden und in der Suppe erhitzen
 1. Suppe mit der Petersilie bestreut servieren
 
-Idee: "Müllers Mühle":http://www.muellers-muehle.de
+Idee: "Müllers Mühle" http://www.muellers-muehle.de
