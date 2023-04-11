@@ -1,5 +1,3 @@
-Brotspieße
-----------
 
 Brotspieße
 ==========
@@ -8,7 +6,14 @@ Brotspieße
 
 **Zutaten** für 4 Personen
 ```
-360 ml
+  1    Blech-Pizzateig 550 g
+100 g  Frischkäse
+  1    Knoblauchzehe gepresst
+  1    Ei
+  5 EL frische Kräuter (z.B. Bärlauch, Estragon, Kerbel, Petersilie, Schnittlauch,...) fein geschnitten
+       Etwas Paprikapulver
+       Salz und Pfeffer gemahlen
+       Holzspieße
 ```
 
 **Zubereitung**
