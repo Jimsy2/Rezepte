@@ -3,7 +3,7 @@
 1. [dm-Möhrchenkuchen](#dm-möhrchenkuchen) Ⓥ
 1. [Spanischer Apfelkuchen](#spanischer-apfelkuchen) 🥚
 1. [Saftiger Rhabarber-Schokokuchen](#saftiger-rhabarber-schokokuchen) 🥚
-1. [Kürbisbrot](#kürbisbrot)
+1. [Kürbisbrot](Kürbisbrot.md) Ⓥ
 2. [Kürbiskuchen](Kürbiskuchen.md) 🥚
 3. [Röstzwiebelbrötchen](#röstzwiebelbrötchen)
 4. [Vollkornbrötchen](#vollkornbrötchen)
@@ -15,63 +15,6 @@
 &nbsp;
 
 
-Kürbisbrot
-==========
-
-<img align='right' style="margin:5ex 0 1ex 1em;border-radius:8px" width="50%" src="images/Kuerbisbrot.jpg">
-
-**Zutaten**
-
-```
-250 g  Kürbisfleisch (Hokkaido)
-  1 EL Wasser
-350-400 g  Mehl Typ 550
- 50 g  Zucker
- 60 g  Margarine
-       Salz
- 20 g  Hefe
-```
-
-**Zubereitung**
-
- - Den Kürbis waschen, entkernen, ggf. schälen und in Stücke schneiden
- - Mit ein wenig Wasser zu Mus kochen und abkühlen lassen.
- - Mit den übrigen Zutaten zu einem Teig verkneten. Mehl hinzugeben bis der Teig nicht mehr zu klebrig ist.
- - Kastenform fetten oder mit Backpapier auslegen und den Teig einfüllen.
- - Etwa 30 Minuten im kurz vorgewärmten Backofen gehen lassen
- - Anschließend bei 180 - 200° C etwa 50 Minuten backen.
-
-#vegan
-
-&nbsp;
-
-
-Röstzwiebelbrötchen
-===================
-
-```
- 250 g	   Mehl
- 250 g	   Quark (Magerquark)
-   1 TL	   Salz
-   1 Pck.  Backpulver
-   1       Ei
-  50 g	   Röstzwiebeln
- ```
-    
-**Zubereitung**
-
-  - Das Mehl mit dem Backpulver und dem Salz mischen.  
-  - Magerquark, Ei und Röstzwiebeln dazugeben und zu einem Teig verkneten.  
-    (Der Teig ist etwas trocken, die Brötchen trotzdem saftig).  
-  - Aus der Masse 8 kleine Brötchen formen.  
-
-**Backen**
-
-> Bei 190° C ca. 20-30 Minuten backen.
-
-Vorlage: [Chefkoch](https://www.chefkoch.de/rezepte/517131147874728/Zwiebelbrot.html)
-
-&nbsp;
 
 Vollkornbrötchen
 =================
