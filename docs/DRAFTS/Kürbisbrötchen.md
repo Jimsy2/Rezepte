@@ -18,7 +18,7 @@ Für die Verzierung
 ```
   1 Ei
     Kürbiskerne
-    Apfelkernausstecher oder backfeste Schnur
+    Apfelteiler oder backfeste Schnur
 ```
  
 ### Vorbereitung
