@@ -1,7 +1,7 @@
 Herzhafter Nudelsalat		
 ---------------------		
 		
-<img width="50%" src="images/Herzhafter_Nudelsalat.jpg">
+<img width="50%" src="../images/Herzhafter_Nudelsalat.jpg">
 
 **Zutaten** für 4 Personen
 		
