@@ -11,7 +11,7 @@ Brotspieße
   1    Knoblauchzehe gepresst
   1    Ei
   5 EL frische Kräuter
-       (z.B. Bärlauch, Estragon, Kerbel, Petersilie, Schnittlauch)
+       (z.B. Bärlauch, Petersilie, Schnittlauch)
   1 TL Paprikapulver
        Salz und Pfeffer gemahlen
        Holzspieße
