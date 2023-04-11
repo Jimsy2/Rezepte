@@ -1,4 +1,4 @@
-### 1. Kürbis pürrieren
+### 1. Kürbis pürieren
 
 Aus dem Hokkaido Püree machen (300g=150g für Teig und 150g für die Füllung).  
 Kürbis würfeln und in einem Topf mit etwas Wasser 20 min dünsten, Kürbis rausnehmen und pürieren, abkühlen lassen
