@@ -1,7 +1,7 @@
 # Rezeptsammlung
 
  - [Hauptgerichte](docs/Hauptgerichte/index.md)
- - [Suppen und Eintöpfe](docs/Suppen-und-Eintöpfe.md)
+ - [Suppen und Eintöpfe](docs/Suppen-und-Eintoepfe/index.md)
  - [Pizza und Flammkuchen](docs/Pizza_und_Flammkuchen/index.md)
  - [Salate](docs/Salate/index.md)
  - [Backwaren und Kuchen](docs/Backwaren_und_Kuchen/index.md)
