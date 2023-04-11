@@ -4,9 +4,10 @@
 1. [Spanischer Apfelkuchen](#spanischer-apfelkuchen) 🥚
 1. [Saftiger Rhabarber-Schokokuchen](#saftiger-rhabarber-schokokuchen) 🥚
 1. [Kürbisbrot](#kürbisbrot)
-1. [Röstzwiebelbrötchen](#röstzwiebelbrötchen)
-2. [Vollkornbrötchen](#vollkornbrötchen)
-3. [Zimtbrot](#zimtbrot)
+2. [Kürbiskuchen] (Kürbiskuchen.md)
+3. [Röstzwiebelbrötchen](#röstzwiebelbrötchen)
+4. [Vollkornbrötchen](#vollkornbrötchen)
+5. [Zimtbrot](#zimtbrot)
 <!-- 1. [Schmandfladen mit Kartoffel](#schmandfladen-mit-kartoffeln)
 -->
 
