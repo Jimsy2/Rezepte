@@ -22,7 +22,7 @@ Brotspieße
 1. Holzspieße bis zum Gebrauch in kaltes Wasser einlegen, damit sie beim Backen nicht verbrennen.
 2. Frischkäse, Knoblauch, Eigelb und Kräuter verrühren. Mit Salz, Pfeffer und Paprikapulver abschmecken.
 3. Den Teig mittig halbieren. Masse auf eine Hälfte streichen und die zweite Hälfte darauf legen. 
-4. Teig der Länge nach in ca. 8 gleich breite Streifen schneiden.
+4. Teig der Länge nach in ca. daumenbreite Streifen schneiden.
 5. Teigstücke schlangenförmig auf einem Holzspieß aufstecken. Mit etwas Abstand zueinander auf ein mit Backpapier belegtes Backblech legen. Mit Eiweiß bestreichen.
 6. Im Backofen 15 – 20 Min. auf mittlerer Schiene knusprig backen. Warm oder ausgekühlt genießen.
 
