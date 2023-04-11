@@ -30,7 +30,7 @@ Bohnen mit 750 ml Wasser 12 Stunden einweichen.
 
 **Zubereitung**
 
-1. Die eingeweichten Bohnen im Einweichwasser bei schwacher Hitze 1 1/2 Stunden kochen lassen.
+1. Die eingeweichten Bohnen im Einweichwasser bei schwacher Hitze 1½ Stunden kochen lassen.
 1. Zwiebeln fein würfeln, glasig anbraten
 1. Karotte (vom Suppengrün) fein würfeln, auf kleiner Flamme dazugeben 
 1. Kartoffeln schälen, fein würfeln und dazugeben
