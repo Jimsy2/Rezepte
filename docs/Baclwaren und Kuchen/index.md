@@ -4,7 +4,7 @@
 1. [Spanischer Apfelkuchen](#spanischer-apfelkuchen) 🥚
 1. [Saftiger Rhabarber-Schokokuchen](#saftiger-rhabarber-schokokuchen) 🥚
 1. [Kürbisbrot](#kürbisbrot)
-2. [Kürbiskuchen] (Kürbiskuchen.md)
+2. [Kürbiskuchen](Kürbiskuchen.md) 🥚
 3. [Röstzwiebelbrötchen](#röstzwiebelbrötchen)
 4. [Vollkornbrötchen](#vollkornbrötchen)
 5. [Zimtbrot](#zimtbrot)
