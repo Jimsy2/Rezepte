@@ -5,7 +5,7 @@
 1. [Saftiger Rhabarber-Schokokuchen](#saftiger-rhabarber-schokokuchen) 🥚
 1. [Kürbisbrot](Kürbisbrot.md) Ⓥ
 2. [Kürbiskuchen](Kürbiskuchen.md) 🥚
-3. [Röstzwiebelbrötchen](#röstzwiebelbrötchen)
+3. [Röstzwiebelbrötchen](Röstzwiebelbrötchen.md)
 4. [Vollkornbrötchen](#vollkornbrötchen)
 5. [Zimtbrot](#zimtbrot)
 <!-- 1. [Schmandfladen mit Kartoffel](#schmandfladen-mit-kartoffeln)
@@ -13,41 +13,6 @@
 
 
 &nbsp;
-
-
-
-Vollkornbrötchen
-=================
-
-```
- 100 g    Vollkornweizenmehl 
- 400 g    Weizennmehl
- 300 ml   Wasser
-   1 Pck. Trockenhefe
-   1 TL   Salz
-   1 TL   Honig
-```
-   
-**Zubereitung**
-
- -  Die Hefe im Wasser auflösen.  
- -  Honig zugeben und das Salz einstreuen.  
- -  Unter ständigem Rühren das Mehl nach und nach zugeben.  
- -  Den Teig 30 Minuten gehen lassen.  
- -  9 kleine Brötchen daraus formen.  
- -  Auf ein mit Backpapier ausgelegtes Blech legen und 
-nochmal 10 Min. gehen lassen.  
-
-**Backen**
-
-> Im nicht vorgeheizten Backofen bei 200° backen.  
-> Die Backzeit beträgt ca. 25-30 min.
-
-
-Vorlage: [Chefkoch](https://www.chefkoch.de/rezepte/662201168007807/Die-schnellsten-Broetchen-der-Welt.html)
-
-&nbsp;
-
 
 
 Zimtbrot
