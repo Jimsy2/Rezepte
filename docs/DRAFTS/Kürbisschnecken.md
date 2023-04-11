@@ -37,7 +37,7 @@ Schneide die Äpfel in 5 mm Würfel und dünste sie mit der Butter, der Zitronen
 
 ### 4. Teig ausrollen
 
-Rolle den Teig auf einer bemehlten Arbeitsfläche auf eine Größe von 50×60 cm aus. Bestreiche ihn mit der Füllung und rolle ihn auf (Fang bei der längeren Seite an). Die Rolle dann in 3 cm breite Streifen schneiden.
+Rolle den Teig auf einer bemehlten Arbeitsfläche auf eine Größe von 50×60 cm aus. Bestreiche ihn mit der Füllung und rolle ihn auf (Fang bei der längeren Seite an). Die Rolle dann in 2 cm breite Streifen schneiden.
 Die Rollen auf ein Backblech setzen und nochmal gehen lassen.
 Bei 180° backen. 
 
