@@ -20,7 +20,7 @@ Zutaten für die Füllung
 
 ```
  50 g    Zucker
-1 1/2 TL   Zimt (gemahlen)
+ 1½ TL   Zimt (gemahlen)
   2 TL   Mehl
   
 ```
