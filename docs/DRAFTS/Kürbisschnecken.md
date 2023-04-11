@@ -24,7 +24,7 @@ erstellen und 1 Stunde ruhen lassen
 
 ```
   2 TL Butter
-  2    saure Äpfel
+  2    große saure Äpfel
   1    unbehandelte Zitrone (Saft und Schale)
   2 EL Zucker
 1/4 TL Ingwer (gemahlen)
