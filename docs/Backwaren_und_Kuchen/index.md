@@ -9,8 +9,9 @@
 ## Kuchen
 
 1. [dm-Möhrchenkuchen](dm-Möhrchenkuchen.md) Ⓥ
-2. [Spanischer Apfelkuchen](Spanischer-Apfelkuchen.md) 🥚
-3. [Saftiger Rhabarber-Schokokuchen](Saftiger-Rhabarber-Schokokuchen.md) 🥚
-4. [Kürbiskuchen](Kürbiskuchen.md) 🥚
+2. [Kürbisschnecken](Kürbisschnecken.md) 🥚
+3. [Spanischer Apfelkuchen](Spanischer-Apfelkuchen.md) 🥚
+4. [Saftiger Rhabarber-Schokokuchen](Saftiger-Rhabarber-Schokokuchen.md) 🥚
+5. [Kürbiskuchen](Kürbiskuchen.md) 🥚
 
 ____ 
