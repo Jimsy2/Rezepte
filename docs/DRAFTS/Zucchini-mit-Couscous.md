@@ -1,7 +1,7 @@
 Zucchini mit Couscous gefüllt
 =============================
 
-<img align='right' style="margin:5ex 0 1ex 1em;border-radius:8px" width="40%" src="images/Zucchini.jpg">
+<img align='right' style="margin:5ex 0 1ex 1em;border-radius:8px" width="40%" src="../images/Zucchini.jpg">
 
 **Zutaten** für 4 Personen
 ```
@@ -30,6 +30,6 @@ Zucchini mit Couscous gefüllt
 2. Zucchini längs halbieren. Kerne mit einem Teelöffel herauslösen und hacken. 
 3. Die Zwiebeln schälen und fein hacken. Zwiebel in Öl anschwitzen, Zucchinifleisch und Tomaten dazugeben und mit Instantbrühe sowie dem Knoblauchgranulat kurz aufkochen. Mit Salzen und Pfeffer abschmecken und in eine Auflaufform geben.
 4. Zucchinihälften in die Form setzen und mit der Couscous-Masse füllen.  
-5. Bei 180 Grad Umluft 30 Minuten im Ofen garen.
+5. Bei 180 Grad Umluft 30 Minuten im Ofen garen.a
 
 <p align=right>nach einem Rezept aus Schrot&Korn 8/2011 </p>
