@@ -5,7 +5,7 @@
  - [Suppen und Eintöpfe](docs/Suppen_und_Eintoepfe/index.md)  
  - [Pizza und Flammkuchen](docs/Pizza_und_Flammkuchen/index.md)  
  - [Salate](docs/Salate/index.md)
- - [Entwürfe (DRAFTS)](docs/Drafts/index.md)  
+ - [Entwürfe (DRAFTS)](docs/Drafts/)  
  - [Ungetestete Rezepte (RFC)](docs/UNTESTED/index.md)  
 
 ### Infos zu Nahrungsmitteln
