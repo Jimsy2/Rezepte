@@ -1,7 +1,7 @@
 Hauptgerichte
 =============
 
-1. [Auberginen-Paprika-Nudeln mit Hüttenkäse](#auberginen-paprika-nudeln-mit-hüttenkäse)
+1. [Auberginen-Paprika-Nudeln mit Hüttenkäse](Auberginen-Paprika-Nudeln.md)
 1. [Maafe ohne Fleisch](#maafe-ohne-fleisch)
 1. [Kaiserpfanne](#kaiserpfanne)
 2. [Aloo Gobi Tomater](#aloo-gobi-tomater)
@@ -15,92 +15,9 @@ Hauptgerichte
    <p align="center"><br><br><br>____<br><br></p>  
 
 
-Auberginen-Paprika-Nudeln mit Hüttenkäse
-------------------
 
-<img align='right' style="margin:5ex 0 1ex 1em;border-radius:8px" width="50%" src="../images/Auberginen-Paprika-Pasta.jpg">
-
-**Zutaten** für 4 Personen
-
-```
-  1    Aubergine
-  2    Paprika (rot und gelb)
-250 g  Champignons
-  2    Knoblauchzehe
-  4    Schalotten
-  2 EL Rapsöl
-250 ml Gemüsebrühe
-500 g  Fusilli Nudeln (Spirali)
-100 g  Parmesankäse (gerieben)
-  1    Kräuter nach Belieben
-       (Petersilie, Basilikum, Thymian)
-200 g  Hüttenkäse
-       Salz und Pfeffer
-```
-
-**Zubereitung**
-
-1. Auberginen, Champignons und Paprika waschen, putzen und in 2 cm große Würfel schneiden. Schalotten und Knoblauch schälen und klein schneiden.
-
-2. Öl erhitzen, Zwiebeln und Knoblauch andünsten, Gemüse dazugeben und etwa 5 min anbraten. Anschließend Gemüsebrühe zugeben und Flamme klein stellen.
-
-3. Pasta in Salzwasser nach Packungsanweisung al dente kochen.
-
-4. Hüttenkäse, Kräuter und die Hälfte vom Parmesan zum Gemüse geben, mit Pfeffer und Salz abschmecken.
-
-5. Die fertige Pasta zum Gemüse geben und vermengen. Mit dem restlichem Parmesan bestreut servieren.
-
-> Quelle: Nach dem Rezept aus Sven Bachs Jobrezepte
-
-#lacto-vegetarisch
-
-
-   <p align="center"><br><br><br>＊　＊　＊<br><br></p>  
 
        
-Maafe ohne Fleisch
-------------------
-
-<p>Maafe (franz. Maf&eacute;) ist ein westafrikanisches Gericht und bedeutet w&ouml;rtlich &uuml;bersetzt &quot;Erdnussbutterso&szlig;e&quot;. Es ist ein im Senegal und Gambia beliebtes Gericht und existiert in vielen Variationen.</p>
-
-<img align='right' style="margin:5ex 0 1ex 1em;border-radius:8px" width="50%" src="../images/Maafe-ohne-Fleisch.jpg">
-
-**Zutaten** für 4 Personen
-
-```
-250 g  Kohlrabi
-250 g  Karotte(n)
-400 g  Kartoffel(n)
-100 g  Zwiebel(n)
-  2    Knoblauchzehe(n)
-  2 EL Olivenöl
-  1 EL Currypulver
-350 ml Gemüsebrühe
-  2 EL Erdnussbutter
-  1 EL Tomatenmark
-  2 EL Sojasauce
-       Salz und Pfeffer
-       Chilipulver
-```
-
-**Zubereitung**
-
-   1. Das Gemüse schälen. Kohlrabi, Karotten und Kartoffeln in mundgerechte Stücke schneiden,
-      Zwiebeln würfeln, Knoblauch fein hacken.
-   2. In einem großen Topf das Öl erhitzen und das Currypulver kurz anbraten, dann Zwiebeln und 
-      Knoblauch zugeben und glasig dünsten. Anschließend das Gemüse und die Kartoffeln 
-      zugeben und kurz mit anbraten. Erdnussbutter, Tomatenmark, Sojasoße zugeben und mit 
-      Gemüsebrühe ablöschen. Kurz aufkochen lassen, zudecken und bei kleiner 
-      Hitze 20 - 30 Min. kochen, bis das Gemüse gar, aber noch bissfest ist. Ab und zu 
-      umrühren. Zum Schluss mit Salz, Pfeffer und Chili abschmecken.
-
-  Dazu wird meist Reis gegessen. Fladenbrot passt ebenfalls gut dazu. 
-  In ein authentisches Maf&eacute; kommt wesentlich mehr Erdnussbutter als hier verwendet wird.
-  
-> Quelle: Nach dem Rezept &quot;Vegetarisches Maf&eacute;&quot; von honig-tine
-
-#vegan
-
 
    <p align="center"><br><br><br>＊　＊　＊<br><br></p>  
 
