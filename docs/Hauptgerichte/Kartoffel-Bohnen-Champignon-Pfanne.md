@@ -5,7 +5,7 @@ Kartoffel-Bohnen-Champignon-Pfanne
 für 3-4 Personen
 
 <img align='right' style="margin:5ex 0 1ex 1em;border-radius:8px" width="50%" 
-    src="images/Kartoffel-Bohnen-Champignon-Pfanne.jpg"  />
+    src="../images/Kartoffel-Bohnen-Champignon-Pfanne.jpg"  />
 
 **Zutaten**
 
