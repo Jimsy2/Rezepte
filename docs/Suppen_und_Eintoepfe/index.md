@@ -4,7 +4,7 @@ Suppen und Eintöpfe
 ### Inhaltsverzeichnis 
 
 1. [Bohneneintopf Languedoc](Bohneneintopf-Languedoc.md)
-1. [Käse-Lauch-Suppe von becel](Käse-Lauch-Suppe.md)
+1. [Käse-Lauch-Suppe](Käse-Lauch-Suppe.md)
 2. [Kürbis Bulgur Suppe](Kürbis-Bulgur-Suppe.md)
 3. [Linseneintopf mit Räuchertofu](Linseneintopf-mit-Räuchertofu.md)
 4. [Minestrone nach Jamie Oliver](Minestrone-nach-Jamie.md)
