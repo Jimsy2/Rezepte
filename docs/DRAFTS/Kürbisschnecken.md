@@ -8,7 +8,6 @@ Kürbis würfeln und in einem Topf mit etwas Wasser 20 min dünsten, Kürbis rau
 
 ```
   7 g   Trockenbackhefe
-  2 EL  Wasser?
  80 g   Zucker
 100 ml  Vollmilch
 125 g   Kürbispüree (vorzugsweise Hokkaido)
@@ -27,7 +26,7 @@ erstellen und 1 Stunde ruhen lassen
   2 TL Butter
   2    saure Äpfel
   1    unbehandelte Zitrone (Saft und Schale)
-  2    Zucker
+  2 EL Zucker
 1/4 TL Ingwer (gemahlen)
        Muskatnuss
   1 TL Zimt
@@ -38,8 +37,8 @@ Schneide die Äpfel in 5 mm Würfel und dünste sie mit der Butter, der Zitronen
 
 ### 4. Teig ausrollen
 
-Rolle den Teig auf einer bemehlten Arbeitsfläche auf eine Größe von 50×60 cm aus. Bestreiche ihn mit der Füllung und schneide ihn in 3 cm breite Streifen.
-Aufrollen, auf ein Backblech setzen und nochmal gehen lassen.
+Rolle den Teig auf einer bemehlten Arbeitsfläche auf eine Größe von 50×60 cm aus. Bestreiche ihn mit der Füllung und rolle ihn auf (Fang bei der längeren Seite an). Die Rolle dann in 3 cm breite Streifen schneiden.
+Die Rollen auf ein Backblech setzen und nochmal gehen lassen.
 Bei 180° backen. 
 
 
