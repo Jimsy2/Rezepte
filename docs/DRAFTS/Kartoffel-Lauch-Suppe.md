@@ -1,6 +1,8 @@
 Kartoffel-Lauch-Suppe
 =====================
 
+<img align='right' style="margin:5ex 0 1ex 1em;border-radius:8px" width="30%" src="https://leckere-rezepte.de/images/QC-approved.svg">
+
 **Zutaten** für 2 Personen – ca. 45 min
 ```
   2 Schalotten (oder halbe Gemüsezwiebel)
