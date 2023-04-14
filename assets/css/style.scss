@@ -90,7 +90,7 @@ table {
   border: 1px solid silver;
 }
 
-tr:nth-child(odd) {
+tbody>tr:nth-child(odd) {
   background-color: #f2f2f2;
 }
 
