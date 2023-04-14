@@ -23,5 +23,6 @@ Brotspieße
 4. Teig der Länge nach in ca. daumenbreite Streifen schneiden.
 5. Teigstücke schlangenförmig auf einem Holzspieß aufstecken. Mit etwas Abstand zueinander auf ein mit Backpapier belegtes Backblech legen. Mit Eiweiß bestreichen.
 6. Im Backofen 15 – 20 Min. auf mittlerer Schiene knusprig backen. Warm oder ausgekühlt genießen.
+7. 
 
-
+> Quelle: Dies ist eine Abwandlung von Tante Fanny's Rezept [Frühlingskräuterspieße](https://www.tantefanny.at/rezept/fruehlingskraeuter-spiesse/) 
