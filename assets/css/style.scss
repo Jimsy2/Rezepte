@@ -97,10 +97,12 @@ tr:nth-child(even) {
 th, td {
   text-align:left;
   padding:5px 10px;
-  border-bottom:1px solid #e5e5e5;
   border: 1px solid silver;
   vertical-align: top;
 }
+
+th { border-bottom:2pt solid #e5e5e5;
+ }
 
 dt {
   color:#444;
