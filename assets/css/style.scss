@@ -90,7 +90,7 @@ table {
   border: 1px solid silver;
 }
 
-tr:nth-child(even) {
+tr:nth-child(odd) {
   background-color: #f2f2f2;
 }
 
@@ -101,7 +101,7 @@ th, td {
   vertical-align: top;
 }
 
-th { border-bottom:2pt solid #e5e5e5;
+th { border-bottom:2pt solid silver;
  }
 
 dt {
