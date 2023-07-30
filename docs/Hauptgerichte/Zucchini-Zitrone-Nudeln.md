@@ -11,7 +11,7 @@ Zucchini-Zitrone-Nudeln
   2 EL Olivenöl
   1 Zitrone, unbehandelt, Saft  
     und abgeriebene Schale davon
- 75 g  Hartkäse, gerieben
+ 75 g  Hartkäse, gerieben (Parmesan oder Pecorino)
   2 Zehen Knoblauch, gehackt 
     oder gepresst
   1 Bund Petersilie
@@ -20,7 +20,7 @@ Zucchini-Zitrone-Nudeln
 
 **Zubereitung**
 
-Die Nudeln nach Packungsanweisung bissfest kochen. Die Zucchini in lange, dünne, ca. 1 cm breite Streifen schneiden und in einer großen Pfanne im heißen Öl anbraten, bis sie gebräunt sind. Abgeriebene Zitronenschale, gehackten Knoblauch und dann die gehackte Petersilie zugeben, kurz weiter braten, mit dem Zitronensaft ablöschen. Die Zucchini unter die abgetropften Nudeln mischen. Den Parmesan bzw. den Pecorino unterrühren und mit Pfeffer und evtl. Salz abschmecken.
+Die Nudeln nach Packungsanweisung bissfest kochen. Die Zucchini in lange, dünne, ca. 1 cm breite Streifen schneiden und in einer großen Pfanne im heißen Öl anbraten, bis sie gebräunt sind. Abgeriebene Zitronenschale, gehackten Knoblauch und dann die gehackte Petersilie zugeben, kurz weiter braten und mit dem Zitronensaft ablöschen. Die Zucchini unter die abgetropften Nudeln mischen. Den gerieben Hartkäse unterrühren und mit Pfeffer und evtl. Salz abschmecken.
 
 
    <img align='right' style="margin:5ex 0 1ex 1em;border-radius:8px" width="50%" src="images/Zucchini-Zitrone-Nudeln-Variation.jpg">
