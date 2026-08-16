@@ -45,4 +45,4 @@ Bohnen mit 750 ml Wasser 12 Stunden einweichen.
 1. Wurst längs halbieren, in feine Scheiben schneiden und in der Suppe erhitzen
 1. Suppe mit der Petersilie bestreut servieren
 
-Idee: "Müllers Mühle" http://www.muellers-muehle.de
+Nach einem Rezept von "Müllers Mühle" http://www.muellers-muehle.de
