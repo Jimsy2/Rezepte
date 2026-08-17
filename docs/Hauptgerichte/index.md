@@ -13,5 +13,6 @@ Hauptgerichte
 10. [Reis-Frikadellen](Reis-Frikadellen.md)
 11. [Vegetarische Grillspieße](Vegetarische_Grillspieße.md)
 12. [Zucchini-Zitrone-Nudeln](Zucchini-Zitrone-Nudeln.md)
+13. [Zucchinipuffer (Mücver)](Zucchinipuffer.md)
    
 ∎  
