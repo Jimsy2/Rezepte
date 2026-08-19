@@ -4,6 +4,7 @@ Hauptgerichte
 1. [Aloo Gobi Tomater](Aloo-Gobi-Tomater.md)
 2. [Auberginen-Paprika-Nudeln mit Hüttenkäse](Auberginen-Paprika-Nudeln.md)
 3. [Blumenkohl-Brokkoli-Gemüse](Blumenkohl-Brokkoli_Gemüse.md)
+14. [Bunter Nudelauflauf.md](Bunter-Nudelauflauf)
 4. [Eier in Senfsoße](Eier-in-Senfsoße.md)
 5. [Kaiserpfanne](Kaiserpfanne.md)
 6. [Kartoffel-Bohnen-Champignon-Pfanne](Kartoffel-Bohnen-Champignon-Pfanne.md)
